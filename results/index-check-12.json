@@ -1,24 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-16T19:15:54.355Z",
-  "indexStats": "Khoảng 25 kết quả (0,11 giây) ",
+  "timestamp": "2026-05-16T23:03:31.905Z",
+  "indexStats": "Khoảng 27 kết quả (0,12 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/cam-on/",
     "https://hoatuoidanangnhanhi.com/danh-muc/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
     "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/qua-tang/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-chia-buon/",
-    "https://hoatuoidanangnhanhi.com/san-pham/bo-hoa-baby-hong/"
+    "https://hoatuoidanangnhanhi.com/danh-muc/qua-tang/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-  "clickedPosition": 5,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
+  "clickedPosition": 8,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-  "landedTitle": "Chính sách đổi trả hàng | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://www.google.com/search?q=site:hoatuoidanangnhanhi.com&hl=vi&gl=vn&sei=tfcIapDNCNyi5NoP3uWI4QM",
+  "landedTitle": "site:hoatuoidanangnhanhi.com - Tìm trên Google",
   "brandRank": 0
 }
