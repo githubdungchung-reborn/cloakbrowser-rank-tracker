@@ -1,0 +1,124 @@
+name: Google Ranking Check
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # every 30 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  TARGET_DOMAIN: ${{ secrets.TARGET_SITE }}
+
+jobs:
+  check-ranking:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Chromium system deps
+        run: |
+          sudo apt-get update && sudo apt-get install -y \
+            libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 \
+            libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 \
+            libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2 \
+            libatspi2.0-0 libxshmfence1 fonts-noto-color-emoji \
+            fonts-freefont-ttf fonts-unifont
+
+      - name: Install CloakBrowser
+        run: npm install
+
+      - name: Run ranking check (shard ${{ matrix.shard }})
+        env:
+          MATRIX_INDEX: ${{ matrix.shard }}
+          MATRIX_TOTAL: '3'
+        run: node check-ranking.mjs
+
+      - name: Upload shard results
+        uses: actions/upload-artifact@v4
+        with:
+          name: shard-${{ matrix.shard }}
+          path: results/shard-*.json
+          retention-days: 1
+
+  site-index-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Chromium system deps
+        run: |
+          sudo apt-get update && sudo apt-get install -y \
+            libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 \
+            libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 \
+            libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2 \
+            libatspi2.0-0 libxshmfence1 fonts-noto-color-emoji \
+            fonts-freefont-ttf fonts-unifont
+
+      - name: Install CloakBrowser
+        run: npm install
+
+      - name: Check Google index + click verify
+        env:
+          TARGET_DOMAIN: ${{ secrets.TARGET_SITE }}
+        run: node check-index.mjs
+
+      - name: Upload index results
+        uses: actions/upload-artifact@v4
+        with:
+          name: index-check
+          path: results/index-check.json
+          retention-days: 1
+
+  merge-and-commit:
+    runs-on: ubuntu-latest
+    needs: [check-ranking, site-index-check]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+          merge-multiple: true
+
+      - name: Assemble results
+        run: |
+          mkdir -p results
+          find artifacts/ -name 'shard-*.json' -exec cp {} results/ \;
+          find artifacts/ -name 'index-check.json' -exec cp {} results/ \;
+          # Restore history from repo
+          git checkout -- results/history.jsonl 2>/dev/null || true
+
+      - name: Install deps
+        run: npm install
+
+      - name: Generate report
+        env:
+          TARGET_DOMAIN: ${{ secrets.TARGET_SITE }}
+        run: node merge-results.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "Rank Tracker"
+          git config user.email "bot@rank-tracker"
+          git add results/ REPORT.md
+          git diff --staged --quiet || git commit -m "rank update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

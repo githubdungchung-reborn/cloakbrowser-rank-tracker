@@ -1,0 +1,9 @@
+{
+  "name": "cloakbrowser-rank-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cloakbrowser": "^0.3.28",
+    "playwright-core": "^1.52.0"
+  }
+}
