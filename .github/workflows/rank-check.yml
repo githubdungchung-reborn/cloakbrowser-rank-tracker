@@ -37,7 +37,7 @@ jobs:
         env:
           MATRIX_INDEX: ${{ matrix.shard }}
           MATRIX_TOTAL: '3'
-          MAX_PAGES: '5'
+          MAX_PAGES: '20'
         run: node check-ranking.mjs
 
       - name: Upload shard results
