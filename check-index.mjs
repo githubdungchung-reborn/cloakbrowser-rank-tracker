@@ -3,6 +3,8 @@ import { writeFileSync, mkdirSync } from 'fs';
 
 const TARGET_DOMAIN = process.env.TARGET_DOMAIN;
 if (!TARGET_DOMAIN) { console.error('TARGET_DOMAIN env required'); process.exit(1); }
+const runIndex = process.env.MATRIX_INDEX || '0';
+console.log(`=== Run #${runIndex} ===`);
 
 const browser = await launch({ headless: true, humanize: true });
 const context = await browser.newContext({ viewport: { width: 1920, height: 1080 }, locale: 'vi-VN' });
@@ -87,7 +89,7 @@ await browser.close();
 
 // Save results
 mkdirSync('results', { recursive: true });
-writeFileSync('results/index-check.json', JSON.stringify({
+writeFileSync(`results/index-check-${runIndex}.json`, JSON.stringify({
   domain: TARGET_DOMAIN,
   timestamp: new Date().toISOString(),
   indexStats,
