@@ -16,26 +16,39 @@ await page.goto(`https://www.google.com/search?q=site:${encodeURIComponent(TARGE
 await new Promise(r => setTimeout(r, 3000));
 
 const indexStats = await page.evaluate(() => document.querySelector('#result-stats')?.innerText || 'N/A');
-const indexedUrls = await page.evaluate((domain) =>
+
+// Collect all matching links with their position index on the page
+const allLinks = await page.evaluate((domain) =>
   Array.from(document.querySelectorAll('div#search a[href]'))
-    .map(a => a.href)
-    .filter(h => h.includes(domain))
-    .slice(0, 15), TARGET_DOMAIN);
+    .map((a, i) => ({ href: a.href, position: i }))
+    .filter(h => h.href.includes(domain)), TARGET_DOMAIN);
+const indexedUrls = allLinks.map(h => h.href);
 console.log('Index stats:', indexStats);
 console.log('Indexed URLs:', indexedUrls.length);
-indexedUrls.forEach(u => console.log(' ', u));
+indexedUrls.forEach((u, i) => console.log(`  [${i}] ${u}`));
 
-// 2. Click first result and verify
+// 2. Click a RANDOM result and verify
 let clickVerified = false;
 let landedUrl = '';
 let landedTitle = '';
+let clickedPosition = -1;
+let clickedUrl = '';
 
-if (indexedUrls.length > 0) {
-  console.log(`\nClicking first result: ${indexedUrls[0]}`);
+if (allLinks.length > 0) {
+  // Pick a random index from the results
+  const randomIndex = Math.floor(Math.random() * allLinks.length);
+  const target = allLinks[randomIndex];
+  clickedPosition = target.position;
+  clickedUrl = target.href;
+
+  console.log(`\nRandom pick: result #${randomIndex + 1} of ${allLinks.length} (page position ${target.position})`);
+  console.log(`Clicking: ${target.href}`);
+
   try {
-    const firstLink = await page.$(`div#search a[href*="${TARGET_DOMAIN}"]`);
-    if (firstLink) {
-      await firstLink.click();
+    // Use nth selector to click the exact link at this page position
+    const allAnchors = await page.$$('div#search a[href]');
+    if (allAnchors[target.position]) {
+      await allAnchors[target.position].click();
       await page.waitForLoadState('domcontentloaded', { timeout: 15000 });
       await new Promise(r => setTimeout(r, 2000));
 
@@ -51,30 +64,7 @@ if (indexedUrls.length > 0) {
     console.log(`Click error: ${err.message}`);
   }
 } else {
-  // Try clicking even if filter didn't match — search by href directly
-  console.log('\nNo URLs matched filter, trying direct selector...');
-  try {
-    const firstLink = await page.$(`div#search a[href*="${TARGET_DOMAIN}"]`);
-    if (firstLink) {
-      const href = await firstLink.getAttribute('href');
-      console.log(`Found link: ${href}`);
-      await firstLink.click();
-      await page.waitForLoadState('domcontentloaded', { timeout: 15000 });
-      await new Promise(r => setTimeout(r, 2000));
-
-      landedUrl = page.url();
-      landedTitle = await page.title();
-      clickVerified = landedUrl.includes(TARGET_DOMAIN);
-
-      console.log(`Landed URL: ${landedUrl}`);
-      console.log(`Landed title: ${landedTitle}`);
-      console.log(`Click verified: ${clickVerified}`);
-    } else {
-      console.log('No link found for target domain');
-    }
-  } catch (err) {
-    console.log(`Click error: ${err.message}`);
-  }
+  console.log('\nNo matching URLs found in search results');
 }
 
 // 3. Go back and check brand search
@@ -103,6 +93,8 @@ writeFileSync('results/index-check.json', JSON.stringify({
   indexStats,
   indexedCount: indexedUrls.length,
   indexedUrls,
+  clickedUrl,
+  clickedPosition,
   clickVerified,
   landedUrl,
   landedTitle,
