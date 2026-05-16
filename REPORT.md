@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-16T21:04:46.912Z
+**Updated:** 2026-05-16T22:03:50.027Z
 
 ## Keyword Rankings
 
@@ -57,15 +57,15 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| / | 3 | Yes |
+| / | 4 | Yes |
 | /danh-muc/hoa-chia-buon/ | 3 | Yes |
 | /chinh-sach-bao-hanh/ | 3 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 3 | Yes |
 | /chuyen-muc/tin-tuc/ | 2 | Yes |
-| /danh-muc/qua-tang/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /danh-muc/ | 1 | Yes |
 | /cam-on/ | 1 | Yes |
+| /danh-muc/qua-tang/ | 1 | Yes |
 
 ### Click Detail
 
@@ -83,7 +83,7 @@
 | #9 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #10 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #11 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #12 | /danh-muc/qua-tang/ | Quà tặng | Hoa Tươi Đà Nẵng | Yes |
+| #12 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #13 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
 | #14 | /chinh-sach-bao-hanh/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #15 | /cam-on/ | Cảm ơn bạn đã gửi yêu cầu | Hoa Tươi Đà  | Yes |
