@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '*/30 * * * *'   # every 30 minutes
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
@@ -92,8 +94,8 @@ jobs:
           mkdir -p results
           find artifacts/ -name 'shard-*.json' -exec cp {} results/ \;
           find artifacts/ -name 'index-check.json' -exec cp {} results/ \;
-          # Restore history from repo
-          git checkout -- results/history.jsonl 2>/dev/null || true
+          # Restore history from repo (may not exist yet)
+          git checkout -- results/history.jsonl 2>/dev/null || touch results/history.jsonl
 
       - name: Install deps
         run: npm install
