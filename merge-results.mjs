@@ -7,14 +7,25 @@ const resultsDir = 'results';
 const shardFiles = readdirSync(resultsDir).filter(f => f.startsWith('shard-') && f.endsWith('.json'));
 const allResults = [];
 for (const file of shardFiles) {
-  allResults.push(...JSON.parse(readFileSync(`${resultsDir}/${file}`, 'utf-8')));
+  try {
+    allResults.push(...JSON.parse(readFileSync(`${resultsDir}/${file}`, 'utf-8')));
+  } catch (e) {
+    console.warn(`Warning: could not parse ${file}: ${e.message}`);
+  }
 }
 allResults.sort((a, b) => a.keyword.localeCompare(b.keyword));
 const ranked = allResults.filter(r => r.position > 0).length;
 
 // === Index checks ===
 const indexFiles = readdirSync(resultsDir).filter(f => f.startsWith('index-check-') && f.endsWith('.json'));
-const indexChecks = indexFiles.map(f => JSON.parse(readFileSync(`${resultsDir}/${f}`, 'utf-8')));
+const indexChecks = [];
+for (const f of indexFiles) {
+  try {
+    indexChecks.push(JSON.parse(readFileSync(`${resultsDir}/${f}`, 'utf-8')));
+  } catch (e) {
+    console.warn(`Warning: could not parse ${f}: ${e.message}`);
+  }
+}
 const clickVerified = indexChecks.filter(c => c.clickVerified).length;
 const clickFailed = indexChecks.filter(c => !c.clickVerified).length;
 
@@ -41,12 +52,14 @@ md += `**Updated:** ${timestamp}\n\n`;
 
 // Keyword rankings table
 md += `## Keyword Rankings\n\n`;
-md += `| # | Keyword | Rank | Top 3 Competitors |\n`;
-md += `|---|---------|------|--------------------|\n`;
+md += `| # | Keyword | Rank | Page | Searched | Top 3 Competitors |\n`;
+md += `|---|---------|------|------|----------|--------------------|\n`;
 allResults.forEach((r, i) => {
   const rank = r.position > 0 ? `**#${r.position}**` : 'NOT FOUND';
+  const pg = r.page || '-';
+  const searched = r.pagesSearched ? `${r.pagesSearched}p` : '-';
   const comp = r.topCompetitors?.slice(0, 3).join(', ') || '-';
-  md += `| ${i + 1} | ${r.keyword} | ${rank} | ${comp} |\n`;
+  md += `| ${i + 1} | ${r.keyword} | ${rank} | ${pg} | ${searched} | ${comp} |\n`;
 });
 md += `\n**Visibility:** ${ranked}/${allResults.length} keywords ranking (${Math.round(ranked / allResults.length * 100)}%)\n`;
 

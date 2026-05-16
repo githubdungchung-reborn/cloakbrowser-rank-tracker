@@ -2,7 +2,7 @@ name: Google Ranking Check
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 minutes
+    - cron: '7 * * * *'      # every hour (minute 7 to avoid :00 crowding)
   workflow_dispatch:
   push:
     branches: [main]
@@ -37,6 +37,7 @@ jobs:
         env:
           MATRIX_INDEX: ${{ matrix.shard }}
           MATRIX_TOTAL: '3'
+          MAX_PAGES: '5'
         run: node check-ranking.mjs
 
       - name: Upload shard results
@@ -99,8 +100,10 @@ jobs:
           mkdir -p results
           find artifacts/ -name 'shard-*.json' -exec cp {} results/ \;
           find artifacts/ -name 'index-check-*.json' -exec cp {} results/ \;
-          # Restore history from repo (may not exist yet)
+          # Restore only history from repo (other files come from artifacts)
           git checkout -- results/history.jsonl 2>/dev/null || touch results/history.jsonl
+          echo "--- Assembled files ---"
+          ls -la results/
 
       - name: Install deps
         run: npm install
