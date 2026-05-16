@@ -16,14 +16,14 @@ await page.goto(`https://www.google.com/search?q=site:${encodeURIComponent(TARGE
 await new Promise(r => setTimeout(r, 3000));
 
 const indexStats = await page.evaluate(() => document.querySelector('#result-stats')?.innerText || 'N/A');
-const indexedUrls = await page.evaluate(() =>
+const indexedUrls = await page.evaluate((domain) =>
   Array.from(document.querySelectorAll('div#search a[href]'))
     .map(a => a.href)
-    .filter(h => h.includes(location.hostname.replace('www.', '')))
-    .slice(0, 15)
-);
+    .filter(h => h.includes(domain))
+    .slice(0, 15), TARGET_DOMAIN);
 console.log('Index stats:', indexStats);
 console.log('Indexed URLs:', indexedUrls.length);
+indexedUrls.forEach(u => console.log(' ', u));
 
 // 2. Click first result and verify
 let clickVerified = false;
@@ -33,7 +33,6 @@ let landedTitle = '';
 if (indexedUrls.length > 0) {
   console.log(`\nClicking first result: ${indexedUrls[0]}`);
   try {
-    // Find and click the first organic result link for our domain
     const firstLink = await page.$(`div#search a[href*="${TARGET_DOMAIN}"]`);
     if (firstLink) {
       await firstLink.click();
@@ -47,6 +46,31 @@ if (indexedUrls.length > 0) {
       console.log(`Landed URL: ${landedUrl}`);
       console.log(`Landed title: ${landedTitle}`);
       console.log(`Click verified: ${clickVerified}`);
+    }
+  } catch (err) {
+    console.log(`Click error: ${err.message}`);
+  }
+} else {
+  // Try clicking even if filter didn't match — search by href directly
+  console.log('\nNo URLs matched filter, trying direct selector...');
+  try {
+    const firstLink = await page.$(`div#search a[href*="${TARGET_DOMAIN}"]`);
+    if (firstLink) {
+      const href = await firstLink.getAttribute('href');
+      console.log(`Found link: ${href}`);
+      await firstLink.click();
+      await page.waitForLoadState('domcontentloaded', { timeout: 15000 });
+      await new Promise(r => setTimeout(r, 2000));
+
+      landedUrl = page.url();
+      landedTitle = await page.title();
+      clickVerified = landedUrl.includes(TARGET_DOMAIN);
+
+      console.log(`Landed URL: ${landedUrl}`);
+      console.log(`Landed title: ${landedTitle}`);
+      console.log(`Click verified: ${clickVerified}`);
+    } else {
+      console.log('No link found for target domain');
     }
   } catch (err) {
     console.log(`Click error: ${err.message}`);
