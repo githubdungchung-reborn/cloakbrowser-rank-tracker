@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-16T19:29:33.132Z
+**Updated:** 2026-05-16T19:41:36.437Z
 
 ## Keyword Rankings
 
@@ -49,7 +49,7 @@
 ## Site Index Verification (20 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 25 kết quả (0,11 giây) 
+- **Index stats:** Khoảng 46 kết quả (0,19 giây) 
 - **Click verified:** 20/20 passed
 - **Click failed:** 0/20
 
@@ -57,11 +57,11 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /chuyen-muc/tin-tuc/ | 3 | Yes |
-| / | 3 | Yes |
+| / | 4 | Yes |
 | /danh-muc/hoa-chia-buon/ | 3 | Yes |
 | /chinh-sach-bao-hanh/ | 3 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 3 | Yes |
+| /chuyen-muc/tin-tuc/ | 2 | Yes |
 | /cam-on/ | 2 | Yes |
 | /danh-muc/qua-tang/ | 2 | Yes |
 | /danh-muc/ | 1 | Yes |
@@ -70,7 +70,7 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
+| #0 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #1 | /danh-muc/ | Danh mục sản phẩm | Hoa Tươi Đà Nẵng | Yes |
 | #2 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #3 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
