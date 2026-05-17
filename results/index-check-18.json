@@ -1,24 +1,26 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-16T19:16:42.732Z",
-  "indexStats": "Khoảng 25 kết quả (0,23 giây) ",
+  "timestamp": "2026-05-17T13:55:12.280Z",
+  "indexStats": "Khoảng 135 kết quả (0,14 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/cam-on/",
     "https://hoatuoidanangnhanhi.com/danh-muc/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
     "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/qua-tang/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-chia-buon/",
-    "https://hoatuoidanangnhanhi.com/san-pham/bo-hoa-baby-hong/"
+    "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/san-pham/bo-hoa-baby-hong/",
-  "clickedPosition": 9,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
+  "clickedPosition": 0,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/san-pham/bo-hoa-baby-hong/",
-  "landedTitle": "bó hoa baby hồng | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/",
+  "landedTitle": "Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng",
+  "brandRank": 0
+}tle": "bó hoa baby hồng | Hoa Tươi Đà Nẵng",
   "brandRank": 0
 }
