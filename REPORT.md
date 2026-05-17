@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-17T17:13:44.290Z
+**Updated:** 2026-05-17T19:26:46.690Z
 
 ## Keyword Rankings
 
@@ -30,7 +30,7 @@
 | 23 | hoa tulip đà nẵng | NOT FOUND | - | - | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 24 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 25 | hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
-| 26 | hoa valentine đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, canhdonghoatuoi.com |
+| 26 | hoa valentine đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, khoavantaydanang.vn, canhdonghoatuoi.com |
 | 27 | mua hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
 | 28 | shop hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
 | 29 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | - | bachhoaxanh.com, shophoasunny.vn, shophoasunny.vn |
@@ -51,11 +51,12 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /chuyen-muc/tin-tuc/ | 5 | Yes |
+| /chuyen-muc/tin-tuc/ | 4 | Yes |
 | /danh-muc/hoa-chia-buon/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
 | /chinh-sach-bao-hanh/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
+| /lien-he/ | 1 | Yes |
 | /cam-on/ | 1 | Yes |
 | /danh-muc/qua-tang/ | 1 | Yes |
 
@@ -67,7 +68,7 @@
 | #1 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
 | #2 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /chuyen-muc/tin-tuc/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #4 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
+| #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #5 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #6 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
 | #7 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
@@ -82,7 +83,7 @@
 | Domain | Hits |
 |--------|------|
 | canhdonghoatuoi.com | 21 |
-| facebook.com | 20 |
+| facebook.com | 19 |
 | flowercorner.vn | 13 |
 | bachhoaxanh.com | 11 |
 | kimkieuflower.vn | 10 |
