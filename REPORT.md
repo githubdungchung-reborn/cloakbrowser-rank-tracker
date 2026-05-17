@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-16T23:05:53.260Z
+**Updated:** 2026-05-17T00:07:11.597Z
 
 ## Keyword Rankings
 
@@ -10,41 +10,36 @@
 | 3 | đặt hoa online đà nẵng | NOT FOUND | - | - | flowercorner.vn, kimkieuflower.vn, canhdonghoatuoi.com |
 | 4 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, kimkieuflower.vn, canhdonghoatuoi.com |
 | 5 | điện hoa đà nẵng | NOT FOUND | - | - | tiemhoadanang.com, canhdonghoatuoi.com, bachhoaxanh.com |
-| 6 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | - | flowercorner.vn, flowercorner.vn, flowercorner.vn |
-| 7 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, canhdonghoatuoi.com |
-| 8 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, canhdonghoatuoi.com, hoa10h.vn |
-| 9 | hoa 20/10 đà nẵng | NOT FOUND | - | 5p | hoadanang.vn, hoadanang.vn, facebook.com |
+| 6 | điện hoa đà nẵng | NOT FOUND | - | 50p | tiemhoadanang.com, canhdonghoatuoi.com, bachhoaxanh.com |
+| 7 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | - | flowercorner.vn, flowercorner.vn, flowercorner.vn |
+| 8 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, canhdonghoatuoi.com |
+| 9 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, canhdonghoatuoi.com, hoa10h.vn |
 | 10 | hoa 8/3 đà nẵng | NOT FOUND | - | 15p | - |
 | 11 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
-| 12 | hoa 8/3 đà nẵng | NOT FOUND | - | 5p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
-| 13 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | tiemhoanang.com, canhdonghoatuoi.com, hoayeuthuong.com.vn |
-| 14 | hoa cảm ơn đà nẵng | NOT FOUND | - | 5p | tiemhoanang.com, canhdonghoatuoi.com, hoayeuthuong.com.vn |
-| 15 | hoa chia buồn đà nẵng | NOT FOUND | - | - | hellodanang.vn, hellodanang.vn, hellodanang.vn |
-| 16 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | hellodanang.vn, hellodanang.vn, hellodanang.vn |
-| 17 | hoa cưới đà nẵng | NOT FOUND | - | - | facebook.com, canhdonghoatuoi.com, facebook.com |
-| 18 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, kimkieuflower.vn |
-| 19 | hoa hồng đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, facebook.com, caycanhdanang.com.vn |
-| 20 | hoa hồng đà nẵng | NOT FOUND | - | 5p | hoasenviet.net, facebook.com, caycanhdanang.com.vn |
-| 21 | hoa khai trương đà nẵng | NOT FOUND | - | - | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
-| 22 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
-| 23 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, hoavada.com, dalathasfarm.com |
-| 24 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 5p | hoasenviet.net, hoavada.com, hellodanang.vn |
-| 25 | hoa sinh nhật đà nẵng | NOT FOUND | - | - | canhdonghoatuoi.com, shophoamaimai.com, hoa10h.vn |
-| 26 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, shophoamaimai.com, hoa10h.vn |
-| 27 | hoa tulip đà nẵng | NOT FOUND | - | - | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 28 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 29 | hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
-| 30 | hoa valentine đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, kimkieuflower.vn, canhdonghoatuoi.com |
-| 31 | hoa valentine đà nẵng | NOT FOUND | - | 5p | canhdonghoatuoi.com, facebook.com, canhdonghoatuoi.com |
-| 32 | mua hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
-| 33 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
-| 34 | shop hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
-| 35 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | - | bachhoaxanh.com, shophoasunny.vn, shophoasunny.vn |
-| 36 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, shophoasunny.vn, shophoasunny.vn |
-| 37 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | - | facebook.com, bachhoaxanh.com, flowercorner.vn |
-| 38 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, bachhoaxanh.com, flowercorner.vn |
+| 12 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | tiemhoanang.com, canhdonghoatuoi.com, hoayeuthuong.com.vn |
+| 13 | hoa chia buồn đà nẵng | NOT FOUND | - | - | hellodanang.vn, hellodanang.vn, hellodanang.vn |
+| 14 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | hellodanang.vn, hellodanang.vn, hellodanang.vn |
+| 15 | hoa cưới đà nẵng | NOT FOUND | - | - | facebook.com, canhdonghoatuoi.com, facebook.com |
+| 16 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, kimkieuflower.vn |
+| 17 | hoa hồng đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, facebook.com, caycanhdanang.com.vn |
+| 18 | hoa khai trương đà nẵng | NOT FOUND | - | - | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
+| 19 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
+| 20 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, hoavada.com, dalathasfarm.com |
+| 21 | hoa sinh nhật đà nẵng | NOT FOUND | - | - | canhdonghoatuoi.com, shophoamaimai.com, hoa10h.vn |
+| 22 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, shophoamaimai.com, hoa10h.vn |
+| 23 | hoa tulip đà nẵng | NOT FOUND | - | - | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 24 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 25 | hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
+| 26 | hoa valentine đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, kimkieuflower.vn, canhdonghoatuoi.com |
+| 27 | mua hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
+| 28 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
+| 29 | shop hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
+| 30 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | - | bachhoaxanh.com, shophoasunny.vn, shophoasunny.vn |
+| 31 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, shophoasunny.vn, shophoasunny.vn |
+| 32 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | - | facebook.com, bachhoaxanh.com, flowercorner.vn |
+| 33 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, bachhoaxanh.com, flowercorner.vn |
 
-**Visibility:** 0/38 keywords ranking (0%)
+**Visibility:** 0/33 keywords ranking (0%)
 
 ## Site Index Verification (19 runs)
 
@@ -57,13 +52,14 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| / | 4 | Yes |
+| / | 3 | Yes |
 | /danh-muc/hoa-chia-buon/ | 3 | Yes |
 | /chuyen-muc/tin-tuc/ | 3 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 3 | Yes |
 | /chinh-sach-bao-hanh/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /danh-muc/ | 1 | Yes |
+| /cua-hang/ | 1 | Yes |
 | /cam-on/ | 1 | Yes |
 | /danh-muc/qua-tang/ | 1 | Yes |
 
@@ -77,7 +73,7 @@
 | #3 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /chuyen-muc/tin-tuc/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #5 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
-| #6 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #6 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
 | #9 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
@@ -94,13 +90,13 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 26 |
-| canhdonghoatuoi.com | 25 |
+| facebook.com | 22 |
+| canhdonghoatuoi.com | 22 |
 | flowercorner.vn | 14 |
 | kimkieuflower.vn | 12 |
-| bachhoaxanh.com | 11 |
-| hellodanang.vn | 9 |
+| bachhoaxanh.com | 12 |
+| hellodanang.vn | 8 |
 | hoa10h.vn | 7 |
-| caycanhdanang.com.vn | 5 |
 | shophoasunny.vn | 5 |
-| hoasenviet.net | 4 |
+| caycanhdanang.com.vn | 4 |
+| tiemhoadanang.com | 3 |
