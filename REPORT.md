@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-17T19:26:46.690Z
+**Updated:** 2026-05-17T21:09:22.259Z
 
 ## Keyword Rankings
 
@@ -15,7 +15,7 @@
 | 8 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoatuoinetviet.vn |
 | 9 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
 | 10 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, hoadanang.vn, dalathasfarm.com |
-| 11 | hoa 8/3 đà nẵng | NOT FOUND | - | 15p | - |
+| 11 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
 | 12 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
 | 13 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | tiemhoanang.com, canhdonghoatuoi.com, hoayeuthuong.com.vn |
 | 14 | hoa chia buồn đà nẵng | NOT FOUND | - | - | hellodanang.vn, hellodanang.vn, hellodanang.vn |
@@ -51,11 +51,12 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /chuyen-muc/tin-tuc/ | 4 | Yes |
+| /chuyen-muc/tin-tuc/ | 3 | Yes |
 | /danh-muc/hoa-chia-buon/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
 | /chinh-sach-bao-hanh/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
+| / | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /cam-on/ | 1 | Yes |
 | /danh-muc/qua-tang/ | 1 | Yes |
@@ -65,7 +66,7 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #1 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
+| #1 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #2 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /chuyen-muc/tin-tuc/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
