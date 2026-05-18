@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-16T23:03:31.905Z",
-  "indexStats": "Khoảng 27 kết quả (0,12 giây) ",
+  "timestamp": "2026-05-18T10:24:20.299Z",
+  "indexStats": "Khoảng 86 kết quả (0,11 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -13,12 +13,14 @@
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
     "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/qua-tang/"
+    "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-  "clickedPosition": 8,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "clickedPosition": 6,
   "clickVerified": true,
-  "landedUrl": "https://www.google.com/search?q=site:hoatuoidanangnhanhi.com&hl=vi&gl=vn&sei=tfcIapDNCNyi5NoP3uWI4QM",
-  "landedTitle": "site:hoatuoidanangnhanhi.com - Tìm trên Google",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
+  "brandRank": 0
+}gnhanhi.com - Tìm trên Google",
   "brandRank": 0
 }
