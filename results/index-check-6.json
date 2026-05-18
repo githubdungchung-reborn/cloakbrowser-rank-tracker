@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-18T05:17:10.151Z",
-  "indexStats": "Khoảng 47 kết quả (0,11 giây) ",
+  "timestamp": "2026-05-18T23:17:32.860Z",
+  "indexStats": "Khoảng 57 kết quả (0,23 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,12 +15,10 @@
     "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
     "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/cam-on/",
-  "clickedPosition": 3,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/",
+  "clickedPosition": 9,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/cam-on/",
-  "landedTitle": "Cảm ơn bạn đã gửi yêu cầu | Hoa Tươi Đà Nẵng",
-  "brandRank": 2
-},
-  "brandRank": 5
+  "landedUrl": "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/",
+  "landedTitle": "Câu hỏi thường gặp | Hoa Tươi Đà Nẵng Nhà Nhi",
+  "brandRank": 0
 }

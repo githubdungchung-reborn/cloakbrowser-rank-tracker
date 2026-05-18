@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-18T21:29:03.778Z
+**Updated:** 2026-05-18T23:20:11.959Z
 
 ## Keyword Rankings
 
@@ -9,7 +9,7 @@
 | 2 | đặt hoa online đà nẵng | NOT FOUND | - | - | flowercorner.vn, kimkieuflower.vn, canhdonghoatuoi.com |
 | 3 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, kimkieuflower.vn, canhdonghoatuoi.com |
 | 4 | điện hoa đà nẵng | NOT FOUND | - | - | tiemhoadanang.com, canhdonghoatuoi.com, bachhoaxanh.com |
-| 5 | điện hoa đà nẵng | NOT FOUND | - | 50p | tiemhoadanang.com, canhdonghoatuoi.com, bachhoaxanh.com |
+| 5 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 6 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoatuoinetviet.vn |
 | 7 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
 | 8 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, hoadanang.vn, dalathasfarm.com |
@@ -33,12 +33,12 @@
 
 **Visibility:** 0/25 keywords ranking (0%)
 
-## Site Index Verification (13 runs)
+## Site Index Verification (14 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 46 kết quả (0,12 giây) 
-- **Click verified:** 13/13 passed
-- **Click failed:** 0/13
+- **Click verified:** 14/14 passed
+- **Click failed:** 0/14
 
 ### Pages Clicked (random distribution)
 
@@ -51,6 +51,7 @@
 | /danh-muc/hoa-chia-buon/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /danh-muc/ | 1 | Yes |
+| /cau-hoi-thuong-gap/ | 1 | Yes |
 | /danh-muc/qua-tang/ | 1 | Yes |
 
 ### Click Detail
@@ -68,19 +69,20 @@
 | #8 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
 | #9 | /danh-muc/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #10 | /chinh-sach-bao-hanh/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #11 | /danh-muc/qua-tang/ | Quà tặng | Hoa Tươi Đà Nẵng | Yes |
-| #12 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
+| #11 | /cau-hoi-thuong-gap/ | Câu hỏi thường gặp | Hoa Tươi Đà Nẵng Nh | Yes |
+| #12 | /danh-muc/qua-tang/ | Quà tặng | Hoa Tươi Đà Nẵng | Yes |
+| #13 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| canhdonghoatuoi.com | 15 |
 | facebook.com | 14 |
+| canhdonghoatuoi.com | 14 |
 | flowercorner.vn | 8 |
 | kimkieuflower.vn | 8 |
-| bachhoaxanh.com | 8 |
+| bachhoaxanh.com | 7 |
 | hoa10h.vn | 5 |
+| tramhoa.com | 5 |
 | hellodanang.vn | 3 |
 | shophoamaimai.com | 3 |
-| tiemhoadanang.com | 2 |
-| tramhoa.com | 2 |
+| hoadanang.vn | 2 |
