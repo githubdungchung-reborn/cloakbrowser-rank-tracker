@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-18T17:50:20.994Z
+**Updated:** 2026-05-18T20:11:58.784Z
 
 ## Keyword Rankings
 
@@ -17,7 +17,7 @@
 | 10 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
 | 11 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | tiemhoanang.com, canhdonghoatuoi.com, hoayeuthuong.com.vn |
 | 12 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | hellodanang.vn, hellodanang.vn, hellodanang.vn |
-| 13 | hoa hồng đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, facebook.com, caycanhdanang.com.vn |
+| 13 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
 | 14 | hoa khai trương đà nẵng | NOT FOUND | - | - | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
 | 15 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
 | 16 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, hoavada.com, dalathasfarm.com |
@@ -29,10 +29,9 @@
 | 22 | mua hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
 | 23 | shop hoa tươi đà nẵng | NOT FOUND | - | - | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
 | 24 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
-| 25 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, shophoasunny.vn, shophoasunny.vn |
-| 26 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, bachhoaxanh.com, flowercorner.vn |
+| 25 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, bachhoaxanh.com, flowercorner.vn |
 
-**Visibility:** 0/26 keywords ranking (0%)
+**Visibility:** 0/25 keywords ranking (0%)
 
 ## Site Index Verification (13 runs)
 
@@ -45,11 +44,12 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /lien-he/ | 3 | Yes |
 | /chinh-sach-bao-hanh/ | 3 | Yes |
+| /lien-he/ | 2 | Yes |
 | /danh-muc/hoa-chia-buon/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
 | /chuyen-muc/tin-tuc/ | 2 | Yes |
+| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /danh-muc/qua-tang/ | 1 | Yes |
 
 ### Click Detail
@@ -59,7 +59,7 @@
 | #0 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #2 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
 | #6 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
@@ -75,9 +75,9 @@
 |--------|------|
 | canhdonghoatuoi.com | 15 |
 | facebook.com | 14 |
-| bachhoaxanh.com | 9 |
 | flowercorner.vn | 8 |
 | kimkieuflower.vn | 8 |
+| bachhoaxanh.com | 8 |
 | hoa10h.vn | 5 |
 | hellodanang.vn | 3 |
 | shophoamaimai.com | 3 |
