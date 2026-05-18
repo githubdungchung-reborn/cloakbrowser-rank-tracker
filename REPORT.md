@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-17T22:10:41.144Z
+**Updated:** 2026-05-18T00:10:12.468Z
 
 ## Keyword Rankings
 
@@ -51,12 +51,11 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /lien-he/ | 3 | Yes |
 | /chuyen-muc/tin-tuc/ | 3 | Yes |
-| /lien-he/ | 2 | Yes |
 | /danh-muc/hoa-chia-buon/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
 | /chinh-sach-bao-hanh/ | 2 | Yes |
-| / | 1 | Yes |
 | /cam-on/ | 1 | Yes |
 | /danh-muc/qua-tang/ | 1 | Yes |
 
@@ -65,7 +64,7 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #1 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #2 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /chuyen-muc/tin-tuc/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
