@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-19T12:22:06.565Z
+**Updated:** 2026-05-19T16:34:07.988Z
 
 ## Keyword Rankings
 
@@ -36,7 +36,7 @@
 ## Site Index Verification (16 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 46 kết quả (0,12 giây) 
+- **Index stats:** Khoảng 35 kết quả (0,12 giây) 
 - **Click verified:** 16/16 passed
 - **Click failed:** 0/16
 
@@ -44,11 +44,12 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /lien-he/ | 3 | Yes |
+| /lien-he/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
 | /chinh-sach-bao-hanh/ | 2 | Yes |
 | /danh-muc/ | 2 | Yes |
 | /chuyen-muc/tin-tuc/ | 2 | Yes |
+| /cua-hang/ | 1 | Yes |
 | /danh-muc/hoa-chia-buon/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
@@ -59,7 +60,7 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #0 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #2 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
