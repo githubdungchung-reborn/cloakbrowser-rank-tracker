@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-18T14:38:04.929Z",
-  "indexStats": "Khoảng 47 kết quả (0,14 giây) ",
+  "timestamp": "2026-05-19T04:23:58.510Z",
+  "indexStats": "Khoảng 77 kết quả (0,11 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,10 +15,10 @@
     "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
     "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-  "clickedPosition": 7,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/",
+  "clickedPosition": 4,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-  "landedTitle": "Chính sách đổi trả hàng | Hoa Tươi Đà Nẵng",
-  "brandRank": 2
+  "landedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/",
+  "landedTitle": "Danh mục sản phẩm | Hoa Tươi Đà Nẵng",
+  "brandRank": 0
 }

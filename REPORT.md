@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-18T23:20:11.959Z
+**Updated:** 2026-05-19T04:24:28.783Z
 
 ## Keyword Rankings
 
@@ -15,7 +15,7 @@
 | 8 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, hoadanang.vn, dalathasfarm.com |
 | 9 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
 | 10 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
-| 11 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | tiemhoanang.com, canhdonghoatuoi.com, hoayeuthuong.com.vn |
+| 11 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | hoayeuthuong.com.vn, tiemhoanang.com, facebook.com |
 | 12 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | hellodanang.vn, hellodanang.vn, hellodanang.vn |
 | 13 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
 | 14 | hoa khai trương đà nẵng | NOT FOUND | - | - | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
@@ -44,13 +44,13 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /chinh-sach-bao-hanh/ | 3 | Yes |
 | /lien-he/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
+| /chinh-sach-bao-hanh/ | 2 | Yes |
+| /danh-muc/ | 2 | Yes |
 | /chuyen-muc/tin-tuc/ | 2 | Yes |
 | /danh-muc/hoa-chia-buon/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
-| /danh-muc/ | 1 | Yes |
 | /cau-hoi-thuong-gap/ | 1 | Yes |
 | /danh-muc/qua-tang/ | 1 | Yes |
 
@@ -64,7 +64,7 @@
 | #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
-| #6 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
+| #6 | /danh-muc/ | Danh mục sản phẩm | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
 | #9 | /danh-muc/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
@@ -76,8 +76,8 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 14 |
-| canhdonghoatuoi.com | 14 |
+| facebook.com | 15 |
+| canhdonghoatuoi.com | 13 |
 | flowercorner.vn | 8 |
 | kimkieuflower.vn | 8 |
 | bachhoaxanh.com | 7 |
