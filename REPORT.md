@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-20T15:56:30.730Z
+**Updated:** 2026-05-20T18:32:49.852Z
 
 ## Keyword Rankings
 
@@ -53,7 +53,7 @@
 | /chinh-sach-bao-hanh/ | 1 | Yes |
 | /danh-muc/ | 1 | Yes |
 | /cau-hoi-thuong-gap/ | 1 | Yes |
-| /danh-muc/qua-tang/ | 1 | Yes |
+| /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
@@ -71,7 +71,7 @@
 | #9 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
 | #10 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #11 | /cau-hoi-thuong-gap/ | Câu hỏi thường gặp | Hoa Tươi Đà Nẵng Nh | Yes |
-| #12 | /danh-muc/qua-tang/ | Quà tặng | Hoa Tươi Đà Nẵng | Yes |
+| #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #13 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #14 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
 
