@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-20T18:32:49.852Z
+**Updated:** 2026-05-20T21:10:44.603Z
 
 ## Keyword Rankings
 
@@ -33,19 +33,19 @@
 
 **Visibility:** 0/25 keywords ranking (0%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (14 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 49 kết quả (0,38 giây) 
-- **Click verified:** 15/15 passed
-- **Click failed:** 0/15
+- **Click verified:** 14/14 passed
+- **Click failed:** 0/14
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /chuyen-muc/tin-tuc/ | 3 | Yes |
 | /chinh-sach-thanh-toan/ | 3 | Yes |
+| /chuyen-muc/tin-tuc/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
 | /danh-muc/hoa-chia-buon/ | 1 | Yes |
@@ -73,7 +73,6 @@
 | #11 | /cau-hoi-thuong-gap/ | Câu hỏi thường gặp | Hoa Tươi Đà Nẵng Nh | Yes |
 | #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #13 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #14 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
 
 ## Top Competitors
 | Domain | Hits |
