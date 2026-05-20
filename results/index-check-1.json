@@ -1,27 +1,25 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-16T19:15:50.092Z",
-  "indexStats": "Khoảng 25 kết quả (0,12 giây) ",
+  "timestamp": "2026-05-20T04:24:28.524Z",
+  "indexStats": "Khoảng 35 kết quả (0,14 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
+    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/cam-on/",
     "https://hoatuoidanangnhanhi.com/danh-muc/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/qua-tang/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-chia-buon/",
-    "https://hoatuoidanangnhanhi.com/san-pham/bo-hoa-baby-hong/"
+    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/",
-  "clickedPosition": 2,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
+  "clickedPosition": 9,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/",
-  "landedTitle": "Danh mục sản phẩm | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
+  "landedTitle": "Tin tức – Bài viết hoa tươi Đà Nẵng | Hoa Tươi Đà Nẵng Nhà Nhi",
   "brandRank": 0
-}
-}",
-  "brandRank": 0
+}nk": 0
 }
