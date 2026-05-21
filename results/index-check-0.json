@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-20T15:53:10.322Z",
-  "indexStats": "Khoảng 49 kết quả (0,38 giây) ",
+  "timestamp": "2026-05-21T04:42:18.011Z",
+  "indexStats": "Khoảng 68 kết quả (0,30 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,10 +15,12 @@
     "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
     "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-  "clickedPosition": 9,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
+  "clickedPosition": 8,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-  "landedTitle": "Tin tức – Bài viết hoa tươi Đà Nẵng | Hoa Tươi Đà Nẵng Nhà Nhi",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
+  "landedTitle": "Chính sách đổi trả hàng | Hoa Tươi Đà Nẵng",
+  "brandRank": 5
+}Nhi",
   "brandRank": 0
 }
