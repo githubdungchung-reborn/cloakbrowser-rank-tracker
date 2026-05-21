@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-21T08:44:59.668Z
+**Updated:** 2026-05-21T12:29:07.039Z
 
 ## Keyword Rankings
 
@@ -27,12 +27,12 @@
 
 **Visibility:** 0/19 keywords ranking (0%)
 
-## Site Index Verification (14 runs)
+## Site Index Verification (15 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 31 kết quả (0,12 giây) 
-- **Click verified:** 14/14 passed
-- **Click failed:** 0/14
+- **Index stats:** Khoảng 201 kết quả (0,12 giây) 
+- **Click verified:** 15/15 passed
+- **Click failed:** 0/15
 
 ### Pages Clicked (random distribution)
 
@@ -41,6 +41,7 @@
 | /lien-he/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
+| /tuyen-dung/ | 1 | Yes |
 | /danh-muc/hoa-chia-buon/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /chinh-sach-bao-hanh/ | 1 | Yes |
@@ -54,20 +55,21 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #1 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
-| #2 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
-| #7 | /danh-muc/ | Danh mục sản phẩm | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
-| #9 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
-| #10 | /cam-on/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #11 | /cau-hoi-thuong-gap/ | Câu hỏi thường gặp | Hoa Tươi Đà Nẵng Nh | Yes |
-| #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #13 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #0 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #2 | /danh-muc/hoa-chia-buon/ | Hoa chia buồn | Hoa Tươi Đà Nẵng | Yes |
+| #3 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #4 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
+| #8 | /danh-muc/ | Danh mục sản phẩm | Hoa Tươi Đà Nẵng | Yes |
+| #9 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
+| #10 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
+| #11 | /cam-on/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #12 | /cau-hoi-thuong-gap/ | Câu hỏi thường gặp | Hoa Tươi Đà Nẵng Nh | Yes |
+| #13 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #14 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
