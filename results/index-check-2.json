@@ -1,24 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-17T10:00:23.918Z",
-  "indexStats": "Khoảng 31 kết quả (0,22 giây) ",
+  "timestamp": "2026-05-21T16:24:35.847Z",
+  "indexStats": "Khoảng 228 kết quả (0,20 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
     "https://hoatuoidanangnhanhi.com/cua-hang/",
+    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/cam-on/",
     "https://hoatuoidanangnhanhi.com/danh-muc/",
+    "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-    "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/"
+    "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-  "clickedPosition": 8,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
+  "clickedPosition": 9,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-  "landedTitle": "Tin tức – Bài viết hoa tươi Đà Nẵng | Hoa Tươi Đà Nẵng Nhà Nhi",
-  "brandRank": 0
+  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
+  "landedTitle": "Chính sách đổi trả hàng | Hoa Tươi Đà Nẵng",
+  "brandRank": 7
 }

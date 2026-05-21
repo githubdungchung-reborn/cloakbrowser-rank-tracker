@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-21T12:29:07.039Z
+**Updated:** 2026-05-21T16:26:37.662Z
 
 ## Keyword Rankings
 
@@ -21,7 +21,7 @@
 | 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, shophoamaimai.com, canhdonghoatuoi.com |
 | 15 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 16 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 17 | hoa valentine đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, kimkieuflower.vn |
+| 17 | hoa valentine đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, facebook.com |
 | 18 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
 | 19 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, bachhoaxanh.com, flowercorner.vn |
 
@@ -41,12 +41,11 @@
 | /lien-he/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
+| /chinh-sach-bao-hanh/ | 2 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /danh-muc/hoa-chia-buon/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
-| /chinh-sach-bao-hanh/ | 1 | Yes |
 | /danh-muc/ | 1 | Yes |
-| /chuyen-muc/tin-tuc/ | 1 | Yes |
 | /cam-on/ | 1 | Yes |
 | /cau-hoi-thuong-gap/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
@@ -65,7 +64,7 @@
 | #7 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
 | #8 | /danh-muc/ | Danh mục sản phẩm | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /chuyen-muc/tin-tuc/ | Tin tức – Bài viết hoa tươi Đà Nẵng | Ho | Yes |
+| #10 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
 | #11 | /cam-on/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #12 | /cau-hoi-thuong-gap/ | Câu hỏi thường gặp | Hoa Tươi Đà Nẵng Nh | Yes |
 | #13 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
@@ -74,8 +73,8 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 10 |
-| canhdonghoatuoi.com | 8 |
+| facebook.com | 12 |
+| canhdonghoatuoi.com | 6 |
 | kimkieuflower.vn | 5 |
 | flowercorner.vn | 3 |
 | tramhoa.com | 3 |
