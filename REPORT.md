@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-22T21:24:18.895Z
+**Updated:** 2026-05-22T23:18:57.023Z
 
 ## Keyword Rankings
 
@@ -36,8 +36,8 @@
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 201 kết quả (0,12 giây) 
-- **Click verified:** 12/15 passed
-- **Click failed:** 3/15
+- **Click verified:** 11/15 passed
+- **Click failed:** 4/15
 
 ### Pages Clicked (random distribution)
 
@@ -45,10 +45,10 @@
 |-----------|---------------|----------|
 | /chinh-sach-thanh-toan/ | 2 | Yes |
 | /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
-| /chinh-sach-bao-hanh/ | 2 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
+| /chinh-sach-bao-hanh/ | 1 | Yes |
 | /danh-muc/ | 1 | Yes |
 | /cam-on/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
@@ -67,7 +67,7 @@
 | #7 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
 | #8 | /danh-muc/ | Danh mục sản phẩm | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
+| #10 | - | - | No |
 | #11 | /cam-on/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #13 | - | - | No |
