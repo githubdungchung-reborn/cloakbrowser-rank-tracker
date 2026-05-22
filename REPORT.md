@@ -1,23 +1,23 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-22T08:32:36.907Z
+**Updated:** 2026-05-22T11:55:07.531Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
-| 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, dalathasfarm.com, facebook.com |
-| 3 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
-| 4 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
-| 5 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoatuoinetviet.vn |
-| 6 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
-| 7 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, hoadanang.vn, dalathasfarm.com |
-| 8 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
-| 9 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
-| 10 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | hoayeuthuong.com.vn, tiemhoanang.com, facebook.com |
-| 11 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoayeuthuong.com |
-| 12 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
-| 13 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, facebook.com, canhdonghoatuoi.com |
+| 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, dalathasfarm.com, facebook.com |
+| 2 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
+| 3 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
+| 4 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoatuoinetviet.vn |
+| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
+| 6 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, hoadanang.vn, dalathasfarm.com |
+| 7 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
+| 8 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
+| 9 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | hoayeuthuong.com.vn, tiemhoanang.com, facebook.com |
+| 10 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoayeuthuong.com |
+| 11 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
+| 12 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 13 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
 | 14 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, danhsachshop.com |
 | 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
 | 16 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
@@ -28,16 +28,15 @@
 | 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
 | 22 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
 | 23 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 24 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, bachhoaxanh.com, flowercorner.vn |
 
-**Visibility:** 0/24 keywords ranking (0%)
+**Visibility:** 0/23 keywords ranking (0%)
 
-## Site Index Verification (13 runs)
+## Site Index Verification (14 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 201 kết quả (0,12 giây) 
-- **Click verified:** 12/13 passed
-- **Click failed:** 1/13
+- **Click verified:** 12/14 passed
+- **Click failed:** 2/14
 
 ### Pages Clicked (random distribution)
 
@@ -70,17 +69,18 @@
 | #10 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
 | #11 | /cam-on/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #13 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 12 |
-| kimkieuflower.vn | 5 |
-| canhdonghoatuoi.com | 5 |
-| flowercorner.vn | 3 |
+| facebook.com | 9 |
+| kimkieuflower.vn | 4 |
+| canhdonghoatuoi.com | 4 |
 | dalathasfarm.com | 2 |
 | hoadanang.vn | 2 |
 | hoasenviet.net | 2 |
 | caycanhdanang.com.vn | 2 |
-| bachhoaxanh.com | 2 |
 | hoatuoinetviet.vn | 1 |
+| hoatuoidanang.net | 1 |
+| hoayeuthuong.com.vn | 1 |
