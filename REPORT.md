@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-22T11:55:07.531Z
+**Updated:** 2026-05-22T15:19:41.202Z
 
 ## Keyword Rankings
 
@@ -13,17 +13,17 @@
 | 6 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, hoadanang.vn, dalathasfarm.com |
 | 7 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
 | 8 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, facebook.com, canhdonghoatuoi.com |
-| 9 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | hoayeuthuong.com.vn, tiemhoanang.com, facebook.com |
-| 10 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoayeuthuong.com |
-| 11 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
-| 12 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 13 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 14 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, danhsachshop.com |
-| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 9 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoayeuthuong.com |
+| 10 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
+| 11 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 13 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, danhsachshop.com |
+| 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 16 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 17 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 18 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 19 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 20 | hoa valentine đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, facebook.com |
 | 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, bachhoaxanh.com, facebook.com |
 | 22 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
@@ -74,13 +74,13 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 9 |
-| kimkieuflower.vn | 4 |
+| facebook.com | 7 |
 | canhdonghoatuoi.com | 4 |
+| kimkieuflower.vn | 3 |
 | dalathasfarm.com | 2 |
 | hoadanang.vn | 2 |
 | hoasenviet.net | 2 |
 | caycanhdanang.com.vn | 2 |
 | hoatuoinetviet.vn | 1 |
 | hoatuoidanang.net | 1 |
-| hoayeuthuong.com.vn | 1 |
+| hoayeuthuong.com | 1 |
