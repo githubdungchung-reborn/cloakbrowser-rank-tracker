@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-23T21:08:01.006Z
+**Updated:** 2026-05-23T22:09:45.118Z
 
 ## Keyword Rankings
 
@@ -38,8 +38,8 @@
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 9/13 passed
-- **Click failed:** 4/13
+- **Click verified:** 8/13 passed
+- **Click failed:** 5/13
 
 ### Pages Clicked (random distribution)
 
@@ -50,7 +50,6 @@
 | /lien-he/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /chinh-sach-bao-hanh/ | 1 | Yes |
-| /cam-on/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 
 ### Click Detail
@@ -67,7 +66,7 @@
 | #7 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #8 | - | - | No |
 | #9 | - | - | No |
-| #10 | /cam-on/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #10 | - | - | No |
 | #11 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #12 | - | - | No |
 
