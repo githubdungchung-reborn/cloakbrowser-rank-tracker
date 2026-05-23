@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-23T11:26:27.680Z
+**Updated:** 2026-05-23T17:16:44.816Z
 
 ## Keyword Rankings
 
@@ -29,15 +29,17 @@
 | 22 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 23 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
 | 24 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 25 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 26 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/24 keywords ranking (0%)
+**Visibility:** 0/26 keywords ranking (0%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (14 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 10/15 passed
-- **Click failed:** 5/15
+- **Click verified:** 10/14 passed
+- **Click failed:** 4/14
 
 ### Pages Clicked (random distribution)
 
@@ -70,7 +72,6 @@
 | #11 | /cam-on/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #13 | - | - | No |
-| #14 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
