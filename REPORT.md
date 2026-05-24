@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-24T08:45:25.187Z
+**Updated:** 2026-05-24T10:50:37.590Z
 
 ## Keyword Rankings
 
@@ -32,12 +32,12 @@
 
 **Visibility:** 0/24 keywords ranking (0%)
 
-## Site Index Verification (12 runs)
+## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 6/12 passed
-- **Click failed:** 6/12
+- **Click verified:** 6/11 passed
+- **Click failed:** 5/11
 
 ### Pages Clicked (random distribution)
 
@@ -62,9 +62,8 @@
 | #6 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
 | #7 | - | - | No |
 | #8 | - | - | No |
-| #9 | - | - | No |
-| #10 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #11 | - | - | No |
+| #9 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #10 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
