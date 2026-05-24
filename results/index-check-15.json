@@ -1,24 +1,13 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-19T08:37:43.747Z",
-  "indexStats": "Khoảng 35 kết quả (0,15 giây) ",
-  "indexedCount": 10,
-  "indexedUrls": [
-    "https://hoatuoidanangnhanhi.com/",
-    "https://hoatuoidanangnhanhi.com/cua-hang/",
-    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-    "https://hoatuoidanangnhanhi.com/lien-he/",
-    "https://hoatuoidanangnhanhi.com/cam-on/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/"
-  ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "clickedPosition": 7,
-  "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
-  "brandRank": 7
+  "timestamp": "2026-05-24T08:44:05.142Z",
+  "indexStats": "N/A",
+  "indexedCount": 0,
+  "indexedUrls": [],
+  "clickedUrl": "",
+  "clickedPosition": -1,
+  "clickVerified": false,
+  "landedUrl": "",
+  "landedTitle": "",
+  "brandRank": 3
 }
