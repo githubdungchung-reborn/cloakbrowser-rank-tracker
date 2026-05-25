@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-25T17:17:50.639Z
+**Updated:** 2026-05-25T19:58:09.297Z
 
 ## Keyword Rankings
 
@@ -15,33 +15,35 @@
 | 8 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | hoadanang.vn, hoadanang.vn, dalathasfarm.com |
 | 9 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
 | 10 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 13 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 14 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | hoa valentine đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | hoa valentine đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 27 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 28 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 11 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
+| 13 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 14 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 18 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 22 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 23 | hoa valentine đà nẵng | NOT FOUND | - | 1p | - |
+| 24 | hoa valentine đà nẵng | NOT FOUND | - | 50p | - |
+| 25 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 26 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 27 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 28 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 29 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 30 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/28 keywords ranking (0%)
+**Visibility:** 0/30 keywords ranking (0%)
 
 ## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 4/12 passed
-- **Click failed:** 8/12
+- **Click verified:** 3/12 passed
+- **Click failed:** 9/12
 
 ### Pages Clicked (random distribution)
 
@@ -50,7 +52,6 @@
 | /lien-he/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /chinh-sach-bao-hanh/ | 1 | Yes |
-| /san-pham/bo-hoa-baby-hong/ | 1 | Yes |
 
 ### Click Detail
 
@@ -62,7 +63,7 @@
 | #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #4 | - | - | No |
 | #5 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
-| #6 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
+| #6 | - | - | No |
 | #7 | - | - | No |
 | #8 | - | - | No |
 | #9 | - | - | No |
