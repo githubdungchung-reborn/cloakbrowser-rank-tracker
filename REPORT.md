@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-25T14:18:45.802Z
+**Updated:** 2026-05-25T17:17:50.639Z
 
 ## Keyword Rankings
 
@@ -36,21 +36,21 @@
 
 **Visibility:** 0/28 keywords ranking (0%)
 
-## Site Index Verification (13 runs)
+## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/13 passed
-- **Click failed:** 8/13
+- **Click verified:** 4/12 passed
+- **Click failed:** 8/12
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /san-pham/bo-hoa-baby-hong/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /chinh-sach-bao-hanh/ | 1 | Yes |
+| /san-pham/bo-hoa-baby-hong/ | 1 | Yes |
 
 ### Click Detail
 
@@ -61,14 +61,13 @@
 | #2 | - | - | No |
 | #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #4 | - | - | No |
-| #5 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
-| #7 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
+| #6 | /san-pham/bo-hoa-baby-hong/ | bó hoa baby hồng | Hoa Tươi Đà Nẵng | Yes |
+| #7 | - | - | No |
 | #8 | - | - | No |
 | #9 | - | - | No |
 | #10 | - | - | No |
 | #11 | - | - | No |
-| #12 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
