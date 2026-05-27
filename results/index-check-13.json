@@ -1,24 +1,13 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-18T20:01:53.446Z",
-  "indexStats": "Khoảng 57 kết quả (0,14 giây) ",
-  "indexedCount": 10,
-  "indexedUrls": [
-    "https://hoatuoidanangnhanhi.com/",
-    "https://hoatuoidanangnhanhi.com/cua-hang/",
-    "https://hoatuoidanangnhanhi.com/lien-he/",
-    "https://hoatuoidanangnhanhi.com/cam-on/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-bao-hanh/",
-    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
-    "https://hoatuoidanangnhanhi.com/cau-hoi-thuong-gap/"
-  ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "clickedPosition": 5,
-  "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "landedTitle": "Chính sách thanh toán | Hoa Tươi Đà Nẵng",
-  "brandRank": 0
+  "timestamp": "2026-05-27T08:47:52.073Z",
+  "indexStats": "N/A",
+  "indexedCount": 0,
+  "indexedUrls": [],
+  "clickedUrl": "",
+  "clickedPosition": -1,
+  "clickVerified": false,
+  "landedUrl": "",
+  "landedTitle": "",
+  "brandRank": 3
 }

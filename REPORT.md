@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-27T04:47:05.587Z
+**Updated:** 2026-05-27T08:49:28.327Z
 
 ## Keyword Rankings
 
@@ -48,15 +48,14 @@
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 3/14 passed
-- **Click failed:** 11/14
+- **Click verified:** 2/14 passed
+- **Click failed:** 12/14
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /lien-he/ | 1 | Yes |
-| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /chinh-sach-bao-hanh/ | 1 | Yes |
 
 ### Click Detail
@@ -66,7 +65,7 @@
 | #0 | - | - | No |
 | #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #2 | - | - | No |
-| #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #3 | - | - | No |
 | #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
