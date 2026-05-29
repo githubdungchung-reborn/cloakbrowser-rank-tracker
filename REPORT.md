@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-29T04:40:39.112Z
+**Updated:** 2026-05-29T08:52:08.085Z
 
 ## Keyword Rankings
 
@@ -46,19 +46,18 @@
 
 **Visibility:** 0/38 keywords ranking (0%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (14 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 2/15 passed
-- **Click failed:** 13/15
+- **Click verified:** 1/14 passed
+- **Click failed:** 13/14
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /lien-he/ | 1 | Yes |
-| /chinh-sach-bao-hanh/ | 1 | Yes |
 
 ### Click Detail
 
@@ -71,14 +70,13 @@
 | #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | - | - | No |
-| #7 | /chinh-sach-bao-hanh/ | Chính sách đổi trả hàng | Hoa Tươi Đà Nẵ | Yes |
+| #7 | - | - | No |
 | #8 | - | - | No |
 | #9 | - | - | No |
 | #10 | - | - | No |
 | #11 | - | - | No |
 | #12 | - | - | No |
 | #13 | - | - | No |
-| #14 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
