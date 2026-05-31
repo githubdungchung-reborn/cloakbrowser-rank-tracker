@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-31T16:22:54.389Z
+**Updated:** 2026-05-31T18:16:17.284Z
 
 ## Keyword Rankings
 
@@ -44,18 +44,19 @@
 
 **Visibility:** 0/36 keywords ranking (0%)
 
-## Site Index Verification (12 runs)
+## Site Index Verification (13 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 1/12 passed
-- **Click failed:** 11/12
+- **Click verified:** 2/13 passed
+- **Click failed:** 11/13
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /lien-he/ | 1 | Yes |
+| / | 1 | Yes |
 
 ### Click Detail
 
@@ -73,3 +74,4 @@
 | #9 | - | - | No |
 | #10 | - | - | No |
 | #11 | - | - | No |
+| #12 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
