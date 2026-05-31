@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-05-30T22:12:28.484Z
+**Updated:** 2026-05-31T00:14:04.690Z
 
 ## Keyword Rankings
 
@@ -44,12 +44,12 @@
 
 **Visibility:** 0/36 keywords ranking (0%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (13 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 1/15 passed
-- **Click failed:** 14/15
+- **Click verified:** 1/13 passed
+- **Click failed:** 12/13
 
 ### Pages Clicked (random distribution)
 
@@ -74,5 +74,3 @@
 | #10 | - | - | No |
 | #11 | - | - | No |
 | #12 | - | - | No |
-| #13 | - | - | No |
-| #14 | - | - | No |
