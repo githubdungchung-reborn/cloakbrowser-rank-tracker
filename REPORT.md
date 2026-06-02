@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-01T22:17:29.248Z
+**Updated:** 2026-06-02T00:25:17.207Z
 
 ## Keyword Rankings
 
@@ -48,15 +48,15 @@
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 2/15 passed
-- **Click failed:** 13/15
+- **Click verified:** 3/15 passed
+- **Click failed:** 12/15
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| / | 2 | Yes |
 | /lien-he/ | 1 | Yes |
-| / | 1 | Yes |
 
 ### Click Detail
 
@@ -68,7 +68,7 @@
 | #3 | - | - | No |
 | #4 | - | - | No |
 | #5 | - | - | No |
-| #6 | - | - | No |
+| #6 | / | Loading https://hoatuoidanangnhanhi.com/ | Yes |
 | #7 | - | - | No |
 | #8 | - | - | No |
 | #9 | - | - | No |
