@@ -150,6 +150,44 @@ for (let run = 0; run < RUNS; run++) {
         }
       }
 
+      // Click on a non-navigation element (exercises INP — click triggers event handlers)
+      // Uses buttons and [role="button"] to avoid navigating away from the page
+      if (Math.random() > 0.5) {
+        const clickTarget = await tab.evaluate(() => {
+          const targets = Array.from(document.querySelectorAll(
+            'button:not([type="submit"]), [role="button"], [data-wishlist-toggle], [data-gallery-thumb], summary'
+          ));
+          if (targets.length === 0) return null;
+          const pick = targets[Math.floor(Math.random() * targets.length)];
+          const rect = pick.getBoundingClientRect();
+          // Only click if visible in viewport
+          if (rect.width === 0 || rect.height === 0) return null;
+          return { x: rect.x + rect.width / 2, y: rect.y + rect.height / 2 };
+        });
+        if (clickTarget) {
+          await tab.mouse.click(clickTarget.x, clickTarget.y);
+          await new Promise(r => setTimeout(r, 500 + Math.random() * 1000));
+        }
+      }
+
+      // Type in a search input (exercises INP — keypress triggers event handlers)
+      if (Math.random() > 0.7) {
+        const searchInput = await tab.evaluate(() => {
+          const input = document.querySelector('input[type="search"], input[name="s"], input[placeholder*="tìm"]');
+          if (!input) return null;
+          input.focus();
+          return true;
+        });
+        if (searchInput) {
+          const query = ['hoa', 'sinh nhật', 'khai trương', 'hồng', 'tulip'][Math.floor(Math.random() * 5)];
+          for (const char of query) {
+            await tab.keyboard.type(char);
+            await new Promise(r => setTimeout(r, 80 + Math.random() * 120));
+          }
+          await new Promise(r => setTimeout(r, 500));
+        }
+      }
+
       // Focus on a form input if present (exercises INP — focus triggers handlers)
       if (Math.random() > 0.7) {
         const input = await tab.evaluate(() => {
