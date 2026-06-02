@@ -1,0 +1,62 @@
+[
+  {
+    "url": "/lien-he/",
+    "label": "contact",
+    "isAmp": null,
+    "elapsed": 37970,
+    "status": "ok",
+    "viewport": "1366x768",
+    "run": 1,
+    "timestamp": "2026-06-02T20:55:07.150Z"
+  },
+  {
+    "url": "/amp/dat-hoa-online-da-nang/",
+    "label": "blog-dat-hoa",
+    "isAmp": true,
+    "elapsed": 33601,
+    "status": "ok",
+    "viewport": "1536x864",
+    "run": 1,
+    "timestamp": "2026-06-02T20:55:46.903Z"
+  },
+  {
+    "url": "/chinh-sach-bao-mat/",
+    "label": "privacy",
+    "isAmp": null,
+    "elapsed": 28340,
+    "status": "ok",
+    "viewport": "393x852",
+    "run": 1,
+    "timestamp": "2026-06-02T20:56:20.043Z"
+  },
+  {
+    "url": "/y-nghia-cac-loai-hoa/",
+    "label": "blog-y-nghia",
+    "isAmp": false,
+    "elapsed": 31468,
+    "status": "ok",
+    "viewport": "360x800",
+    "run": 1,
+    "timestamp": "2026-06-02T20:56:54.811Z"
+  },
+  {
+    "url": "/chinh-sach-giao-hang/",
+    "label": "shipping",
+    "isAmp": null,
+    "elapsed": 41404,
+    "status": "ok",
+    "viewport": "393x852",
+    "run": 1,
+    "timestamp": "2026-06-02T20:57:40.191Z"
+  },
+  {
+    "url": "/gioi-thieu/",
+    "label": "about",
+    "isAmp": null,
+    "elapsed": 28111,
+    "status": "ok",
+    "viewport": "393x852",
+    "run": 1,
+    "timestamp": "2026-06-02T20:58:13.332Z"
+  }
+]

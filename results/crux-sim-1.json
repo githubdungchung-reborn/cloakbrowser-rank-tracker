@@ -1,0 +1,82 @@
+[
+  {
+    "url": "/danh-muc/hoa-hong/",
+    "label": "cat-hong",
+    "isAmp": null,
+    "elapsed": 38304,
+    "status": "ok",
+    "viewport": "344x882",
+    "run": 1,
+    "timestamp": "2026-06-02T20:54:59.594Z"
+  },
+  {
+    "url": "/amp/cach-cham-soc-hoa-tuoi-lau-tan/",
+    "label": "blog-cham-soc",
+    "isAmp": true,
+    "elapsed": 30083,
+    "status": "ok",
+    "viewport": "390x844",
+    "run": 1,
+    "timestamp": "2026-06-02T20:55:33.572Z"
+  },
+  {
+    "url": "/danh-muc/hoa-tulip/",
+    "label": "cat-tulip",
+    "isAmp": null,
+    "elapsed": 38174,
+    "status": "ok",
+    "viewport": "393x852",
+    "run": 1,
+    "timestamp": "2026-06-02T20:56:15.706Z"
+  },
+  {
+    "url": "/danh-muc/hoa-khai-truong/",
+    "label": "cat-khai-truong",
+    "isAmp": null,
+    "elapsed": 33541,
+    "status": "ok",
+    "viewport": "390x844",
+    "run": 1,
+    "timestamp": "2026-06-02T20:56:54.323Z"
+  },
+  {
+    "url": "/danh-muc/hoa-chia-buon/",
+    "label": "cat-chia-buon",
+    "isAmp": null,
+    "elapsed": 40067,
+    "status": "ok",
+    "viewport": "393x852",
+    "run": 1,
+    "timestamp": "2026-06-02T20:57:40.356Z"
+  },
+  {
+    "url": "/amp/san-pham/khung-hoa-sinh-nhat-ha-long/",
+    "label": "product-khung-sinh-nhat",
+    "isAmp": true,
+    "elapsed": 33468,
+    "status": "ok",
+    "viewport": "390x844",
+    "run": 1,
+    "timestamp": "2026-06-02T20:58:20.731Z"
+  },
+  {
+    "url": "/danh-muc/hoa-sinh-nhat/",
+    "label": "cat-sinh-nhat",
+    "isAmp": null,
+    "elapsed": 22616,
+    "status": "ok",
+    "viewport": "412x915",
+    "run": 1,
+    "timestamp": "2026-06-02T20:58:46.494Z"
+  },
+  {
+    "url": "/cua-hang/",
+    "label": "shop",
+    "isAmp": null,
+    "elapsed": 38575,
+    "status": "ok",
+    "viewport": "360x800",
+    "run": 1,
+    "timestamp": "2026-06-02T20:59:29.770Z"
+  }
+]

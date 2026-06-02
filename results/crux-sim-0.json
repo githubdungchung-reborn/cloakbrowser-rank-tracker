@@ -1,0 +1,82 @@
+[
+  {
+    "url": "/amp/san-pham/bo-hoa-hong-do-99-bong/",
+    "label": "product-99-hong",
+    "isAmp": true,
+    "elapsed": 24120,
+    "status": "ok",
+    "viewport": "390x844",
+    "run": 1,
+    "timestamp": "2026-06-02T20:44:27.312Z"
+  },
+  {
+    "url": "/",
+    "label": "homepage",
+    "isAmp": false,
+    "elapsed": 29800,
+    "status": "ok",
+    "viewport": "1920x1080",
+    "run": 1,
+    "timestamp": "2026-06-02T20:45:04.547Z"
+  },
+  {
+    "url": "/san-pham/bo-ha-long-99-bong/",
+    "label": "product-ha-long-99",
+    "isAmp": false,
+    "elapsed": 38589,
+    "status": "ok",
+    "viewport": "344x882",
+    "run": 1,
+    "timestamp": "2026-06-02T20:45:49.798Z"
+  },
+  {
+    "url": "/amp/san-pham/binh-ha-long-9-bong/",
+    "label": "product-binh-ha-long",
+    "isAmp": true,
+    "elapsed": 32005,
+    "status": "ok",
+    "viewport": "360x800",
+    "run": 1,
+    "timestamp": "2026-06-02T20:46:27.288Z"
+  },
+  {
+    "url": "/amp/san-pham/bo-ha-long-7-bong/",
+    "label": "product-ha-long",
+    "isAmp": true,
+    "elapsed": 40533,
+    "status": "ok",
+    "viewport": "1536x864",
+    "run": 1,
+    "timestamp": "2026-06-02T20:47:11.618Z"
+  },
+  {
+    "url": "/san-pham/bo-ha-long-19-bong/",
+    "label": "product-ha-long-19",
+    "isAmp": false,
+    "elapsed": 23198,
+    "status": "ok",
+    "viewport": "390x844",
+    "run": 1,
+    "timestamp": "2026-06-02T20:47:40.216Z"
+  },
+  {
+    "url": "/amp/san-pham/gio-ha-long-7-bong/",
+    "label": "product-gio-ha-long",
+    "isAmp": true,
+    "elapsed": 30657,
+    "status": "ok",
+    "viewport": "412x915",
+    "run": 1,
+    "timestamp": "2026-06-02T20:48:14.110Z"
+  },
+  {
+    "url": "/san-pham/bo-hoa-tulip-7-bong/",
+    "label": "product-tulip",
+    "isAmp": false,
+    "elapsed": 30532,
+    "status": "ok",
+    "viewport": "344x882",
+    "run": 1,
+    "timestamp": "2026-06-02T20:48:51.512Z"
+  }
+]
