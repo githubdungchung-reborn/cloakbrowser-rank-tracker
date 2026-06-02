@@ -102,5 +102,43 @@ if (top.length) {
   top.forEach(([d, c]) => md += `| ${d} | ${c} |\n`);
 }
 
+// === CrUX Simulation Stats ===
+const cruxFiles = readdirSync(resultsDir).filter(f => f.startsWith('crux-sim-') && f.endsWith('.json'));
+let cruxVisits = [];
+for (const f of cruxFiles) {
+  try {
+    cruxVisits.push(...JSON.parse(readFileSync(`${resultsDir}/${f}`, 'utf-8')));
+  } catch {}
+}
+if (cruxVisits.length > 0) {
+  const ok = cruxVisits.filter(r => r.status === 'ok');
+  const err = cruxVisits.filter(r => r.status === 'error');
+  const ampOk = ok.filter(r => r.isAmp);
+  const canonicalOk = ok.filter(r => !r.isAmp);
+  const avgDwell = Math.round(ok.reduce((s, r) => s + r.elapsed, 0) / (ok.length || 1));
+
+  md += `\n## CrUX Traffic Simulation\n\n`;
+  md += `| Metric | Value |\n|--------|-------|\n`;
+  md += `| Total visits | ${cruxVisits.length} |\n`;
+  md += `| Successful | ${ok.length} |\n`;
+  md += `| Errors | ${err.length} |\n`;
+  md += `| AMP visits | ${ampOk.length} |\n`;
+  md += `| Canonical visits | ${canonicalOk.length} |\n`;
+  md += `| Avg dwell time | ${avgDwell}ms |\n`;
+
+  // Per-page breakdown
+  const byPage = {};
+  ok.forEach(r => {
+    if (!byPage[r.label]) byPage[r.label] = { amp: 0, canonical: 0, total: 0 };
+    byPage[r.label][r.isAmp ? 'amp' : 'canonical']++;
+    byPage[r.label].total++;
+  });
+  md += `\n### Pages Visited\n\n`;
+  md += `| Page | AMP | Canonical | Total |\n|------|-----|-----------|-------|\n`;
+  Object.entries(byPage).sort((a, b) => b[1].total - a[1].total).forEach(([label, counts]) => {
+    md += `| ${label} | ${counts.amp} | ${counts.canonical} | ${counts.total} |\n`;
+  });
+}
+
 writeFileSync('REPORT.md', md);
-console.log(`REPORT.md — rankings: ${ranked}/${allResults.length}, clicks: ${clickVerified}/${indexChecks.length} passed`);
+console.log(`REPORT.md — rankings: ${ranked}/${allResults.length}, clicks: ${clickVerified}/${indexChecks.length} passed, crux: ${cruxVisits.length} visits`);

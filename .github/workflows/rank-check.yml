@@ -120,3 +120,43 @@ jobs:
           git add results/ REPORT.md
           git diff --staged --quiet || git commit -m "rank update $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+
+  # ──────────────────────────────────────────────────────────
+  # CrUX Traffic Simulator — generates real Chrome visits to
+  # seed the Chrome User Experience Report with CWV data.
+  # Runs every 4 hours (CrUX aggregates over 28 days, so
+  # consistent traffic is more important than volume).
+  # ──────────────────────────────────────────────────────────
+  crux-simulate:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install CloakBrowser
+        run: npm install
+
+      - name: Install Chromium system deps
+        run: npx playwright install-deps chromium
+
+      - name: CrUX simulation (shard ${{ matrix.shard }})
+        env:
+          TARGET_DOMAIN: ${{ secrets.TARGET_SITE }}
+          CRUX_SHARD: ${{ matrix.shard }}
+          CRUX_SHARDS: '4'
+          CRUX_RUNS: '2'
+        run: node crux-simulate.mjs
+
+      - name: Upload CrUX results
+        uses: actions/upload-artifact@v4
+        with:
+          name: crux-sim-${{ matrix.shard }}
+          path: results/crux-sim-*.json
+          retention-days: 1
