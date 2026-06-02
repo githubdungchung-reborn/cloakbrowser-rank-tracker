@@ -89,6 +89,14 @@ const MOBILE_VIEWPORTS = [
   { width: 344, height: 882, deviceScaleFactor: 3, isMobile: true },  // Samsung Galaxy S24
 ];
 
+// Desktop viewports — CrUX tracks both mobile and desktop
+const DESKTOP_VIEWPORTS = [
+  { width: 1920, height: 1080, deviceScaleFactor: 1, isMobile: false }, // Full HD
+  { width: 1440, height: 900, deviceScaleFactor: 1, isMobile: false },  // MacBook Air
+  { width: 1366, height: 768, deviceScaleFactor: 1, isMobile: false },  // Common laptop
+  { width: 1536, height: 864, deviceScaleFactor: 1.25, isMobile: false }, // Surface
+];
+
 const results = [];
 const browser = await launch({ headless: true, humanize: true });
 
@@ -101,7 +109,10 @@ for (let run = 0; run < RUNS; run++) {
     const useAmp = page.ampUrl && Math.random() > 0.35;
     const path = useAmp ? page.ampUrl : page.url;
     const fullUrl = `${BASE}${path}`;
-    const viewport = MOBILE_VIEWPORTS[Math.floor(Math.random() * MOBILE_VIEWPORTS.length)];
+    // 70% mobile, 30% desktop — CrUX tracks both device types
+    const isMobileVisit = Math.random() > 0.3;
+    const viewports = isMobileVisit ? MOBILE_VIEWPORTS : DESKTOP_VIEWPORTS;
+    const viewport = viewports[Math.floor(Math.random() * viewports.length)];
 
     const context = await browser.newContext({
       viewport,
@@ -124,6 +135,35 @@ for (let run = 0; run < RUNS; run++) {
         await new Promise(r => setTimeout(r, 500 + Math.random() * 1500));
       }
 
+      // Hover over interactive elements (exercises INP — hover triggers event handlers)
+      if (Math.random() > 0.4) {
+        const hoverTarget = await tab.evaluate(() => {
+          const targets = Array.from(document.querySelectorAll('a, button, [role="button"], article'));
+          if (targets.length === 0) return null;
+          const pick = targets[Math.floor(Math.random() * targets.length)];
+          const rect = pick.getBoundingClientRect();
+          return { x: rect.x + rect.width / 2, y: rect.y + rect.height / 2 };
+        });
+        if (hoverTarget) {
+          await tab.mouse.move(hoverTarget.x, hoverTarget.y);
+          await new Promise(r => setTimeout(r, 300 + Math.random() * 700));
+        }
+      }
+
+      // Focus on a form input if present (exercises INP — focus triggers handlers)
+      if (Math.random() > 0.7) {
+        const input = await tab.evaluate(() => {
+          const inputs = document.querySelectorAll('input:not([type="hidden"]), textarea, select');
+          if (inputs.length === 0) return null;
+          const pick = inputs[Math.floor(Math.random() * inputs.length)];
+          pick.focus();
+          return true;
+        });
+        if (input) {
+          await new Promise(r => setTimeout(r, 500 + Math.random() * 1000));
+        }
+      }
+
       // Scroll back up a bit (real users do this)
       if (Math.random() > 0.5) {
         await tab.evaluate(() => window.scrollBy(0, -300));
@@ -131,14 +171,16 @@ for (let run = 0; run < RUNS; run++) {
       }
 
       // Stay on page for a realistic duration (CrUX needs user interaction)
-      const dwellTime = 2000 + Math.floor(Math.random() * 6000);
+      const dwellTime = 3000 + Math.floor(Math.random() * 8000);
       await new Promise(r => setTimeout(r, dwellTime));
 
-      // Optionally click a link (internal navigation)
-      if (Math.random() > 0.6) {
+      // Multi-page session: click 1-2 internal links (simulates browsing session)
+      const navCount = Math.random() > 0.5 ? 2 : 1;
+      for (let nav = 0; nav < navCount; nav++) {
         const internalLink = await tab.evaluate((domain) => {
           const links = Array.from(document.querySelectorAll('a[href]'))
-            .filter(a => a.href.includes(domain) && a.href !== window.location.href);
+            .filter(a => a.href.includes(domain) && a.href !== window.location.href
+              && !a.href.includes('#') && !a.href.includes('tel:') && !a.href.includes('zalo.me'));
           if (links.length === 0) return null;
           const pick = links[Math.floor(Math.random() * links.length)];
           return pick.href;
@@ -147,8 +189,16 @@ for (let run = 0; run < RUNS; run++) {
         if (internalLink) {
           try {
             await tab.goto(internalLink, { waitUntil: 'load', timeout: 20000 });
-            await new Promise(r => setTimeout(r, 2000 + Math.random() * 3000));
-            console.log(`    → clicked internal: ${new URL(internalLink).pathname}`);
+
+            // Scroll the navigated page too
+            const navScrolls = 2 + Math.floor(Math.random() * 3);
+            for (let s = 0; s < navScrolls; s++) {
+              await tab.evaluate((px) => window.scrollBy(0, px), 200 + Math.floor(Math.random() * 300));
+              await new Promise(r => setTimeout(r, 400 + Math.random() * 1000));
+            }
+
+            await new Promise(r => setTimeout(r, 2000 + Math.random() * 4000));
+            console.log(`    → nav ${nav + 1}: ${new URL(internalLink).pathname}`);
           } catch { /* navigation failed, continue */ }
         }
       }
@@ -200,10 +250,17 @@ writeFileSync(outFile, JSON.stringify(results, null, 2));
 const ok = results.filter(r => r.status === 'ok').length;
 const err = results.filter(r => r.status === 'error').length;
 const ampCount = results.filter(r => r.isAmp && r.status === 'ok').length;
+const mobileCount = results.filter(r => {
+  if (r.status !== 'ok' || !r.viewport) return false;
+  const w = parseInt(r.viewport.split('x')[0], 10);
+  return w <= 768;
+}).length;
+const desktopCount = ok - mobileCount;
 const avgTime = Math.round(results.filter(r => r.status === 'ok').reduce((s, r) => s + r.elapsed, 0) / (ok || 1));
 
 console.log(`\n=== Summary ===`);
 console.log(`Total: ${results.length} | OK: ${ok} | Error: ${err}`);
 console.log(`AMP visits: ${ampCount} | Canonical: ${ok - ampCount}`);
+console.log(`Mobile: ${mobileCount} | Desktop: ${desktopCount}`);
 console.log(`Avg dwell: ${avgTime}ms`);
 console.log(`Saved: ${outFile}`);
