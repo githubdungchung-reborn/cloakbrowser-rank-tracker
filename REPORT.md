@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-02T19:57:57.458Z
+**Updated:** 2026-06-02T21:17:48.973Z
 
 ## Keyword Rankings
 
@@ -80,3 +80,41 @@
 | #12 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #13 | - | - | No |
 | #14 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+
+## CrUX Traffic Simulation
+
+| Metric | Value |
+|--------|-------|
+| Total visits | 22 |
+| Successful | 22 |
+| Errors | 0 |
+| AMP visits | 7 |
+| Canonical visits | 15 |
+| Avg dwell time | 32962ms |
+
+### Pages Visited
+
+| Page | AMP | Canonical | Total |
+|------|-----|-----------|-------|
+| product-99-hong | 1 | 0 | 1 |
+| homepage | 0 | 1 | 1 |
+| product-ha-long-99 | 0 | 1 | 1 |
+| product-binh-ha-long | 1 | 0 | 1 |
+| product-ha-long | 1 | 0 | 1 |
+| product-ha-long-19 | 0 | 1 | 1 |
+| product-gio-ha-long | 1 | 0 | 1 |
+| product-tulip | 0 | 1 | 1 |
+| cat-hong | 0 | 1 | 1 |
+| blog-cham-soc | 1 | 0 | 1 |
+| cat-tulip | 0 | 1 | 1 |
+| cat-khai-truong | 0 | 1 | 1 |
+| cat-chia-buon | 0 | 1 | 1 |
+| product-khung-sinh-nhat | 1 | 0 | 1 |
+| cat-sinh-nhat | 0 | 1 | 1 |
+| shop | 0 | 1 | 1 |
+| contact | 0 | 1 | 1 |
+| blog-dat-hoa | 1 | 0 | 1 |
+| privacy | 0 | 1 | 1 |
+| blog-y-nghia | 0 | 1 | 1 |
+| shipping | 0 | 1 | 1 |
+| about | 0 | 1 | 1 |
