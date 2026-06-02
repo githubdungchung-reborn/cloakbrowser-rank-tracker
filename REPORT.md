@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-02T21:17:48.973Z
+**Updated:** 2026-06-02T22:04:12.605Z
 
 ## Keyword Rankings
 
@@ -46,12 +46,12 @@
 
 **Visibility:** 0/38 keywords ranking (0%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (16 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 4/15 passed
-- **Click failed:** 11/15
+- **Click verified:** 4/16 passed
+- **Click failed:** 12/16
 
 ### Pages Clicked (random distribution)
 
@@ -71,15 +71,16 @@
 | #3 | - | - | No |
 | #4 | - | - | No |
 | #5 | - | - | No |
-| #6 | / | Loading https://hoatuoidanangnhanhi.com/ | Yes |
-| #7 | - | - | No |
+| #6 | - | - | No |
+| #7 | / | Loading https://hoatuoidanangnhanhi.com/ | Yes |
 | #8 | - | - | No |
 | #9 | - | - | No |
 | #10 | - | - | No |
 | #11 | - | - | No |
-| #12 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #13 | - | - | No |
-| #14 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #12 | - | - | No |
+| #13 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #14 | - | - | No |
+| #15 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 
 ## CrUX Traffic Simulation
 
