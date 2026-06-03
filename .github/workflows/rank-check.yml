@@ -192,10 +192,9 @@ jobs:
           TARGET_DOMAIN: ${{ secrets.TARGET_SITE }}
         run: |
           mkdir -p results
-          echo '{"pages": [], "timestamp": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'"}' > results/lighthouse-cwv.json
-          PAGES="/" "/san-pham/" "/danh-muc/hoa-sinh-nhat/" "/san-pham/bo-hoa-hong-do-dai/" "/amp/"
+          PAGES=("/" "/san-pham/" "/danh-muc/hoa-sinh-nhat/" "/san-pham/bo-hoa-hong-do-dai/" "/amp/")
           RESULTS='[]'
-          for PAGE in $PAGES; do
+          for PAGE in "${PAGES[@]}"; do
             echo "=== Lighthouse: https://${TARGET_DOMAIN}${PAGE} ==="
             SCORE=$(lighthouse "https://${TARGET_DOMAIN}${PAGE}" \
               --chrome-flags="--headless --no-sandbox --disable-gpu" \
