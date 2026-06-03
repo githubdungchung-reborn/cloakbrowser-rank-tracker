@@ -2,14 +2,15 @@
   {
     "keyword": "hoa 8/3 đà nẵng",
     "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-06-02T19:57:28.444Z"
-  },
-  {
-    "keyword": "hoa 8/3 đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
+    "topCompetitors": [
+      "canhdonghoatuoi.com",
+      "hoatuoidanang.net",
+      "facebook.com"
+    ],
+    "pagesSearched": 50,
+    "timestamp": "2026-06-03T00:01:28.772Z"
+  }
+][],
     "pagesSearched": 50,
     "timestamp": "2026-06-02T19:57:28.444Z"
   }
