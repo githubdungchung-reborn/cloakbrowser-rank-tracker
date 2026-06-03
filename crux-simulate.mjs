@@ -1,11 +1,21 @@
 /**
- * CrUX Traffic Simulator — generates real-looking Chrome visits via CloakBrowser
- * to seed the Chrome User Experience Report with Core Web Vitals data.
+ * CrUX Traffic Simulator — generates realistic Chrome-like visits via CloakBrowser
+ * to exercise CWV metrics and generate analytics traffic.
  *
- * CloakBrowser uses real Chromium with humanized interactions, so Google
- * treats these as genuine Chrome user sessions (the "API endpoint" that CrUX
- * mentions in its docs). Each run visits a mix of main pages + AMP pages from
- * mobile viewports to maximize CrUX eligibility.
+ * IMPORTANT — CrUX Methodology Note:
+ * CrUX data is collected exclusively from REAL Chrome browsers via browser telemetry
+ * (users must have "Usage statistics and crash reports" + sync enabled, no passphrase).
+ * Other Chromium browsers (Edge, CloakBrowser, etc.) are explicitly excluded.
+ * See: https://developer.chrome.com/docs/crux/methodology
+ *
+ * This simulator CANNOT directly populate CrUX data. Its value is:
+ * 1. Exercising CWV metrics under realistic conditions (scroll, click, INP triggers)
+ * 2. Generating analytics traffic patterns visible in GA/Search Console
+ * 3. Seeding Googlebot crawl signals (not CrUX, but general SEO)
+ * 4. Testing page performance under various viewports and interaction patterns
+ *
+ * For CrUX improvements to appear, real Chrome users must visit the site.
+ * Our CWV optimizations (LCP, CLS, INP) will benefit all users regardless.
  *
  * Usage:
  *   node crux-simulate.mjs          # default: visit all URLs once
@@ -121,6 +131,39 @@ for (let run = 0; run < RUNS; run++) {
       userAgent: undefined, // Let CloakBrowser use its real Chrome UA
     });
     const tab = await context.newPage();
+
+    // Inject Client Hints to match real Chrome behavior
+    // CrUX requires Chrome with sync+telemetry; this makes the browser look
+    // more authentic to any server-side detection, even though CrUX itself
+    // collects data via Chrome browser telemetry (not website JS).
+    await tab.addInitScript(() => {
+      if (!navigator.userAgentData) {
+        Object.defineProperty(navigator, 'userAgentData', {
+          get: () => ({
+            brands: [
+              { brand: 'Google Chrome', version: '146' },
+              { brand: 'Chromium', version: '146' },
+              { brand: 'Not_A Brand', version: '24' },
+            ],
+            mobile: false,
+            platform: 'Windows',
+            getHighEntropyValues: async () => ({
+              brands: [
+                { brand: 'Google Chrome', version: '146' },
+                { brand: 'Chromium', version: '146' },
+              ],
+              mobile: false,
+              platform: 'Windows',
+              platformVersion: '15.0.0',
+              architecture: 'x86',
+              bitness: '64',
+              model: '',
+              uaFullVersion: '146.0.0.0',
+            }),
+          }),
+        });
+      }
+    });
 
     const t0 = Date.now();
     try {
