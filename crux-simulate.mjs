@@ -31,34 +31,35 @@ const BASE = `https://${DOMAIN}`;
 // Pages to visit — mix of AMP + canonical for CrUX data collection.
 // AMP pages are lightweight and load faster, which helps CLS/LCP metrics.
 // Canonical pages carry heavier JS so they exercise INP.
+// All slugs verified against live sitemap 2026-03-22.
 const PAGE_POOL = [
   // Homepage
   { url: '/', ampUrl: '/amp/', label: 'homepage' },
-  // Products (top categories / popular items)
-  { url: '/san-pham/bo-hoa-hong-do-99-bong/', ampUrl: '/amp/san-pham/bo-hoa-hong-do-99-bong/', label: 'product-99-hong' },
-  { url: '/san-pham/bo-ha-long-7-bong/', ampUrl: '/amp/san-pham/bo-ha-long-7-bong/', label: 'product-ha-long' },
-  { url: '/san-pham/gio-ha-long-7-bong/', ampUrl: '/amp/san-pham/gio-ha-long-7-bong/', label: 'product-gio-ha-long' },
-  { url: '/san-pham/binh-ha-long-9-bong/', ampUrl: '/amp/san-pham/binh-ha-long-9-bong/', label: 'product-binh-ha-long' },
-  { url: '/san-pham/bo-ha-long-19-bong/', ampUrl: '/amp/san-pham/bo-ha-long-19-bong/', label: 'product-ha-long-19' },
-  { url: '/san-pham/bo-ha-long-99-bong/', ampUrl: '/amp/san-pham/bo-ha-long-99-bong/', label: 'product-ha-long-99' },
-  { url: '/san-pham/bo-hoa-tulip-7-bong/', ampUrl: '/amp/san-pham/bo-hoa-tulip-7-bong/', label: 'product-tulip' },
-  { url: '/san-pham/khung-hoa-sinh-nhat-ha-long/', ampUrl: '/amp/san-pham/khung-hoa-sinh-nhat-ha-long/', label: 'product-khung-sinh-nhat' },
-  // Category pages
+  // Products (verified live slugs, AMP works via middleware)
+  { url: '/san-pham/bo-hoa-hong-do-dai/', ampUrl: '/amp/san-pham/bo-hoa-hong-do-dai/', label: 'product-hong-do' },
+  { url: '/san-pham/bo-hoa-baby-hong/', ampUrl: '/amp/san-pham/bo-hoa-baby-hong/', label: 'product-baby-hong' },
+  { url: '/san-pham/bo-hoa-cam-chuong-hong/', ampUrl: '/amp/san-pham/bo-hoa-cam-chuong-hong/', label: 'product-cam-chuong' },
+  { url: '/san-pham/bo-hoa-cat-tuong-mix-baby/', ampUrl: '/amp/san-pham/bo-hoa-cat-tuong-mix-baby/', label: 'product-cat-tuong' },
+  { url: '/san-pham/bo-hoa-hong-chum-sofia/', ampUrl: '/amp/san-pham/bo-hoa-hong-chum-sofia/', label: 'product-sofia' },
+  { url: '/san-pham/bo-hoa-hong-mix-007/', ampUrl: '/amp/san-pham/bo-hoa-hong-mix-007/', label: 'product-mix-007' },
+  { url: '/san-pham/bo-hoa-huong-duong-vintage/', ampUrl: '/amp/san-pham/bo-hoa-huong-duong-vintage/', label: 'product-huong-duong' },
+  { url: '/san-pham/ke-hoa-hong-do-giay-coi/', ampUrl: '/amp/san-pham/ke-hoa-hong-do-giay-coi/', label: 'product-ke-hong-do' },
+  // Category pages (no AMP)
   { url: '/cua-hang/', ampUrl: null, label: 'shop' },
   { url: '/danh-muc/hoa-sinh-nhat/', ampUrl: null, label: 'cat-sinh-nhat' },
   { url: '/danh-muc/hoa-khai-truong/', ampUrl: null, label: 'cat-khai-truong' },
   { url: '/danh-muc/hoa-chia-buon/', ampUrl: null, label: 'cat-chia-buon' },
   { url: '/danh-muc/hoa-tulip/', ampUrl: null, label: 'cat-tulip' },
   { url: '/danh-muc/hoa-hong/', ampUrl: null, label: 'cat-hong' },
-  // Blog articles
-  { url: '/cach-cham-soc-hoa-tuoi-lau-tan/', ampUrl: '/amp/cach-cham-soc-hoa-tuoi-lau-tan/', label: 'blog-cham-soc' },
-  { url: '/y-nghia-cac-loai-hoa/', ampUrl: '/amp/y-nghia-cac-loai-hoa/', label: 'blog-y-nghia' },
-  { url: '/dat-hoa-online-da-nang/', ampUrl: '/amp/dat-hoa-online-da-nang/', label: 'blog-dat-hoa' },
-  // Info pages
+  // Blog articles (verified from sitemap-articles.xml)
+  { url: '/hoa-da-nang-honeymoon-tuan-trang-mat-bai-bien-resort-2026-decor/', ampUrl: '/amp/hoa-da-nang-honeymoon-tuan-trang-mat-bai-bien-resort-2026-decor/', label: 'blog-honeymoon' },
+  { url: '/hoa-da-nang-quy-trinh-kiem-soat-chat-luong-tu-vuon-toi-khach-2026/', ampUrl: '/amp/hoa-da-nang-quy-trinh-kiem-soat-chat-luong-tu-vuon-toi-khach-2026/', label: 'blog-chat-luong' },
+  { url: '/nghe-florist-tai-da-nang-2026-luong-thuong-thu-nhap-thuc-te-co-hoi-vieclam/', ampUrl: '/amp/nghe-florist-tai-da-nang-2026-luong-thuong-thu-nhap-thuc-te-co-hoi-vieclam/', label: 'blog-florist' },
+  // Info pages (verified from sitemap-pages.xml)
   { url: '/gioi-thieu/', ampUrl: null, label: 'about' },
   { url: '/lien-he/', ampUrl: null, label: 'contact' },
-  { url: '/chinh-sach-giao-hang/', ampUrl: null, label: 'shipping' },
-  { url: '/chinh-sach-bao-mat/', ampUrl: null, label: 'privacy' },
+  { url: '/chinh-sach-van-chuyen/', ampUrl: null, label: 'shipping' },
+  { url: '/chinh-sach-bao-mat-thong-tin/', ampUrl: null, label: 'privacy' },
 ];
 
 // Shuffle array using Fisher-Yates
