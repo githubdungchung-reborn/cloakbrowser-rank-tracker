@@ -57,10 +57,10 @@ const PAGE_POOL = [
   // Category pages (no AMP)
   { url: '/cua-hang/', ampUrl: null, label: 'shop' },
   { url: '/danh-muc/hoa-sinh-nhat/', ampUrl: null, label: 'cat-sinh-nhat' },
-  { url: '/danh-muc/hoa-khai-truong/', ampUrl: null, label: 'cat-khai-truong' },
+  { url: '/danh-muc/hoa-su-kien/hoa-khai-truong/', ampUrl: null, label: 'cat-khai-truong' },
   { url: '/danh-muc/hoa-chia-buon/', ampUrl: null, label: 'cat-chia-buon' },
-  { url: '/danh-muc/hoa-tulip/', ampUrl: null, label: 'cat-tulip' },
-  { url: '/danh-muc/hoa-hong/', ampUrl: null, label: 'cat-hong' },
+  { url: '/danh-muc/hoa-tuoi/hoa-hong/', ampUrl: null, label: 'cat-hong' },
+  { url: '/danh-muc/hoa-tuoi/', ampUrl: null, label: 'cat-hoa-tuoi' },
   // Blog articles (verified from sitemap-articles.xml)
   { url: '/hoa-da-nang-honeymoon-tuan-trang-mat-bai-bien-resort-2026-decor/', ampUrl: '/amp/hoa-da-nang-honeymoon-tuan-trang-mat-bai-bien-resort-2026-decor/', label: 'blog-honeymoon' },
   { url: '/hoa-da-nang-quy-trinh-kiem-soat-chat-luong-tu-vuon-toi-khach-2026/', ampUrl: '/amp/hoa-da-nang-quy-trinh-kiem-soat-chat-luong-tu-vuon-toi-khach-2026/', label: 'blog-chat-luong' },
