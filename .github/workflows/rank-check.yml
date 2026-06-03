@@ -190,51 +190,7 @@ jobs:
       - name: Run Lighthouse on key pages
         env:
           TARGET_DOMAIN: ${{ secrets.TARGET_SITE }}
-        run: |
-          mkdir -p results
-          PAGES=("/" "/san-pham/" "/danh-muc/hoa-sinh-nhat/" "/san-pham/bo-hoa-hong-do-dai/" "/amp/")
-          RESULTS='[]'
-          for PAGE in "${PAGES[@]}"; do
-            echo "=== Lighthouse: https://${TARGET_DOMAIN}${PAGE} ==="
-            SCORE=$(lighthouse "https://${TARGET_DOMAIN}${PAGE}" \
-              --chrome-flags="--headless --no-sandbox --disable-gpu" \
-              --output=json --quiet \
-              --only-categories=performance \
-              --preset=desktop 2>/dev/null \
-              | node -e "
-                let d=''; process.stdin.on('data',c=>d+=c); process.stdin.on('end',()=>{
-                  try {
-                    const j=JSON.parse(d);
-                    const perf=j.categories?.performance?.score ?? null;
-                    const audits=j.audits || {};
-                    const lcp=audits['largest-contentful-paint']?.numericValue ?? null;
-                    const cls=audits['cumulative-layout-shift']?.numericValue ?? null;
-                    const inp=audits['interaction-to-next-paint']?.numericValue ?? null;
-                    const fcp=audits['first-contentful-paint']?.numericValue ?? null;
-                    const ttfb=audits['server-response-time']?.numericValue ?? null;
-                    console.log(JSON.stringify({score:perf,lcp:Math.round(lcp),cls:Math.round(cls*1000)/1000,inp:Math.round(inp),fcp:Math.round(fcp),ttfb:Math.round(ttb)}));
-                  } catch(e) { console.log('{\"error\":\"parse failed\"}'); }
-                });" || echo '{"error":"lighthouse failed"}')
-            echo "  Result: $SCORE"
-            RESULTS=$(echo "$RESULTS" | node -e "
-              let d=''; process.stdin.on('data',c=>d+=c); process.stdin.on('end',()=>{
-                try {
-                  const arr=JSON.parse(d);
-                  arr.push({page:'${PAGE}', ...JSON.parse('${SCORE}')});
-                  console.log(JSON.stringify(arr));
-                } catch { console.log('[]'); }
-              });")
-            sleep 2
-          done
-          node -e "
-            const pages=${RESULTS};
-            const ts=new Date().toISOString();
-            require('fs').writeFileSync('results/lighthouse-cwv.json', JSON.stringify({timestamp:ts,domain:'${TARGET_DOMAIN}',pages},null,2));
-            console.log('Saved results/lighthouse-cwv.json');
-            const good=pages.filter(p=>p.score>=0.9).length;
-            console.log('Performance scores: '+good+'/'+pages.length+' >= 90');
-            pages.forEach(p=>console.log('  '+p.page+': '+(p.score!=null?Math.round(p.score*100):'N/A')+'% | LCP:'+(p.lcp??'?')+'ms | CLS:'+(p.cls??'?')+' | INP:'+(p.inp??'?')+'ms'));
-          "
+        run: node lighthouse-cwv.mjs
 
       - name: Upload Lighthouse results
         uses: actions/upload-artifact@v4
