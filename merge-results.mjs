@@ -115,30 +115,117 @@ if (cruxVisits.length > 0) {
   const err = cruxVisits.filter(r => r.status === 'error');
   const ampOk = ok.filter(r => r.isAmp);
   const canonicalOk = ok.filter(r => !r.isAmp);
+  const mobileOk = ok.filter(r => r.isMobile);
+  const desktopOk = ok.filter(r => !r.isMobile);
   const avgDwell = Math.round(ok.reduce((s, r) => s + r.elapsed, 0) / (ok.length || 1));
+  const eligibleOk = ok.filter(r => r.isEligible);
+
+  // CWV aggregation
+  const cwvWithLcp = ok.filter(r => r.cwv?.lcp != null);
+  const cwvWithCls = ok.filter(r => r.cwv?.cls != null);
+  const cwvWithInp = ok.filter(r => r.cwv?.inp != null);
+  const avgLcp = cwvWithLcp.length ? Math.round(cwvWithLcp.reduce((s, r) => s + r.cwv.lcp, 0) / cwvWithLcp.length) : null;
+  const avgCls = cwvWithCls.length ? Math.round(cwvWithCls.reduce((s, r) => s + r.cwv.cls, 0) / cwvWithCls.length * 1000) / 1000 : null;
+  const avgInp = cwvWithInp.length ? Math.round(cwvWithInp.reduce((s, r) => s + r.cwv.inp, 0) / cwvWithInp.length) : null;
+  const allGoodCount = ok.filter(r => r.cwv?.allGood).length;
+
+  const rateLcp = avgLcp != null ? (avgLcp <= 2500 ? '🟢 Good' : avgLcp <= 4000 ? '🟡 Needs Improvement' : '🔴 Poor') : 'N/A';
+  const rateCls = avgCls != null ? (avgCls <= 0.1 ? '🟢 Good' : avgCls <= 0.25 ? '🟡 Needs Improvement' : '🔴 Poor') : 'N/A';
+  const rateInp = avgInp != null ? (avgInp <= 200 ? '🟢 Good' : avgInp <= 500 ? '🟡 Needs Improvement' : '🔴 Poor') : 'N/A';
 
   md += `\n## CrUX Traffic Simulation\n\n`;
+  md += `> **Note:** CloakBrowser is a Chromium browser — CrUX collects data exclusively from real Chrome browsers. This simulator validates CWV metrics and exercises page performance but does NOT populate CrUX data. See [CrUX Methodology](https://developer.chrome.com/docs/crux/methodology).\n\n`;
   md += `| Metric | Value |\n|--------|-------|\n`;
   md += `| Total visits | ${cruxVisits.length} |\n`;
   md += `| Successful | ${ok.length} |\n`;
   md += `| Errors | ${err.length} |\n`;
   md += `| AMP visits | ${ampOk.length} |\n`;
   md += `| Canonical visits | ${canonicalOk.length} |\n`;
+  md += `| Mobile | ${mobileOk.length} |\n`;
+  md += `| Desktop | ${desktopOk.length} |\n`;
   md += `| Avg dwell time | ${avgDwell}ms |\n`;
+  md += `| CrUX-eligible pages | ${eligibleOk.length}/${ok.length} |\n`;
 
-  // Per-page breakdown
-  const byPage = {};
+  md += `\n### Core Web Vitals (averages)\n\n`;
+  md += `| Metric | Value | Rating | Threshold |\n|--------|-------|--------|----------|\n`;
+  md += `| LCP | ${avgLcp ?? 'N/A'}ms | ${rateLcp} | ≤2500ms |\n`;
+  md += `| CLS | ${avgCls ?? 'N/A'} | ${rateCls} | ≤0.1 |\n`;
+  md += `| INP | ${avgInp ?? 'N/A'}ms | ${rateInp} | ≤200ms |\n`;
+  md += `| All CWV good | ${allGoodCount}/${ok.length} visits | — | — |\n`;
+
+  // Per-page CWV breakdown
+  const byPageCwv = {};
   ok.forEach(r => {
-    if (!byPage[r.label]) byPage[r.label] = { amp: 0, canonical: 0, total: 0 };
-    byPage[r.label][r.isAmp ? 'amp' : 'canonical']++;
-    byPage[r.label].total++;
+    if (!byPageCwv[r.label]) byPageCwv[r.label] = { lcp: [], cls: [], inp: [], fcp: [], ttfb: [], amp: 0, canonical: 0 };
+    if (r.cwv?.lcp != null) byPageCwv[r.label].lcp.push(r.cwv.lcp);
+    if (r.cwv?.cls != null) byPageCwv[r.label].cls.push(r.cwv.cls);
+    if (r.cwv?.inp != null) byPageCwv[r.label].inp.push(r.cwv.inp);
+    if (r.cwv?.fcp != null) byPageCwv[r.label].fcp.push(r.cwv.fcp);
+    if (r.cwv?.ttfb != null) byPageCwv[r.label].ttfb.push(r.cwv.ttfb);
+    byPageCwv[r.label][r.isAmp ? 'amp' : 'canonical']++;
   });
-  md += `\n### Pages Visited\n\n`;
-  md += `| Page | AMP | Canonical | Total |\n|------|-----|-----------|-------|\n`;
-  Object.entries(byPage).sort((a, b) => b[1].total - a[1].total).forEach(([label, counts]) => {
-    md += `| ${label} | ${counts.amp} | ${counts.canonical} | ${counts.total} |\n`;
+
+  md += `\n### Per-page CWV Breakdown\n\n`;
+  md += `| Page | LCP | CLS | INP | FCP | TTFB | AMP | Canonical |\n|------|-----|-----|-----|-----|------|-----|----------|\n`;
+  const avgArr = (arr) => arr.length ? Math.round(arr.reduce((s, v) => s + v, 0) / arr.length) : null;
+  Object.entries(byPageCwv).sort((a, b) => (avgArr(b[1].lcp) || 0) - (avgArr(a[1].lcp) || 0)).forEach(([label, m]) => {
+    const lcp = avgArr(m.lcp);
+    const cls = m.cls.length ? Math.round(m.cls.reduce((s, v) => s + v, 0) / m.cls.length * 1000) / 1000 : null;
+    const inp = avgArr(m.inp);
+    const fcp = avgArr(m.fcp);
+    const ttfb = avgArr(m.ttfb);
+    md += `| ${label} | ${lcp ?? '?'}ms | ${cls ?? '?'} | ${inp ?? '?'}ms | ${fcp ?? '?'}ms | ${ttfb ?? '?'}ms | ${m.amp} | ${m.canonical} |\n`;
   });
+
+  // Eligibility issues
+  const ineligible = ok.filter(r => !r.isEligible);
+  if (ineligible.length > 0) {
+    md += `\n### ⚠️ Pages Not Eligible for CrUX\n\n`;
+    md += `| Page | URL | Issue |\n|------|-----|-------|\n`;
+    ineligible.forEach(r => {
+      const issue = r.hasNoindex ? 'noindex tag' : `HTTP ${r.httpStatus}`;
+      md += `| ${r.label} | ${r.url} | ${issue} |\n`;
+    });
+  }
+
+  // Errors
+  if (err.length > 0) {
+    md += `\n### Errors\n\n`;
+    md += `| Page | Error |\n|------|-------|\n`;
+    err.forEach(r => {
+      md += `| ${r.label} | ${r.error?.substring(0, 80) || 'unknown'} |\n`;
+    });
+  }
 }
 
 writeFileSync('REPORT.md', md);
 console.log(`REPORT.md — rankings: ${ranked}/${allResults.length}, clicks: ${clickVerified}/${indexChecks.length} passed, crux: ${cruxVisits.length} visits`);
+
+// === Lighthouse CWV ===
+const lighthouseFile = `${resultsDir}/lighthouse-cwv.json`;
+if (existsSync(lighthouseFile)) {
+  try {
+    const lh = JSON.parse(readFileSync(lighthouseFile, 'utf-8'));
+    if (lh.pages?.length) {
+      // Append to existing report
+      let lmd = `\n## Lighthouse CWV Verification\n\n`;
+      lmd += `> **Source:** Lighthouse desktop preset, run via GitHub Actions.\n\n`;
+      lmd += `| Page | Score | LCP | CLS | INP | FCP | TTFB |\n|------|-------|-----|-----|-----|-----|------|\n`;
+      for (const p of lh.pages) {
+        const score = p.score != null ? `${Math.round(p.score * 100)}%` : 'N/A';
+        const lcp = p.lcp != null ? `${p.lcp}ms` : '?';
+        const cls = p.cls != null ? `${p.cls}` : '?';
+        const inp = p.inp != null ? `${p.inp}ms` : '?';
+        const fcp = p.fcp != null ? `${p.fcp}ms` : '?';
+        const ttfb = p.ttfb != null ? `${p.ttfb}ms` : '?';
+        lmd += `| ${p.page} | ${score} | ${lcp} | ${cls} | ${inp} | ${fcp} | ${ttfb} |\n`;
+      }
+      const goodScores = lh.pages.filter(p => p.score >= 0.9).length;
+      lmd += `\n**Pass rate:** ${goodScores}/${lh.pages.length} pages ≥ 90%\n`;
+      appendFileSync('REPORT.md', lmd);
+      console.log(`Lighthouse: ${goodScores}/${lh.pages.length} pages ≥ 90%`);
+    }
+  } catch (e) {
+    console.warn(`Warning: could not parse lighthouse-cwv.json: ${e.message}`);
+  }
+}
