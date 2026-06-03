@@ -1,13 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-27T16:46:53.637Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
+  "timestamp": "2026-06-03T01:51:18.091Z",
+  "indexStats": "Khoảng 601 kết quả (0,27 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
+    "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
+    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+    "https://hoatuoidanangnhanhi.com/chinh-sach-van-chuyen/",
+    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
+    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
+    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-valentine/",
+    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cam-on/"
+  ],
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
+  "clickedPosition": 6,
+  "clickVerified": true,
+  "landedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
+  "landedTitle": "Hoa cưới | Hoa Tươi Đà Nẵng",
   "brandRank": 2
 }
