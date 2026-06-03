@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-31T18:15:54.128Z",
-  "indexStats": "Khoảng 614 kết quả (0,23 giây) ",
+  "timestamp": "2026-06-03T07:17:09.620Z",
+  "indexStats": "Khoảng 604 kết quả (0,11 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,10 +15,10 @@
     "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/",
     "https://hoatuoidanangnhanhi.com/danh-muc/hoa-valentine/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
-  "clickedPosition": 0,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-valentine/",
+  "clickedPosition": 9,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/",
-  "landedTitle": "Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng",
-  "brandRank": 1
+  "landedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-valentine/",
+  "landedTitle": "Hoa Valentine | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
 }
