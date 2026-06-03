@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-03T01:52:12.951Z
+**Updated:** 2026-06-03T05:11:24.063Z
 
 ## Keyword Rankings
 
@@ -11,43 +11,44 @@
 | 4 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | - |
 | 5 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
 | 6 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
-| 7 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
-| 8 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 13 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
-| 14 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | hoa valentine đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | hoa valentine đà nẵng | NOT FOUND | - | 50p | - |
-| 27 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 28 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 29 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 30 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 31 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 32 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 33 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 34 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 7 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
+| 8 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
+| 9 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
+| 10 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
+| 11 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
+| 12 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
+| 13 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
+| 14 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
+| 15 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
+| 16 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 17 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 18 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 19 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 20 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 21 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 22 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 23 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 24 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 25 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 26 | hoa valentine đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | hoa valentine đà nẵng | NOT FOUND | - | 50p | - |
+| 28 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 30 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 32 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 33 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 34 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 35 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/34 keywords ranking (0%)
+**Visibility:** 0/35 keywords ranking (0%)
 
-## Site Index Verification (16 runs)
+## Site Index Verification (17 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/16 passed
-- **Click failed:** 11/16
+- **Click verified:** 6/17 passed
+- **Click failed:** 11/17
 
 ### Pages Clicked (random distribution)
 
@@ -57,6 +58,7 @@
 | /lien-he/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | / | 1 | Yes |
+| /chinh-sach-van-chuyen/ | 1 | Yes |
 
 ### Click Detail
 
@@ -78,6 +80,14 @@
 | #13 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #14 | - | - | No |
 | #15 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #16 | /chinh-sach-van-chuyen/ | Chính sách vận chuyển | Hoa Tươi Đà Nẵng | Yes |
+
+## Top Competitors
+| Domain | Hits |
+|--------|------|
+| facebook.com | 1 |
+| flowercorner.vn | 1 |
+| canhdonghoatuoi.com | 1 |
 
 ## CrUX Traffic Simulation
 
