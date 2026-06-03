@@ -33,7 +33,7 @@ for (const page of PAGES) {
   try {
     const raw = execSync(
       `lighthouse "${url}" --chrome-flags="--headless --no-sandbox --disable-gpu" --output=json --quiet --only-categories=performance --preset=desktop`,
-      { timeout: 60000, encoding: 'utf-8', stdio: ['pipe', 'pipe', 'pipe'] }
+      { timeout: 90000, encoding: 'utf-8', stdio: ['pipe', 'pipe', 'pipe'], maxBuffer: 50 * 1024 * 1024 }
     );
 
     const report = JSON.parse(raw);
