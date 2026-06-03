@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-03T11:30:00.891Z
+**Updated:** 2026-06-03T17:19:57.718Z
 
 ## Keyword Rankings
 
@@ -11,47 +11,46 @@
 | 4 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
 | 5 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
 | 6 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
-| 7 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
-| 8 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 13 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 14 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 15 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 16 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 17 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 18 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 19 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 20 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 21 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 27 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 28 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 29 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 30 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 7 | hoa 20/10 đà nẵng | **#14** | 1 | 1p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
+| 8 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
+| 9 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
+| 10 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
+| 11 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
+| 12 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
+| 13 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
+| 14 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 15 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 18 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 22 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 23 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 24 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 25 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 26 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 28 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 30 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/30 keywords ranking (0%)
+**Visibility:** 1/31 keywords ranking (3%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 31 kết quả (0,12 giây) 
-- **Click verified:** 7/15 passed
-- **Click failed:** 8/15
+- **Click verified:** 4/11 passed
+- **Click failed:** 7/11
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /lien-he/ | 2 | Yes |
-| /chinh-sach-thanh-toan/ | 1 | Yes |
-| /danh-muc/hoa-cuoi/ | 1 | Yes |
+| /lien-he/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /danh-muc/hoa-valentine/ | 1 | Yes |
 | /chinh-sach-van-chuyen/ | 1 | Yes |
@@ -64,26 +63,23 @@
 | #1 | - | - | No |
 | #2 | - | - | No |
 | #3 | - | - | No |
-| #4 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #4 | - | - | No |
+| #5 | - | - | No |
 | #6 | - | - | No |
-| #7 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
-| #8 | - | - | No |
-| #9 | - | - | No |
-| #10 | - | - | No |
-| #11 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #12 | - | - | No |
-| #13 | /danh-muc/hoa-valentine/ | Hoa Valentine | Hoa Tươi Đà Nẵng | Yes |
-| #14 | /chinh-sach-van-chuyen/ | Chính sách vận chuyển | Hoa Tươi Đà Nẵng | Yes |
+| #7 | - | - | No |
+| #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #9 | /danh-muc/hoa-valentine/ | Hoa Valentine | Hoa Tươi Đà Nẵng | Yes |
+| #10 | /chinh-sach-van-chuyen/ | Chính sách vận chuyển | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | facebook.com | 4 |
+| canhdonghoatuoi.com | 4 |
 | flowercorner.vn | 2 |
-| canhdonghoatuoi.com | 2 |
 | caycanhdanang.com.vn | 2 |
 | kimkieuflower.vn | 1 |
+| hoadanang.vn | 1 |
 | hoa10h.vn | 1 |
 
 ## CrUX Traffic Simulation
@@ -171,10 +167,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 89% | 416ms | 0.032 | ? | 384ms | 1400ms |
-| /san-pham/ | 99% | 914ms | 0 | ? | 508ms | 245ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1219ms | 0 | ? | 578ms | 53ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 746ms | 0.001 | ? | 563ms | 1168ms |
-| /amp/ | 100% | 491ms | 0 | ? | 273ms | 61ms |
+| / | 96% | 671ms | 0.032 | ? | 587ms | 1136ms |
+| /san-pham/ | 98% | 1029ms | 0 | ? | 617ms | 186ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1186ms | 0 | ? | 581ms | 123ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 98% | 748ms | 0 | ? | 580ms | 1490ms |
+| /amp/ | N/A | ? | ? | ? | ? | ? |
 
 **Pass rate:** 4/5 pages ≥ 90%

@@ -1,20 +1,14 @@
 [
   {
     "keyword": "hoa 20/10 đà nẵng",
-    "position": -1,
-    "status": "captcha",
+    "position": 14,
+    "page": 1,
+    "topCompetitors": [
+      "canhdonghoatuoi.com",
+      "hoadanang.vn",
+      "canhdonghoatuoi.com"
+    ],
     "pagesSearched": 1,
-    "timestamp": "2026-05-29T19:38:59.840Z"
-  },
-  {
-    "keyword": "hoa 20/10 đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
-    "pagesSearched": 50,
-    "timestamp": "2026-05-29T19:38:59.840Z"
-  }
-]
-    "pagesSearched": 50,
-    "timestamp": "2026-05-17T17:11:23.116Z"
+    "timestamp": "2026-06-03T17:12:09.040Z"
   }
 ]
