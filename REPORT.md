@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-04T22:00:08.454Z
+**Updated:** 2026-06-04T23:29:25.974Z
 
 ## Keyword Rankings
 
@@ -12,34 +12,35 @@
 | 5 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
 | 6 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
 | 7 | hoa 20/10 đà nẵng | **#14** | 1 | 1p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
-| 8 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, vonghoa.com, canhdonghoatuoi.com |
-| 9 | hoa cưới đà nẵng | **#63** | 4 | 4p | shophoakieutrinh.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
-| 10 | hoa hồng đà nẵng | **#41** | 3 | 3p | hoatuoidanangnhanhi.com, caycanhdanang.com.vn, hoasenviet.net |
-| 11 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoa10h.vn |
-| 12 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 13 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 16 | hoa tulip đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, youtube.com, youtube.com |
-| 17 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 8 | hoa 8/3 đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, kimkieuflower.vn, dienhoahaiha.com |
+| 9 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, vonghoa.com, canhdonghoatuoi.com |
+| 10 | hoa cưới đà nẵng | **#63** | 4 | 4p | shophoakieutrinh.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
+| 11 | hoa hồng đà nẵng | **#41** | 3 | 3p | hoatuoidanangnhanhi.com, caycanhdanang.com.vn, hoasenviet.net |
+| 12 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoa10h.vn |
+| 13 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 14 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa tulip đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, youtube.com, youtube.com |
+| 18 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 19 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 21 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 23 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 24 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 25 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 26 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 4/26 keywords ranking (15%)
+**Visibility:** 5/27 keywords ranking (19%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 31 kết quả (0,12 giây) 
-- **Click verified:** 8/11 passed
-- **Click failed:** 3/11
+- **Click verified:** 9/12 passed
+- **Click failed:** 3/12
 
 ### Pages Clicked (random distribution)
 
@@ -47,6 +48,7 @@
 |-----------|---------------|----------|
 | /lien-he/ | 3 | Yes |
 | /hinh-anh-thuc-te/ | 2 | Yes |
+| /chinh-sach-van-chuyen/ | 1 | Yes |
 | /danh-muc/hoa-cuoi/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /hoa-tulip-den-y-nghia-va-rarity/ | 1 | Yes |
@@ -60,12 +62,13 @@
 | #2 | - | - | No |
 | #3 | - | - | No |
 | #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #6 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #9 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #5 | /chinh-sach-van-chuyen/ | Chính sách vận chuyển | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #7 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
+| #8 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #10 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #11 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -73,13 +76,13 @@
 | canhdonghoatuoi.com | 7 |
 | facebook.com | 3 |
 | flowercorner.vn | 2 |
+| kimkieuflower.vn | 2 |
 | youtube.com | 2 |
-| kimkieuflower.vn | 1 |
 | hoadanang.vn | 1 |
+| dienhoahaiha.com | 1 |
 | vonghoa.com | 1 |
 | shophoakieutrinh.com | 1 |
 | caycanhdanang.com.vn | 1 |
-| hoasenviet.net | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -166,10 +169,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 629ms | 108ms |
-| /san-pham/ | 99% | 761ms | 0 | ? | 637ms | 145ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1397ms | 0 | ? | 643ms | 134ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 762ms | 0.005 | ? | 555ms | 1104ms |
-| /amp/ | 85% | 1506ms | 0 | ? | 344ms | 133ms |
+| / | 98% | 362ms | 0.007 | ? | 306ms | 2029ms |
+| /san-pham/ | 98% | 1006ms | 0 | ? | 595ms | 96ms |
+| /danh-muc/hoa-sinh-nhat/ | 98% | 1126ms | 0 | ? | 592ms | 63ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 99% | 933ms | 0 | ? | 634ms | 99ms |
+| /amp/ | 88% | 1215ms | 0 | ? | 279ms | 83ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 4/5 pages ≥ 90%
