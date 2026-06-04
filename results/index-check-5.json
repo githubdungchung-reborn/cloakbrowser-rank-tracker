@@ -1,13 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-02T15:07:23.761Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
+  "timestamp": "2026-06-04T12:14:30.553Z",
+  "indexStats": "Khoảng 788 kết quả (0,14 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
+    "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
+    "https://hoatuoidanangnhanhi.com/hoa-tulip-den-y-nghia-va-rarity/",
+    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+    "https://hoatuoidanangnhanhi.com/hoa-chuong-xanh-bluebell-rarity-trong-hoa-cuoi/",
+    "https://hoatuoidanangnhanhi.com/chinh-sach-van-chuyen/",
+    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
+    "https://hoatuoidanangnhanhi.com/hoa-halloween-trang-tri-quan-cafe-da-nang/"
+  ],
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
+  "clickedPosition": 8,
+  "clickVerified": true,
+  "landedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
+  "landedTitle": "Hoa cưới | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
 }
