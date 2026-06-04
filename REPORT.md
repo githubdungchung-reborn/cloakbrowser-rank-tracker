@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-04T16:36:53.788Z
+**Updated:** 2026-06-04T19:38:31.855Z
 
 ## Keyword Rankings
 
@@ -21,7 +21,7 @@
 | 14 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
 | 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
 | 16 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 17 | hoa tulip đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, youtube.com, youtube.com |
 | 18 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
 | 19 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
@@ -33,20 +33,20 @@
 | 26 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
 | 27 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 3/27 keywords ranking (11%)
+**Visibility:** 4/27 keywords ranking (15%)
 
 ## Site Index Verification (13 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 31 kết quả (0,12 giây) 
-- **Click verified:** 7/13 passed
-- **Click failed:** 6/13
+- **Click verified:** 8/13 passed
+- **Click failed:** 5/13
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /lien-he/ | 2 | Yes |
+| /lien-he/ | 3 | Yes |
 | /hinh-anh-thuc-te/ | 2 | Yes |
 | / | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
@@ -61,7 +61,7 @@
 | #2 | - | - | No |
 | #3 | - | - | No |
 | #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #5 | - | - | No |
+| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #6 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #7 | - | - | No |
 | #8 | - | - | No |
@@ -74,13 +74,14 @@
 | Domain | Hits |
 |--------|------|
 | canhdonghoatuoi.com | 6 |
-| facebook.com | 3 |
-| caycanhdanang.com.vn | 3 |
 | flowercorner.vn | 2 |
+| facebook.com | 2 |
+| youtube.com | 2 |
 | kimkieuflower.vn | 1 |
 | hoadanang.vn | 1 |
 | vonghoa.com | 1 |
 | shophoakieutrinh.com | 1 |
+| caycanhdanang.com.vn | 1 |
 | hoasenviet.net | 1 |
 
 ## CrUX Traffic Simulation
@@ -168,10 +169,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 91% | 388ms | 0.032 | ? | 357ms | 1768ms |
-| /san-pham/ | 98% | 1041ms | 0 | ? | 600ms | 184ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1291ms | 0 | ? | 568ms | 138ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 774ms | 0 | ? | 663ms | 1103ms |
-| /amp/ | 87% | 1338ms | 0 | ? | 313ms | 162ms |
+| / | 84% | 727ms | 0 | ? | 505ms | 1537ms |
+| /san-pham/ | 100% | 756ms | 0 | ? | 521ms | 124ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1184ms | 0 | ? | 599ms | 91ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 99% | 761ms | 0 | ? | 587ms | 1055ms |
+| /amp/ | 87% | 1293ms | 0 | ? | 297ms | 86ms |
 
-**Pass rate:** 4/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%

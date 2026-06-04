@@ -1,13 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-01T18:48:27.986Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
+  "timestamp": "2026-06-04T19:32:25.788Z",
+  "indexStats": "Khoảng 703 kết quả (0,30 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/san-pham/",
+    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
+    "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
+    "https://hoatuoidanangnhanhi.com/hoa-tulip-den-y-nghia-va-rarity/",
+    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+    "https://hoatuoidanangnhanhi.com/chinh-sach-van-chuyen/",
+    "https://hoatuoidanangnhanhi.com/hoa-chuong-xanh-bluebell-rarity-trong-hoa-cuoi/",
+    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/"
+  ],
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/lien-he/",
+  "clickedPosition": 3,
+  "clickVerified": true,
+  "landedUrl": "https://hoatuoidanangnhanhi.com/lien-he/",
+  "landedTitle": "Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà Nẵng",
+  "brandRank": 3
 }
