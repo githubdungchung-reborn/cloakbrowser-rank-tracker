@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-05T19:14:15.333Z
+**Updated:** 2026-06-05T21:03:20.761Z
 
 ## Keyword Rankings
 
@@ -34,12 +34,12 @@
 
 **Visibility:** 4/26 keywords ranking (15%)
 
-## Site Index Verification (12 runs)
+## Site Index Verification (13 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 10/12 passed
-- **Click failed:** 2/12
+- **Click verified:** 11/13 passed
+- **Click failed:** 2/13
 
 ### Pages Clicked (random distribution)
 
@@ -52,6 +52,7 @@
 | /chinh-sach-van-chuyen/ | 1 | Yes |
 | /danh-muc/hoa-cuoi/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
+| /hang-moi-ve/ | 1 | Yes |
 | /hoa-tulip-den-y-nghia-va-rarity/ | 1 | Yes |
 
 ### Click Detail
@@ -68,8 +69,9 @@
 | #7 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #10 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #11 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #10 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #11 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #12 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -170,10 +172,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 350ms | 2113ms |
-| /san-pham/ | 99% | 843ms | 0 | ? | 619ms | 109ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1262ms | 0 | ? | 522ms | 116ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 735ms | 0 | ? | 629ms | 134ms |
-| /amp/ | 86% | 1401ms | 0 | ? | 329ms | 205ms |
+| / | 92% | 643ms | 0.016 | ? | 602ms | 1059ms |
+| /san-pham/ | 99% | 806ms | 0 | ? | 594ms | 82ms |
+| /danh-muc/hoa-sinh-nhat/ | 98% | 1156ms | 0 | ? | 599ms | 86ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 99% | 728ms | 0 | ? | 599ms | 963ms |
+| /amp/ | 87% | 1364ms | 0 | ? | 320ms | 94ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 4/5 pages ≥ 90%
