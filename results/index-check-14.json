@@ -1,13 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-02T21:15:19.747Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
+  "timestamp": "2026-06-05T12:20:12.977Z",
+  "indexStats": "Khoảng 887 kết quả (0,20 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/san-pham/",
+    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
+    "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
+    "https://hoatuoidanangnhanhi.com/hoa-tulip-den-y-nghia-va-rarity/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0011/",
+    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0210/"
+  ],
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/san-pham/",
+  "clickedPosition": 1,
+  "clickVerified": true,
+  "landedUrl": "https://hoatuoidanangnhanhi.com/san-pham/",
+  "landedTitle": "Tất cả sản phẩm | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
 }
