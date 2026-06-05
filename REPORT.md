@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-05T21:03:20.761Z
+**Updated:** 2026-06-05T22:34:09.066Z
 
 ## Keyword Rankings
 
@@ -29,27 +29,25 @@
 | 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
 | 23 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
 | 24 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 4/26 keywords ranking (15%)
+**Visibility:** 4/24 keywords ranking (17%)
 
-## Site Index Verification (13 runs)
+## Site Index Verification (11 runs)
 
-- **Indexed pages found:** 0
-- **Index stats:** N/A
-- **Click verified:** 11/13 passed
-- **Click failed:** 2/13
+- **Indexed pages found:** 10
+- **Index stats:** Khoảng 791 kết quả (0,15 giây) 
+- **Click verified:** 10/11 passed
+- **Click failed:** 1/11
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /lien-he/ | 2 | Yes |
 | /tuyen-dung/ | 2 | Yes |
 | /san-pham/fb-0133/ | 1 | Yes |
 | /san-pham/ | 1 | Yes |
 | /chinh-sach-van-chuyen/ | 1 | Yes |
+| /lien-he/ | 1 | Yes |
 | /danh-muc/hoa-cuoi/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
@@ -59,19 +57,17 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | - | - | No |
-| #1 | /san-pham/fb-0133/ | Bó hoa - Hoa Chúc Mừng | Hoa Tươi Đà Nẵn | Yes |
-| #2 | - | - | No |
-| #3 | /san-pham/ | Tất cả sản phẩm | Hoa Tươi Đà Nẵng | Yes |
+| #0 | /san-pham/fb-0133/ | Bó hoa - Hoa Chúc Mừng | Hoa Tươi Đà Nẵn | Yes |
+| #1 | - | - | No |
+| #2 | /san-pham/ | Tất cả sản phẩm | Hoa Tươi Đà Nẵng | Yes |
+| #3 | /chinh-sach-van-chuyen/ | Chính sách vận chuyển | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #5 | /chinh-sach-van-chuyen/ | Chính sách vận chuyển | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #7 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #8 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #10 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #11 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #12 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -172,10 +168,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 92% | 643ms | 0.016 | ? | 602ms | 1059ms |
-| /san-pham/ | 99% | 806ms | 0 | ? | 594ms | 82ms |
-| /danh-muc/hoa-sinh-nhat/ | 98% | 1156ms | 0 | ? | 599ms | 86ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 728ms | 0 | ? | 599ms | 963ms |
-| /amp/ | 87% | 1364ms | 0 | ? | 320ms | 94ms |
+| / | 79% | 811ms | 0.033 | ? | 576ms | 1026ms |
+| /san-pham/ | 98% | 1018ms | 0 | ? | 596ms | 77ms |
+| /danh-muc/hoa-sinh-nhat/ | 98% | 1095ms | 0 | ? | 504ms | 79ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 99% | 853ms | 0 | ? | 581ms | 51ms |
+| /amp/ | 87% | 1315ms | 0 | ? | 294ms | 63ms |
 
-**Pass rate:** 4/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
