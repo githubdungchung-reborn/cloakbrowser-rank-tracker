@@ -1,24 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-03T21:30:04.422Z",
-  "indexStats": "Khoảng 629 kết quả (0,13 giây) ",
+  "timestamp": "2026-06-05T16:08:41.120Z",
+  "indexStats": "Khoảng 918 kết quả (0,12 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/san-pham/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-    "https://hoatuoidanangnhanhi.com/hoa-tulip-den-y-nghia-va-rarity/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-van-chuyen/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
-    "https://hoatuoidanangnhanhi.com/hoa-trang-tri-su-kien-corporate-da-nang/",
-    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/"
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0011/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0190/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0129/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0107/",
+    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "clickedPosition": 5,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+  "clickedPosition": 2,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
-  "brandRank": 2
+  "landedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+  "landedTitle": "Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "brandRank": 4
 }
