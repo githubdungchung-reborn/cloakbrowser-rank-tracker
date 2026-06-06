@@ -1,28 +1,26 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-05-28T22:04:55.378Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
-} "https://hoatuoidanangnhanhi.com/lien-he/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/",
+  "timestamp": "2026-06-06T14:52:28.139Z",
+  "indexStats": "Khoảng 991 kết quả (0,15 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/san-pham/",
+    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+    "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-van-chuyen/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-cuoi/",
-    "https://hoatuoidanangnhanhi.com/chuyen-muc/tin-tuc/"
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0095/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0011/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0129/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0107/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
-  "clickedPosition": 0,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
+  "clickedPosition": 9,
   "clickVerified": true,
-  "landedUrl": "https://www.google.com/search?q=site:hoatuoidanangnhanhi.com&hl=vi&gl=vn&sei=q9cSaoPrPJ3LkPIPwLCvuA4",
-  "landedTitle": "Loading https://hoatuoidanangnhanhi.com/",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
+  "landedTitle": "Không tìm thấy trang | Hoa Tươi Đà Nẵng",
+  "brandRank": 5
+}danangnhanhi.com/",
   "brandRank": 3
 }
