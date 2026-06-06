@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-06T00:26:14.481Z
+**Updated:** 2026-06-06T05:12:18.275Z
 
 ## Keyword Rankings
 
@@ -27,17 +27,15 @@
 | 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
 | 21 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
-| 23 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 4/24 keywords ranking (17%)
+**Visibility:** 4/22 keywords ranking (18%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (10 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 791 kết quả (0,15 giây) 
-- **Click verified:** 10/11 passed
-- **Click failed:** 1/11
+- **Click verified:** 9/10 passed
+- **Click failed:** 1/10
 
 ### Pages Clicked (random distribution)
 
@@ -50,7 +48,6 @@
 | /lien-he/ | 1 | Yes |
 | /danh-muc/hoa-cuoi/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
-| /hang-moi-ve/ | 1 | Yes |
 | /hoa-tulip-den-y-nghia-va-rarity/ | 1 | Yes |
 
 ### Click Detail
@@ -65,9 +62,8 @@
 | #5 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
 | #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #8 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #9 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -168,10 +164,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 88% | 657ms | 0.032 | ? | 610ms | 1756ms |
-| /san-pham/ | 99% | 754ms | 0 | ? | 502ms | 488ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1292ms | 0 | ? | 597ms | 90ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 755ms | 0.001 | ? | 583ms | 1231ms |
-| /amp/ | 88% | 1219ms | 0 | ? | 257ms | 80ms |
+| / | 89% | 418ms | 0.032 | ? | 390ms | 1482ms |
+| /san-pham/ | 99% | 814ms | 0 | ? | 600ms | 74ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1167ms | 0 | ? | 550ms | 91ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 98% | 909ms | 0.001 | ? | 610ms | 884ms |
+| /amp/ | 87% | 1240ms | 0 | ? | 285ms | 71ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
