@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-06T10:25:47.642Z
+**Updated:** 2026-06-06T12:22:03.255Z
 
 ## Keyword Rankings
 
@@ -14,27 +14,26 @@
 | 7 | hoa 20/10 đà nẵng | **#6** | 1 | 1p | canhdonghoatuoi.com, hoadanang.vn, hoa10h.vn |
 | 8 | hoa 8/3 đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, kimkieuflower.vn, dienhoahaiha.com |
 | 9 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 10 | hoa cưới đà nẵng | **#63** | 4 | 4p | shophoakieutrinh.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
-| 11 | hoa hồng đà nẵng | **#41** | 3 | 3p | hoatuoidanangnhanhi.com, caycanhdanang.com.vn, hoasenviet.net |
-| 12 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 13 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 16 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 17 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
+| 10 | hoa hồng đà nẵng | **#41** | 3 | 3p | hoatuoidanangnhanhi.com, caycanhdanang.com.vn, hoasenviet.net |
+| 11 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 13 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 16 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 17 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 18 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 19 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 20 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
 
-**Visibility:** 4/21 keywords ranking (19%)
+**Visibility:** 3/20 keywords ranking (15%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (10 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.130 kết quả (0,11 giây) 
-- **Click verified:** 10/11 passed
-- **Click failed:** 1/11
+- **Click verified:** 9/10 passed
+- **Click failed:** 1/10
 
 ### Pages Clicked (random distribution)
 
@@ -45,7 +44,6 @@
 | /san-pham/fb-0133/ | 1 | Yes |
 | /san-pham/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
-| /danh-muc/hoa-cuoi/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /hoa-tulip-den-y-nghia-va-rarity/ | 1 | Yes |
 
@@ -59,25 +57,24 @@
 | #3 | /san-pham/ | Tất cả sản phẩm | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #6 | /danh-muc/hoa-cuoi/ | Hoa cưới | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #9 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| canhdonghoatuoi.com | 6 |
 | facebook.com | 5 |
+| canhdonghoatuoi.com | 5 |
 | flowercorner.vn | 3 |
 | kimkieuflower.vn | 2 |
 | hoa10h.vn | 2 |
 | hoadanang.vn | 1 |
 | dienhoahaiha.com | 1 |
-| shophoakieutrinh.com | 1 |
 | caycanhdanang.com.vn | 1 |
 | hoasenviet.net | 1 |
+| hoatuoidanang247.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -164,10 +161,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 87% | 690ms | 0.032 | ? | 665ms | 1012ms |
-| /san-pham/ | 99% | 946ms | 0 | ? | 492ms | 300ms |
-| /danh-muc/hoa-sinh-nhat/ | 98% | 1009ms | 0.003 | ? | 549ms | 147ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 683ms | 0.005 | ? | 535ms | 952ms |
-| /amp/ | 87% | 1237ms | 0 | ? | 289ms | 133ms |
+| / | 97% | 631ms | 0.032 | ? | 557ms | 1117ms |
+| /san-pham/ | 99% | 912ms | 0 | ? | 487ms | 131ms |
+| /danh-muc/hoa-sinh-nhat/ | 98% | 1068ms | 0.001 | ? | 494ms | 166ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 100% | 694ms | 0.005 | ? | 510ms | 913ms |
+| /amp/ | 88% | 1232ms | 0 | ? | 273ms | 63ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 4/5 pages ≥ 90%
