@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-05T22:34:09.066Z
+**Updated:** 2026-06-06T00:26:14.481Z
 
 ## Keyword Rankings
 
@@ -13,7 +13,7 @@
 | 6 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
 | 7 | hoa 20/10 đà nẵng | **#14** | 1 | 1p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
 | 8 | hoa 8/3 đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, kimkieuflower.vn, dienhoahaiha.com |
-| 9 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 9 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, facebook.com |
 | 10 | hoa cưới đà nẵng | **#63** | 4 | 4p | shophoakieutrinh.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
 | 11 | hoa hồng đà nẵng | **#41** | 3 | 3p | hoatuoidanangnhanhi.com, caycanhdanang.com.vn, hoasenviet.net |
 | 12 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoa10h.vn |
@@ -72,8 +72,8 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| canhdonghoatuoi.com | 8 |
-| facebook.com | 6 |
+| facebook.com | 7 |
+| canhdonghoatuoi.com | 7 |
 | flowercorner.vn | 3 |
 | kimkieuflower.vn | 2 |
 | hoa10h.vn | 2 |
@@ -168,10 +168,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 79% | 811ms | 0.033 | ? | 576ms | 1026ms |
-| /san-pham/ | 98% | 1018ms | 0 | ? | 596ms | 77ms |
-| /danh-muc/hoa-sinh-nhat/ | 98% | 1095ms | 0 | ? | 504ms | 79ms |
-| /san-pham/bo-hoa-hong-do-dai/ | 99% | 853ms | 0 | ? | 581ms | 51ms |
-| /amp/ | 87% | 1315ms | 0 | ? | 294ms | 63ms |
+| / | 88% | 657ms | 0.032 | ? | 610ms | 1756ms |
+| /san-pham/ | 99% | 754ms | 0 | ? | 502ms | 488ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1292ms | 0 | ? | 597ms | 90ms |
+| /san-pham/bo-hoa-hong-do-dai/ | 99% | 755ms | 0.001 | ? | 583ms | 1231ms |
+| /amp/ | 88% | 1219ms | 0 | ? | 257ms | 80ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
