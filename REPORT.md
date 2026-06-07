@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-07T14:25:03.508Z
+**Updated:** 2026-06-07T16:50:33.849Z
 
 ## Keyword Rankings
 
@@ -11,7 +11,7 @@
 | 4 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
 | 5 | hoa 20/10 đà nẵng | **#5** | 1 | 1p | canhdonghoatuoi.com, hoadanang.vn, facebook.com |
 | 6 | hoa 8/3 đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, kimkieuflower.vn, dienhoahaiha.com |
-| 7 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 7 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hellodanang.vn |
 | 8 | hoa khai trương đà nẵng | **#29** | 2 | 2p | tiemhoanang.com, shophoatuoidep.net, diachishophoa.com |
 | 9 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
 | 10 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
@@ -22,12 +22,12 @@
 
 **Visibility:** 3/14 keywords ranking (21%)
 
-## Site Index Verification (12 runs)
+## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.170 kết quả (0,20 giây) 
-- **Click verified:** 11/12 passed
-- **Click failed:** 1/12
+- **Click verified:** 10/11 passed
+- **Click failed:** 1/11
 
 ### Pages Clicked (random distribution)
 
@@ -35,8 +35,8 @@
 |-----------|---------------|----------|
 | /san-pham/fb-0011/ | 2 | Yes |
 | /san-pham/fb-0095/ | 2 | Yes |
-| /tuyen-dung/ | 2 | Yes |
 | /san-pham/fb-0133/ | 1 | Yes |
+| /tuyen-dung/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /san-pham/fb-0158/ | 1 | Yes |
 | /san-pham/fb-0129/ | 1 | Yes |
@@ -56,22 +56,21 @@
 | #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /san-pham/fb-0129/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #11 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | facebook.com | 6 |
-| canhdonghoatuoi.com | 5 |
+| canhdonghoatuoi.com | 4 |
 | flowercorner.vn | 3 |
 | kimkieuflower.vn | 2 |
 | hoadanang.vn | 1 |
 | dienhoahaiha.com | 1 |
+| hellodanang.vn | 1 |
 | tiemhoanang.com | 1 |
 | shophoatuoidep.net | 1 |
 | diachishophoa.com | 1 |
-| hoa10h.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -158,10 +157,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 62% | 614ms | 0.002 | ? | 510ms | 1604ms |
-| /san-pham/ | 99% | 883ms | 0 | ? | 520ms | 113ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1240ms | 0 | ? | 569ms | 78ms |
+| / | 61% | 1038ms | 0.001 | ? | 533ms | 72ms |
+| /san-pham/ | 98% | 1055ms | 0 | ? | 495ms | 308ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1300ms | 0 | ? | 573ms | 73ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1268ms | 0 | ? | 270ms | 131ms |
+| /amp/ | 88% | 1217ms | 0 | ? | 257ms | 87ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
