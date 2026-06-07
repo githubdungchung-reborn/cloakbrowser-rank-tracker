@@ -2,14 +2,15 @@
   {
     "keyword": "mua hoa tươi đà nẵng",
     "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-06-02T10:53:52.724Z"
-  },
-  {
-    "keyword": "mua hoa tươi đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
+    "topCompetitors": [
+      "facebook.com",
+      "kimkieuflower.vn",
+      "canhdonghoatuoi.com"
+    ],
+    "pagesSearched": 50,
+    "timestamp": "2026-06-07T00:15:58.595Z"
+  }
+]itors": [],
     "pagesSearched": 50,
     "timestamp": "2026-06-02T10:53:52.724Z"
   }

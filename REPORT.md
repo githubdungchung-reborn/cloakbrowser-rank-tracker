@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-06T22:22:57.347Z
+**Updated:** 2026-06-07T00:23:54.741Z
 
 ## Keyword Rankings
 
@@ -18,25 +18,23 @@
 | 11 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
 | 12 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
 | 13 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 14 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 15 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 16 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
+| 14 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
 
-**Visibility:** 3/16 keywords ranking (19%)
+**Visibility:** 3/14 keywords ranking (21%)
 
-## Site Index Verification (10 runs)
+## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 1.120 kết quả (0,12 giây) 
-- **Click verified:** 9/10 passed
-- **Click failed:** 1/10
+- **Index stats:** Khoảng 1.170 kết quả (0,20 giây) 
+- **Click verified:** 10/11 passed
+- **Click failed:** 1/11
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /tuyen-dung/ | 3 | Yes |
-| /san-pham/fb-0011/ | 1 | Yes |
+| /san-pham/fb-0011/ | 2 | Yes |
 | /san-pham/fb-0095/ | 1 | Yes |
 | /san-pham/fb-0133/ | 1 | Yes |
 | /san-pham/ | 1 | Yes |
@@ -48,15 +46,16 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /san-pham/fb-0011/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #1 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #2 | /san-pham/fb-0133/ | Bó hoa - Hoa Chúc Mừng | Hoa Tươi Đà Nẵn | Yes |
-| #3 | - | - | No |
-| #4 | /san-pham/ | Tất cả sản phẩm | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #1 | /san-pham/fb-0011/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #2 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #3 | /san-pham/fb-0133/ | Bó hoa - Hoa Chúc Mừng | Hoa Tươi Đà Nẵn | Yes |
+| #4 | - | - | No |
+| #5 | /san-pham/ | Tất cả sản phẩm | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #7 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #9 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -157,10 +156,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 914ms | 0.036 | ? | 600ms | 1030ms |
-| /san-pham/ | 99% | 856ms | 0.013 | ? | 498ms | 139ms |
-| /danh-muc/hoa-sinh-nhat/ | 98% | 1055ms | 0 | ? | 579ms | 54ms |
+| / | 99% | 723ms | 0.001 | ? | 542ms | 1138ms |
+| /san-pham/ | 99% | 869ms | 0 | ? | 505ms | 154ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1191ms | 0 | ? | 550ms | 129ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1308ms | 0 | ? | 296ms | 138ms |
+| /amp/ | 87% | 1288ms | 0 | ? | 281ms | 68ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
