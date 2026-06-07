@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-07T09:40:59.040Z
+**Updated:** 2026-06-07T12:09:21.703Z
 
 ## Keyword Rankings
 
@@ -32,12 +32,13 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /tuyen-dung/ | 3 | Yes |
 | /san-pham/fb-0011/ | 2 | Yes |
+| /tuyen-dung/ | 2 | Yes |
 | /san-pham/fb-0095/ | 1 | Yes |
 | /san-pham/fb-0133/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /san-pham/fb-0158/ | 1 | Yes |
+| /san-pham/fb-0129/ | 1 | Yes |
 | /hoa-tulip-den-y-nghia-va-rarity/ | 1 | Yes |
 
 ### Click Detail
@@ -52,7 +53,7 @@
 | #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #8 | /san-pham/fb-0129/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
@@ -153,10 +154,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 93% | 649ms | 0.032 | ? | 585ms | 1501ms |
-| /san-pham/ | 99% | 875ms | 0 | ? | 521ms | 285ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1301ms | 0 | ? | 584ms | 68ms |
+| / | 89% | 430ms | 0.032 | ? | 399ms | 1381ms |
+| /san-pham/ | 98% | 1028ms | 0 | ? | 482ms | 476ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1190ms | 0 | ? | 582ms | 55ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1189ms | 0 | ? | 265ms | 78ms |
+| /amp/ | 87% | 1257ms | 0 | ? | 287ms | 82ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
