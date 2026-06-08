@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-08T11:28:45.813Z
+**Updated:** 2026-06-08T16:23:34.154Z
 
 ## Keyword Rankings
 
@@ -22,20 +22,20 @@
 
 **Visibility:** 4/14 keywords ranking (29%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.170 kết quả (0,20 giây) 
-- **Click verified:** 10/11 passed
-- **Click failed:** 1/11
+- **Click verified:** 11/12 passed
+- **Click failed:** 1/12
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /san-pham/fb-0011/ | 2 | Yes |
+| / | 2 | Yes |
 | /san-pham/fb-0158/ | 2 | Yes |
-| / | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /san-pham/fb-0095/ | 1 | Yes |
@@ -49,14 +49,15 @@
 | #0 | /san-pham/fb-0011/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /san-pham/fb-0011/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #2 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #3 | - | - | No |
-| #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #6 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #4 | - | - | No |
+| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #9 | /san-pham/fb-0129/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #8 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #9 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #10 | /san-pham/fb-0129/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #11 | /hoa-tulip-den-y-nghia-va-rarity/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -157,10 +158,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 927ms | 0.059 | ? | 565ms | 2059ms |
-| /san-pham/ | 99% | 832ms | 0 | ? | 486ms | 187ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1298ms | 0 | ? | 584ms | 572ms |
+| / | 88% | 437ms | 0.032 | ? | 403ms | 117ms |
+| /san-pham/ | 99% | 877ms | 0 | ? | 522ms | 138ms |
+| /danh-muc/hoa-sinh-nhat/ | 98% | 1104ms | 0 | ? | 516ms | 127ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1219ms | 0 | ? | 265ms | 82ms |
+| /amp/ | 87% | 1350ms | 0 | ? | 312ms | 128ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
