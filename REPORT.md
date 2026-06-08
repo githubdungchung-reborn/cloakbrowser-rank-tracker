@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-08T00:28:43.439Z
+**Updated:** 2026-06-08T06:13:44.123Z
 
 ## Keyword Rankings
 
@@ -18,8 +18,9 @@
 | 11 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
 | 12 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 13 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
+| 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
 
-**Visibility:** 4/13 keywords ranking (31%)
+**Visibility:** 4/14 keywords ranking (29%)
 
 ## Site Index Verification (11 runs)
 
@@ -61,16 +62,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 7 |
+| facebook.com | 8 |
 | canhdonghoatuoi.com | 6 |
 | flowercorner.vn | 3 |
 | hellodanang.vn | 3 |
 | kimkieuflower.vn | 2 |
+| hoatuoidanang247.com | 2 |
 | hoadanang.vn | 1 |
 | dienhoahaiha.com | 1 |
 | hoayeuthuong.com.vn | 1 |
 | tiemhoanang.com | 1 |
-| shophoatuoidep.net | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -157,10 +158,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 341ms | 1549ms |
-| /san-pham/ | 99% | 838ms | 0 | ? | 489ms | 131ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1172ms | 0 | ? | 600ms | 77ms |
+| / | 59% | 1221ms | 0.016 | ? | 709ms | 70ms |
+| /san-pham/ | 98% | 1088ms | 0 | ? | 514ms | 116ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1276ms | 0 | ? | 576ms | 105ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1249ms | 0 | ? | 289ms | 67ms |
+| /amp/ | 88% | 1219ms | 0 | ? | 260ms | 93ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
