@@ -1,24 +1,26 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-09T16:12:43.538Z",
-  "indexStats": "Khoảng 1.730 kết quả (0,13 giây) ",
+  "timestamp": "2026-06-09T23:40:10.149Z",
+  "indexStats": "Khoảng 1.370 kết quả (0,34 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0022/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0107/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0028/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0168/"
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0168/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0143/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0138/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-  "clickedPosition": 3,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/",
+  "clickedPosition": 5,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-  "landedTitle": "Hàng mới về – Mẫu hoa cập nhật mới nhất tại Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/",
+  "landedTitle": "Không tìm thấy trang | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
+} Tươi Đà Nẵng",
   "brandRank": 2
 }
