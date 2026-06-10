@@ -1,25 +1,27 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-05T16:08:41.120Z",
-  "indexStats": "Khoảng 918 kết quả (0,12 giây) ",
+  "timestamp": "2026-06-10T09:00:25.515Z",
+  "indexStats": "Khoảng 1.320 kết quả (0,11 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
-    "https://hoatuoidanangnhanhi.com/san-pham/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0011/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0190/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0129/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0107/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/"
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0028/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0067/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0168/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-  "clickedPosition": 2,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
+  "clickedPosition": 0,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-  "landedTitle": "Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/",
+  "landedTitle": "Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng",
+  "brandRank": 2
+}ẵng",
   "brandRank": 4
 }Rank": 3
 }
