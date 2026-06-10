@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-09T23:47:04.104Z
+**Updated:** 2026-06-10T04:51:20.782Z
 
 ## Keyword Rankings
 
@@ -16,7 +16,7 @@
 | 9 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
 | 10 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 11 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
+| 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, bachhoaxanh.com |
 | 13 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
 | 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
 
@@ -38,7 +38,7 @@
 | /san-pham/fb-0158/ | 2 | Yes |
 | /san-pham/fb-0011/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
-| /san-pham/fb-0168/ | 1 | Yes |
+| /tuyen-dung/ | 1 | Yes |
 | /san-pham/fb-0107/ | 1 | Yes |
 | /san-pham/fb-0129/ | 1 | Yes |
 | /hoa-tulip-den-y-nghia-va-rarity/ | 1 | Yes |
@@ -53,7 +53,7 @@
 | #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #4 | - | - | No |
 | #5 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /san-pham/fb-0107/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
@@ -67,13 +67,13 @@
 | facebook.com | 8 |
 | canhdonghoatuoi.com | 5 |
 | flowercorner.vn | 4 |
-| kimkieuflower.vn | 4 |
+| kimkieuflower.vn | 3 |
 | hoatuoidanang247.com | 3 |
 | hellodanang.vn | 2 |
+| bachhoaxanh.com | 2 |
 | hoadanang.vn | 1 |
 | hoayeuthuong.com.vn | 1 |
 | tiemhoanang.com | 1 |
-| shophoatuoidep.net | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -160,10 +160,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 645ms | 1721ms |
-| /san-pham/ | 99% | 869ms | 0 | ? | 505ms | 84ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1313ms | 0 | ? | 590ms | 50ms |
+| / | 89% | 662ms | 0.016 | ? | 558ms | 1283ms |
+| /san-pham/ | 98% | 1056ms | 0.003 | ? | 502ms | 171ms |
+| /danh-muc/hoa-sinh-nhat/ | 98% | 1144ms | 0 | ? | 532ms | 146ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1306ms | 0 | ? | 289ms | 109ms |
+| /amp/ | 87% | 1324ms | 0 | ? | 307ms | 99ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
