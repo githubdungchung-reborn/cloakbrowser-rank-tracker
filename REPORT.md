@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-10T16:52:46.858Z
+**Updated:** 2026-06-10T19:52:29.560Z
 
 ## Keyword Rankings
 
@@ -34,10 +34,11 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /san-pham/fb-0158/ | 3 | Yes |
 | /san-pham/fb-0095/ | 2 | Yes |
 | / | 2 | Yes |
+| /san-pham/fb-0158/ | 2 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
+| /hinh-anh-thuc-te/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /san-pham/fb-0129/ | 1 | Yes |
 | /hoa-tulip-den-y-nghia-va-rarity/ | 1 | Yes |
@@ -50,7 +51,7 @@
 | #1 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #2 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #3 | - | - | No |
-| #4 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #6 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
@@ -158,10 +159,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 65% | 1065ms | 0.032 | ? | 639ms | 1731ms |
-| /san-pham/ | 99% | 764ms | 0 | ? | 456ms | 621ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1203ms | 0 | ? | 586ms | 106ms |
+| / | 96% | 502ms | 0.001 | ? | 367ms | 56ms |
+| /san-pham/ | 98% | 1065ms | 0 | ? | 492ms | 88ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1317ms | 0 | ? | 607ms | 74ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | N/A | ? | ? | ? | ? | ? |
+| /amp/ | 88% | 1233ms | 0 | ? | 285ms | 294ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
