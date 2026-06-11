@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-11T11:53:55.278Z
+**Updated:** 2026-06-11T16:28:07.959Z
 
 ## Keyword Rankings
 
@@ -22,19 +22,19 @@
 
 **Visibility:** 5/14 keywords ranking (36%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 1.470 kết quả (0,31 giây) 
-- **Click verified:** 10/11 passed
-- **Click failed:** 1/11
+- **Index stats:** Khoảng 1.120 kết quả (0,17 giây) 
+- **Click verified:** 11/12 passed
+- **Click failed:** 1/12
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /hang-moi-ve/ | 2 | Yes |
 | /san-pham/fb-0095/ | 2 | Yes |
-| /hang-moi-ve/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /san-pham/fb-0011/ | 1 | Yes |
@@ -48,16 +48,17 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #1 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #2 | - | - | No |
-| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #5 | /san-pham/fb-0011/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /san-pham/fb-0125/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #9 | /san-pham/fb-0129/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #10 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #2 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #3 | - | - | No |
+| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #6 | /san-pham/fb-0011/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #8 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #9 | /san-pham/fb-0125/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #10 | /san-pham/fb-0129/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #11 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -158,10 +159,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 742ms | 0.032 | ? | 698ms | 1476ms |
-| /san-pham/ | 100% | 785ms | 0 | ? | 491ms | 135ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1218ms | 0 | ? | 623ms | 231ms |
+| / | 95% | 643ms | 0.059 | ? | 506ms | 2382ms |
+| /san-pham/ | 99% | 849ms | 0 | ? | 520ms | 461ms |
+| /danh-muc/hoa-sinh-nhat/ | 93% | 1804ms | 0 | ? | 500ms | 114ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1414ms | 0 | ? | 321ms | 130ms |
+| /amp/ | 87% | 1267ms | 0 | ? | 282ms | 123ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
