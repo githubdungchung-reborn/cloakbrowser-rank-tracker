@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-11T16:28:07.959Z
+**Updated:** 2026-06-11T19:51:57.758Z
 
 ## Keyword Rankings
 
@@ -15,7 +15,7 @@
 | 8 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, shophoamaimai.com, caycanhdanang.com.vn |
 | 9 | hoa sinh nhật đà nẵng | **#45** | 3 | 3p | hoadanang.vn, thanhcongflower.com, facebook.com |
 | 10 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 11 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
+| 11 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, bachhoaxanh.com |
 | 13 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, facebook.com |
 | 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
@@ -35,12 +35,11 @@
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 2 | Yes |
 | /san-pham/fb-0095/ | 2 | Yes |
-| /hinh-anh-thuc-te/ | 1 | Yes |
+| /hinh-anh-thuc-te/ | 2 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /san-pham/fb-0011/ | 1 | Yes |
 | /san-pham/fb-0158/ | 1 | Yes |
 | /san-pham/fb-0125/ | 1 | Yes |
-| /san-pham/fb-0129/ | 1 | Yes |
 | / | 1 | Yes |
 
 ### Click Detail
@@ -57,7 +56,7 @@
 | #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /san-pham/fb-0095/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /san-pham/fb-0125/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /san-pham/fb-0129/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #10 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #11 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 
 ## Top Competitors
@@ -65,13 +64,13 @@
 |--------|------|
 | facebook.com | 8 |
 | canhdonghoatuoi.com | 5 |
-| flowercorner.vn | 3 |
+| flowercorner.vn | 4 |
 | kimkieuflower.vn | 3 |
-| bachhoaxanh.com | 3 |
 | hoatuoidanang247.com | 3 |
 | hellodanang.vn | 2 |
 | hoadanang.vn | 2 |
 | youtube.com | 2 |
+| bachhoaxanh.com | 2 |
 | hoayeuthuong.com.vn | 1 |
 
 ## CrUX Traffic Simulation
@@ -159,10 +158,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 643ms | 0.059 | ? | 506ms | 2382ms |
-| /san-pham/ | 99% | 849ms | 0 | ? | 520ms | 461ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1804ms | 0 | ? | 500ms | 114ms |
+| / | 99% | 462ms | 0 | ? | 315ms | 1647ms |
+| /san-pham/ | 98% | 1092ms | 0 | ? | 503ms | 364ms |
+| /danh-muc/hoa-sinh-nhat/ | 99% | 949ms | 0 | ? | 499ms | 118ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1267ms | 0 | ? | 282ms | 123ms |
+| /amp/ | 87% | 1345ms | 0 | ? | 310ms | 117ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
