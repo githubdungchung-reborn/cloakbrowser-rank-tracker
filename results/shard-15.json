@@ -1,16 +1,14 @@
 [
   {
     "keyword": "hoa valentine đà nẵng",
-    "position": -1,
-    "status": "captcha",
+    "position": 8,
+    "page": 1,
+    "topCompetitors": [
+      "kimkieuflower.vn",
+      "canhdonghoatuoi.com",
+      "canhdonghoatuoi.com"
+    ],
     "pagesSearched": 1,
-    "timestamp": "2026-06-13T01:34:10.661Z"
-  },
-  {
-    "keyword": "hoa valentine đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
-    "pagesSearched": 50,
-    "timestamp": "2026-06-13T01:34:10.661Z"
+    "timestamp": "2026-06-13T10:07:01.024Z"
   }
 ]
