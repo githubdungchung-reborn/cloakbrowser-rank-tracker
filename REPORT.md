@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-13T18:30:55.570Z
+**Updated:** 2026-06-13T20:48:29.109Z
 
 ## Keyword Rankings
 
@@ -8,7 +8,7 @@
 | 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
 | 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
 | 3 | điện hoa đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hellodanang.vn, hellodanang.vn |
-| 4 | hoa 20/10 đà nẵng | **#23** | 1 | 1p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
+| 4 | hoa 20/10 đà nẵng | **#22** | 1 | 1p | canhdonghoatuoi.com, hoadanang.vn, shophoabaongoc.com |
 | 5 | hoa cảm ơn đà nẵng | **#2** | 1 | 1p | canhdonghoatuoi.com, hoatuoidanangnhanhi.com, hoayeuthuong.com.vn |
 | 6 | hoa cưới đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, shophoatuoidanang.vn, cestlavie.vn |
 | 7 | hoa khai trương đà nẵng | **#29** | 2 | 2p | tiemhoanang.com, shophoatuoidep.net, diachishophoa.com |
@@ -58,7 +58,7 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| canhdonghoatuoi.com | 7 |
+| canhdonghoatuoi.com | 6 |
 | facebook.com | 5 |
 | flowercorner.vn | 4 |
 | kimkieuflower.vn | 4 |
@@ -67,7 +67,7 @@
 | hoatuoidanang247.com | 2 |
 | bachhoaxanh.com | 2 |
 | hoadanang.vn | 1 |
-| hoayeuthuong.com.vn | 1 |
+| shophoabaongoc.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -154,10 +154,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 315ms | 1856ms |
-| /san-pham/ | 91% | 1912ms | 0 | ? | 583ms | 107ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2409ms | 0 | ? | 530ms | 76ms |
+| / | N/A | ? | 0 | ? | 353ms | 1814ms |
+| /san-pham/ | 98% | 1112ms | 0.001 | ? | 511ms | 65ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1200ms | 0 | ? | 589ms | 370ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1427ms | 0 | ? | 308ms | 133ms |
+| /amp/ | 88% | 1182ms | 0 | ? | 271ms | 85ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
