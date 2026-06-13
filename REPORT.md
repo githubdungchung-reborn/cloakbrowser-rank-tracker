@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-12T22:52:39.917Z
+**Updated:** 2026-06-13T01:40:46.866Z
 
 ## Keyword Rankings
 
@@ -14,10 +14,12 @@
 | 7 | hoa khai trương đà nẵng | **#29** | 2 | 2p | tiemhoanang.com, shophoatuoidep.net, diachishophoa.com |
 | 8 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, shophoamaimai.com, caycanhdanang.com.vn |
 | 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
-| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 10 | hoa valentine đà nẵng | NOT FOUND | - | 1p | - |
+| 11 | hoa valentine đà nẵng | NOT FOUND | - | 50p | - |
+| 12 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
+| 13 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
 
-**Visibility:** 3/11 keywords ranking (27%)
+**Visibility:** 3/13 keywords ranking (23%)
 
 ## Site Index Verification (8 runs)
 
@@ -30,9 +32,10 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hang-moi-ve/ | 3 | Yes |
+| /hang-moi-ve/ | 2 | Yes |
 | /tuyen-dung/ | 2 | Yes |
 | /san-pham/fb-0158/ | 2 | Yes |
+| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /san-pham/fb-0125/ | 1 | Yes |
 
 ### Click Detail
@@ -40,7 +43,7 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #1 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #3 | /san-pham/fb-0125/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
@@ -147,10 +150,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 100% | 379ms | 0.032 | ? | 348ms | 56ms |
-| /san-pham/ | 96% | 1402ms | 0 | ? | 500ms | 140ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1956ms | 0 | ? | 595ms | 110ms |
+| / | N/A | ? | 0 | ? | 644ms | 1979ms |
+| /san-pham/ | N/A | ? | ? | ? | ? | ? |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2423ms | 0 | ? | 627ms | 112ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1348ms | 0 | ? | 304ms | 84ms |
+| /amp/ | 88% | 1229ms | 0 | ? | 286ms | 152ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 0/5 pages ≥ 90%
