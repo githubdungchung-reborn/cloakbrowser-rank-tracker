@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-14T10:03:08.749Z
+**Updated:** 2026-06-14T12:19:49.571Z
 
 ## Keyword Rankings
 
@@ -34,12 +34,13 @@
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /chinh-sach-thanh-toan/ | 2 | Yes |
-| /san-pham/fb-0158/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
 | / | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /san-pham/fb-0020/ | 1 | Yes |
 | /san-pham/fb-0011/ | 1 | Yes |
+| /san-pham/fb-0158/ | 1 | Yes |
 
 ### Click Detail
 
@@ -50,7 +51,7 @@
 | #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #5 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /san-pham/fb-0020/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #6 | /san-pham/fb-0011/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
@@ -154,10 +155,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 1382ms | 1613ms |
-| /san-pham/ | 91% | 1961ms | 0 | ? | 556ms | 112ms |
-| /danh-muc/hoa-sinh-nhat/ | 86% | 2512ms | 0 | ? | 571ms | 87ms |
+| / | 96% | 663ms | 0.001 | ? | 574ms | 1711ms |
+| /san-pham/ | 98% | 1079ms | 0.003 | ? | 516ms | 522ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1343ms | 0.001 | ? | 603ms | 75ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1211ms | 0 | ? | 280ms | 70ms |
+| /amp/ | 87% | 1243ms | 0 | ? | 279ms | 76ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
