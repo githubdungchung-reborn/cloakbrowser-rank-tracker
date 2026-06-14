@@ -1,25 +1,26 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-14T00:20:12.338Z",
-  "indexStats": "Khoảng 977 kết quả (0,10 giây) ",
+  "timestamp": "2026-06-14T23:25:18.892Z",
+  "indexStats": "Khoảng 920 kết quả (0,11 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0020/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0011/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
-  "clickedPosition": 7,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/lien-he/",
+  "clickedPosition": 3,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
-  "landedTitle": "Không tìm thấy trang | Hoa Tươi Đà Nẵng",
-  "brandRank": 3
+  "landedUrl": "https://hoatuoidanangnhanhi.com/lien-he/",
+  "landedTitle": "Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà Nẵng",
+  "brandRank": 7
+}randRank": 3
 }
 }
