@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-14T17:42:08.829Z",
-  "indexStats": "Khoảng 976 kết quả (0,14 giây) ",
+  "timestamp": "2026-06-14T21:36:43.170Z",
+  "indexStats": "Khoảng 920 kết quả (0,11 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,12 +15,10 @@
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "clickedPosition": 8,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+  "clickedPosition": 2,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
-  "brandRank": 6
-}
-  "brandRank": 3
+  "landedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
+  "landedTitle": "Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "brandRank": 9
 }
