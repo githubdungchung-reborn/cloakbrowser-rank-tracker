@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-15T12:47:42.509Z
+**Updated:** 2026-06-15T18:10:45.033Z
 
 ## Keyword Rankings
 
@@ -21,24 +21,24 @@
 
 **Visibility:** 4/13 keywords ranking (31%)
 
-## Site Index Verification (8 runs)
+## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.190 kết quả (0,17 giây) 
-- **Click verified:** 8/8 passed
-- **Click failed:** 0/8
+- **Click verified:** 9/9 passed
+- **Click failed:** 0/9
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /tuyen-dung/ | 2 | Yes |
+| /san-pham/fb-0158/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
 | / | 1 | Yes |
 | /san-pham/fb-0020/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
-| /san-pham/fb-0158/ | 1 | Yes |
 
 ### Click Detail
 
@@ -51,7 +51,8 @@
 | #4 | /san-pham/fb-0020/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #6 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #7 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -152,10 +153,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 76% | 1057ms | 0.001 | ? | 734ms | 493ms |
-| /san-pham/ | 99% | 824ms | 0.001 | ? | 482ms | 157ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1744ms | 0 | ? | 584ms | 47ms |
+| / | 89% | 587ms | 0.001 | ? | 374ms | 1713ms |
+| /san-pham/ | 98% | 1061ms | 0 | ? | 522ms | 971ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1811ms | 0 | ? | 646ms | 647ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1220ms | 0 | ? | 266ms | 80ms |
+| /amp/ | 88% | 1210ms | 0 | ? | 261ms | 590ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
