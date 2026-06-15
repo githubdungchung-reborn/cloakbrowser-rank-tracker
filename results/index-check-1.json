@@ -1,24 +1,26 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-13T20:38:52.870Z",
-  "indexStats": "Khoảng 1.190 kết quả (0,17 giây) ",
+  "timestamp": "2026-06-15T21:19:04.125Z",
+  "indexStats": "Khoảng 903 kết quả (0,16 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0020/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0011/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "clickedPosition": 6,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "clickedPosition": 8,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "landedTitle": "Chính sách thanh toán | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
+  "brandRank": 3
+}",
   "brandRank": 7
 }
