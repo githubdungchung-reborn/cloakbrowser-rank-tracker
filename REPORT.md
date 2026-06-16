@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-16T05:35:33.337Z
+**Updated:** 2026-06-16T11:42:27.344Z
 
 ## Keyword Rankings
 
@@ -20,18 +20,19 @@
 
 **Visibility:** 4/12 keywords ranking (33%)
 
-## Site Index Verification (6 runs)
+## Site Index Verification (7 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 973 kết quả (0,11 giây) 
-- **Click verified:** 6/6 passed
-- **Click failed:** 0/6
+- **Index stats:** Khoảng 900 kết quả (0,18 giây) 
+- **Click verified:** 7/7 passed
+- **Click failed:** 0/7
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /tuyen-dung/ | 3 | Yes |
+| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /san-pham/fb-0020/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /san-pham/fb-0158/ | 1 | Yes |
@@ -40,12 +41,13 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #2 | /san-pham/fb-0020/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #4 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #3 | /san-pham/fb-0020/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #5 | /san-pham/fb-0158/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -146,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 91% | 705ms | 0.016 | ? | 659ms | 1551ms |
-| /san-pham/ | 98% | 1162ms | 0 | ? | 582ms | 86ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1339ms | 0 | ? | 544ms | 84ms |
+| / | 94% | 383ms | 0.032 | ? | 355ms | 2112ms |
+| /san-pham/ | 97% | 1201ms | 0 | ? | 544ms | 97ms |
+| /danh-muc/hoa-sinh-nhat/ | 93% | 1671ms | 0 | ? | 644ms | 115ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1255ms | 0 | ? | 294ms | 98ms |
+| /amp/ | 86% | 1410ms | 0 | ? | 319ms | 95ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
