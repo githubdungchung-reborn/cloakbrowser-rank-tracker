@@ -1,12 +1,12 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-15T21:26:25.868Z
+**Updated:** 2026-06-16T00:07:26.339Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
-| 2 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, facebook.com |
+| 2 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, flowercorner.vn, shophoamaimai.com |
 | 3 | hoa 20/10 đà nẵng | **#9** | 1 | 1p | canhdonghoatuoi.com, hoadanang.vn, tiemhoa1989dn.com |
 | 4 | hoa cảm ơn đà nẵng | **#5** | 1 | 1p | hoayeuthuong.com.vn, canhdonghoatuoi.com, facebook.com |
 | 5 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
@@ -51,16 +51,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 9 |
+| facebook.com | 7 |
+| flowercorner.vn | 5 |
 | canhdonghoatuoi.com | 5 |
-| flowercorner.vn | 4 |
 | kimkieuflower.vn | 3 |
 | bachhoaxanh.com | 3 |
 | shophoatuoidep.net | 2 |
 | hoatuoidanang247.com | 2 |
+| shophoamaimai.com | 1 |
 | hoadanang.vn | 1 |
 | tiemhoa1989dn.com | 1 |
-| hoayeuthuong.com.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -147,10 +147,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 383ms | 0.032 | ? | 353ms | 1726ms |
-| /san-pham/ | 98% | 1102ms | 0 | ? | 525ms | 83ms |
-| /danh-muc/hoa-sinh-nhat/ | 98% | 1073ms | 0 | ? | 615ms | 427ms |
+| / | 87% | 1159ms | 0.001 | ? | 592ms | 1291ms |
+| /san-pham/ | 95% | 1568ms | 0.001 | ? | 491ms | 171ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1964ms | 0 | ? | 588ms | 66ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1347ms | 0 | ? | 308ms | 170ms |
+| /amp/ | 87% | 1268ms | 0 | ? | 289ms | 85ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
