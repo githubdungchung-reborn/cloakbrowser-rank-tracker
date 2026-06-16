@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-16T00:07:26.339Z
+**Updated:** 2026-06-16T05:35:33.337Z
 
 ## Keyword Rankings
 
@@ -11,7 +11,7 @@
 | 4 | hoa cảm ơn đà nẵng | **#5** | 1 | 1p | hoayeuthuong.com.vn, canhdonghoatuoi.com, facebook.com |
 | 5 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
 | 6 | hoa khai trương đà nẵng | **#29** | 2 | 2p | tiemhoanang.com, shophoatuoidep.net, diachishophoa.com |
-| 7 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | shophoatuoidep.net, hoatuoidanang.net, thanhcongflower.com |
+| 7 | hoa sinh nhật đà nẵng | **#45** | 3 | 3p | shophoatuoidep.net, hoatuoidanang.net, hoadanang.vn |
 | 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 10 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
@@ -23,7 +23,7 @@
 ## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 1.130 kết quả (0,12 giây) 
+- **Index stats:** Khoảng 973 kết quả (0,11 giây) 
 - **Click verified:** 6/6 passed
 - **Click failed:** 0/6
 
@@ -31,8 +31,7 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /tuyen-dung/ | 2 | Yes |
-| /hang-moi-ve/ | 1 | Yes |
+| /tuyen-dung/ | 3 | Yes |
 | /san-pham/fb-0020/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /san-pham/fb-0158/ | 1 | Yes |
@@ -41,7 +40,7 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #0 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #1 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #2 | /san-pham/fb-0020/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
@@ -56,10 +55,10 @@
 | canhdonghoatuoi.com | 5 |
 | kimkieuflower.vn | 3 |
 | bachhoaxanh.com | 3 |
+| hoadanang.vn | 2 |
 | shophoatuoidep.net | 2 |
 | hoatuoidanang247.com | 2 |
 | shophoamaimai.com | 1 |
-| hoadanang.vn | 1 |
 | tiemhoa1989dn.com | 1 |
 
 ## CrUX Traffic Simulation
@@ -147,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 87% | 1159ms | 0.001 | ? | 592ms | 1291ms |
-| /san-pham/ | 95% | 1568ms | 0.001 | ? | 491ms | 171ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1964ms | 0 | ? | 588ms | 66ms |
+| / | 91% | 705ms | 0.016 | ? | 659ms | 1551ms |
+| /san-pham/ | 98% | 1162ms | 0 | ? | 582ms | 86ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1339ms | 0 | ? | 544ms | 84ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1268ms | 0 | ? | 289ms | 85ms |
+| /amp/ | 87% | 1255ms | 0 | ? | 294ms | 98ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
