@@ -1,11 +1,10 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-16T21:19:02.726Z",
-  "indexStats": "Khoảng 929 kết quả (0,13 giây) ",
+  "timestamp": "2026-06-16T23:47:47.144Z",
+  "indexStats": "Khoảng 901 kết quả (0,13 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
-    "https://hoatuoidanangnhanhi.com/hoatuoigiaredanang/",
     "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
@@ -13,12 +12,13 @@
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0020/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/"
+    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-  "clickedPosition": 3,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
+  "clickedPosition": 4,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-  "landedTitle": "Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tươi Đà Nẵng",
-  "brandRank": 2
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
+  "landedTitle": "Hàng mới về – Mẫu hoa cập nhật mới nhất tại Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "brandRank": 3
 }
