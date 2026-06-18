@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-18T17:41:04.418Z
+**Updated:** 2026-06-18T21:02:08.636Z
 
 ## Keyword Rankings
 
@@ -12,16 +12,15 @@
 | 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, caycanhdanang.com.vn, hoadanang.vn |
 | 6 | hoa cảm ơn đà nẵng | **#2** | 1 | 1p | hoayeuthuong.com.vn, hoatuoidanangnhanhi.com, facebook.com |
 | 7 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 8 | hoa khai trương đà nẵng | **#29** | 2 | 2p | tiemhoanang.com, shophoatuoidep.net, diachishophoa.com |
-| 9 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
-| 10 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 11 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 12 | hoa valentine đà nẵng | **#6** | 1 | 1p | kimkieuflower.vn, dalathasfarm.com, kimkieuflower.vn |
-| 13 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
-| 14 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
-| 15 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, canhdonghoatuoi.com, kimkieuflower.vn |
+| 8 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
+| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 10 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 11 | hoa valentine đà nẵng | **#6** | 1 | 1p | kimkieuflower.vn, dalathasfarm.com, kimkieuflower.vn |
+| 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
+| 13 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
+| 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, canhdonghoatuoi.com, kimkieuflower.vn |
 
-**Visibility:** 6/15 keywords ranking (40%)
+**Visibility:** 5/14 keywords ranking (36%)
 
 ## Site Index Verification (8 runs)
 
@@ -34,11 +33,10 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /hang-moi-ve/ | 3 | Yes |
 | /hinh-anh-thuc-te/ | 2 | Yes |
-| /hang-moi-ve/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /san-pham/fb-0020/ | 1 | Yes |
-| /cua-hang/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 
 ### Click Detail
@@ -49,8 +47,8 @@
 | #1 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #3 | /san-pham/fb-0020/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
@@ -62,11 +60,11 @@
 | facebook.com | 4 |
 | flowercorner.vn | 3 |
 | hellodanang.vn | 2 |
-| shophoatuoidep.net | 2 |
 | bachhoaxanh.com | 2 |
 | dathoanhanh.com | 1 |
 | royflower.com | 1 |
 | dienhoatuoidanang.vn | 1 |
+| shophoamaimai.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -153,10 +151,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 99% | 362ms | 0.001 | ? | 306ms | 1610ms |
-| /san-pham/ | 99% | 924ms | 0 | ? | 498ms | 507ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1245ms | 0 | ? | 596ms | 82ms |
+| / | N/A | ? | 0.001 | ? | 348ms | 1547ms |
+| /san-pham/ | 97% | 1302ms | 0 | ? | 544ms | 126ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1788ms | 0 | ? | 619ms | 153ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1270ms | 0 | ? | 291ms | 76ms |
+| /amp/ | 87% | 1269ms | 0 | ? | 270ms | 79ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
