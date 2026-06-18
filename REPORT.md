@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-18T21:02:08.636Z
+**Updated:** 2026-06-18T23:21:18.786Z
 
 ## Keyword Rankings
 
@@ -15,7 +15,7 @@
 | 8 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 10 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 11 | hoa valentine đà nẵng | **#6** | 1 | 1p | kimkieuflower.vn, dalathasfarm.com, kimkieuflower.vn |
+| 11 | hoa valentine đà nẵng | **#7** | 1 | 1p | kimkieuflower.vn, kimkieuflower.vn, kimkieuflower.vn |
 | 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
 | 13 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
 | 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, canhdonghoatuoi.com, kimkieuflower.vn |
@@ -34,10 +34,11 @@
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 3 | Yes |
-| /hinh-anh-thuc-te/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
+| /hinh-anh-thuc-te/ | 1 | Yes |
 | /san-pham/fb-0020/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /lien-he/ | 1 | Yes |
 
 ### Click Detail
 
@@ -49,13 +50,13 @@
 | #3 | /san-pham/fb-0020/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| kimkieuflower.vn | 5 |
+| kimkieuflower.vn | 6 |
 | canhdonghoatuoi.com | 4 |
 | facebook.com | 4 |
 | flowercorner.vn | 3 |
@@ -151,10 +152,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 348ms | 1547ms |
-| /san-pham/ | 97% | 1302ms | 0 | ? | 544ms | 126ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1788ms | 0 | ? | 619ms | 153ms |
+| / | N/A | ? | 0 | ? | 613ms | 1593ms |
+| /san-pham/ | 99% | 1036ms | 0 | ? | 498ms | 79ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1268ms | 0 | ? | 588ms | 89ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1269ms | 0 | ? | 270ms | 79ms |
+| /amp/ | 87% | 1322ms | 0 | ? | 293ms | 90ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
