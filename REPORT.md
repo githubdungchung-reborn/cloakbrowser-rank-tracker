@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-19T20:55:46.847Z
+**Updated:** 2026-06-19T22:21:53.058Z
 
 ## Keyword Rankings
 
@@ -12,11 +12,11 @@
 | 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, caycanhdanang.com.vn, hoadanang.vn |
 | 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | lanhodiepdanang.com, hongtamflower.com, shophoatuoidanang.vn |
 | 7 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 8 | hoa tulip đà nẵng | **#42** | 2 | 2p | bachhoaxanh.com, tiktok.com, tiktok.com |
 | 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 10 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
 
-**Visibility:** 4/10 keywords ranking (40%)
+**Visibility:** 5/10 keywords ranking (50%)
 
 ## Site Index Verification (8 runs)
 
@@ -50,10 +50,10 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| canhdonghoatuoi.com | 3 |
 | flowercorner.vn | 3 |
+| canhdonghoatuoi.com | 2 |
 | hellodanang.vn | 2 |
-| facebook.com | 2 |
+| tiktok.com | 2 |
 | dathoanhanh.com | 1 |
 | royflower.com | 1 |
 | dienhoatuoidanang.vn | 1 |
@@ -146,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 96% | 368ms | 0.001 | ? | 336ms | 1980ms |
-| /san-pham/ | 93% | 1703ms | 0 | ? | 508ms | 199ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2402ms | 0 | ? | 621ms | 178ms |
+| / | N/A | ? | 0.001 | ? | 407ms | 1186ms |
+| /san-pham/ | 96% | 1345ms | 0 | ? | 559ms | 861ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1794ms | 0 | ? | 582ms | 73ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1330ms | 0 | ? | 309ms | 61ms |
+| /amp/ | 87% | 1254ms | 0 | ? | 271ms | 64ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
