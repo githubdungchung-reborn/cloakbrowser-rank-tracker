@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-19T12:25:01.757Z
+**Updated:** 2026-06-19T16:21:43.399Z
 
 ## Keyword Rankings
 
@@ -10,16 +10,15 @@
 | 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, flowercorner.vn, shophoamaimai.com |
 | 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 15p | - |
 | 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, caycanhdanang.com.vn, hoadanang.vn |
-| 6 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 7 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 10 | hoa valentine đà nẵng | **#7** | 1 | 1p | kimkieuflower.vn, kimkieuflower.vn, kimkieuflower.vn |
-| 11 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
-| 12 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
-| 13 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, canhdonghoatuoi.com, kimkieuflower.vn |
+| 6 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
+| 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 9 | hoa valentine đà nẵng | **#7** | 1 | 1p | kimkieuflower.vn, kimkieuflower.vn, kimkieuflower.vn |
+| 10 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
+| 11 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
+| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, canhdonghoatuoi.com, kimkieuflower.vn |
 
-**Visibility:** 4/13 keywords ranking (31%)
+**Visibility:** 4/12 keywords ranking (33%)
 
 ## Site Index Verification (8 runs)
 
@@ -150,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 680ms | 0.003 | ? | 578ms | 1464ms |
-| /san-pham/ | 95% | 1548ms | 0 | ? | 492ms | 114ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2428ms | 0 | ? | 587ms | 68ms |
+| / | N/A | ? | 0 | ? | 593ms | 1408ms |
+| /san-pham/ | 90% | 2119ms | 0 | ? | 612ms | 142ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2526ms | 0 | ? | 649ms | 135ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1175ms | 0 | ? | 260ms | 77ms |
+| /amp/ | 87% | 1336ms | 0 | ? | 335ms | 160ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
