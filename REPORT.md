@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-19T19:15:31.446Z
+**Updated:** 2026-06-19T20:55:46.847Z
 
 ## Keyword Rankings
 
@@ -14,27 +14,24 @@
 | 7 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
 | 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 10 | hoa valentine đà nẵng | **#7** | 1 | 1p | kimkieuflower.vn, kimkieuflower.vn, kimkieuflower.vn |
-| 11 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, bachhoaxanh.com |
-| 12 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
-| 13 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, canhdonghoatuoi.com, kimkieuflower.vn |
+| 10 | shop hoa tươi đà nẵng | **#47** | 3 | 3p | 7fgarden.com, topaz.vn, depkhongtuong.com |
 
-**Visibility:** 5/13 keywords ranking (38%)
+**Visibility:** 4/10 keywords ranking (40%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (8 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 900 kết quả (0,18 giây) 
-- **Click verified:** 7/7 passed
-- **Click failed:** 0/7
+- **Click verified:** 8/8 passed
+- **Click failed:** 0/8
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 3 | Yes |
+| /chinh-sach-thanh-toan/ | 2 | Yes |
 | /tuyen-dung/ | 2 | Yes |
-| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 
 ### Click Detail
@@ -42,26 +39,27 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #1 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #3 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| kimkieuflower.vn | 6 |
-| canhdonghoatuoi.com | 4 |
+| canhdonghoatuoi.com | 3 |
 | flowercorner.vn | 3 |
-| facebook.com | 3 |
 | hellodanang.vn | 2 |
-| bachhoaxanh.com | 2 |
+| facebook.com | 2 |
 | dathoanhanh.com | 1 |
 | royflower.com | 1 |
 | dienhoatuoidanang.vn | 1 |
 | shophoamaimai.com | 1 |
+| caycanhdanang.com.vn | 1 |
+| hoadanang.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -148,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 85% | 740ms | 0.016 | ? | 620ms | 1478ms |
-| /san-pham/ | 97% | 1240ms | 0 | ? | 498ms | 101ms |
-| /danh-muc/hoa-sinh-nhat/ | 94% | 1598ms | 0 | ? | 510ms | 445ms |
+| / | 96% | 368ms | 0.001 | ? | 336ms | 1980ms |
+| /san-pham/ | 93% | 1703ms | 0 | ? | 508ms | 199ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2402ms | 0 | ? | 621ms | 178ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1383ms | 0 | ? | 319ms | 111ms |
+| /amp/ | 87% | 1330ms | 0 | ? | 309ms | 61ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
