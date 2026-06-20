@@ -1,23 +1,24 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-20T16:52:50.465Z
+**Updated:** 2026-06-20T18:32:33.311Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 2 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, flowercorner.vn, shophoamaimai.com |
-| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 15p | - |
-| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, caycanhdanang.com.vn, hoadanang.vn |
-| 5 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | lanhodiepdanang.com, hongtamflower.com, shophoatuoidanang.vn |
-| 6 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
-| 7 | hoa tulip đà nẵng | **#42** | 2 | 2p | bachhoaxanh.com, tiktok.com, tiktok.com |
-| 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 9 | hoa valentine đà nẵng | **#9** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
-| 10 | mua hoa tươi đà nẵng | **#24** | 2 | 2p | dalathasfarm.com, royflower.com, mytour.vn |
-| 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
+| 1 | đặt hoa online đà nẵng | **#45** | 3 | 3p | shophoavip.com, facebook.com, hoadanang.com |
+| 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
+| 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, flowercorner.vn, shophoamaimai.com |
+| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 15p | - |
+| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, caycanhdanang.com.vn, hoadanang.vn |
+| 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | lanhodiepdanang.com, hongtamflower.com, shophoatuoidanang.vn |
+| 7 | hoa sinh nhật đà nẵng | **#46** | 3 | 3p | hoatuoingocmai.com, hoatuoidanang.net, shophoatuoidep.net |
+| 8 | hoa tulip đà nẵng | **#42** | 2 | 2p | bachhoaxanh.com, tiktok.com, tiktok.com |
+| 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 10 | hoa valentine đà nẵng | **#9** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
+| 11 | mua hoa tươi đà nẵng | **#24** | 2 | 2p | dalathasfarm.com, royflower.com, mytour.vn |
+| 12 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 5/11 keywords ranking (45%)
+**Visibility:** 6/12 keywords ranking (50%)
 
 ## Site Index Verification (9 runs)
 
@@ -56,14 +57,14 @@
 |--------|------|
 | flowercorner.vn | 5 |
 | tramhoa.com | 3 |
+| facebook.com | 2 |
 | canhdonghoatuoi.com | 2 |
 | bachhoaxanh.com | 2 |
 | tiktok.com | 2 |
 | dalathasfarm.com | 2 |
+| shophoavip.com | 1 |
+| hoadanang.com | 1 |
 | shophoamaimai.com | 1 |
-| caycanhdanang.com.vn | 1 |
-| hoadanang.vn | 1 |
-| lanhodiepdanang.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -150,10 +151,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 89% | 1012ms | 0.016 | ? | 551ms | 942ms |
-| /san-pham/ | 95% | 1576ms | 0 | ? | 488ms | 72ms |
-| /danh-muc/hoa-sinh-nhat/ | 88% | 2357ms | 0.002 | ? | 623ms | 606ms |
+| / | 90% | 1191ms | 0.016 | ? | 570ms | 1997ms |
+| /san-pham/ | 97% | 1301ms | 0 | ? | 484ms | 721ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1791ms | 0 | ? | 589ms | 48ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1215ms | 0 | ? | 255ms | 38ms |
+| /amp/ | 88% | 1193ms | 0 | ? | 252ms | 84ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
