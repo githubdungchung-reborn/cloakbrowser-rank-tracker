@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-21T20:07:34.491Z
+**Updated:** 2026-06-21T21:47:58.275Z
 
 ## Keyword Rankings
 
@@ -7,21 +7,20 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa online đà nẵng | **#43** | 3 | 3p | hoadanang.com, hoatuoi24h.com.vn, hoatuoidanangnhanhi.com |
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, flowercorner.vn, shophoamaimai.com |
-| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
-| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, hoadanang.vn |
-| 6 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
-| 7 | mua hoa tươi đà nẵng | **#24** | 2 | 2p | dalathasfarm.com, royflower.com, mytour.vn |
-| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
+| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
+| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, hoadanang.vn |
+| 5 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
+| 6 | mua hoa tươi đà nẵng | **#24** | 2 | 2p | dalathasfarm.com, royflower.com, mytour.vn |
+| 7 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 3/8 keywords ranking (38%)
+**Visibility:** 3/7 keywords ranking (43%)
 
-## Site Index Verification (8 runs)
+## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 900 kết quả (0,18 giây) 
-- **Click verified:** 8/8 passed
-- **Click failed:** 0/8
+- **Click verified:** 9/9 passed
+- **Click failed:** 0/9
 
 ### Pages Clicked (random distribution)
 
@@ -29,8 +28,8 @@
 |-----------|---------------|----------|
 | /chinh-sach-thanh-toan/ | 2 | Yes |
 | /lien-he/ | 2 | Yes |
+| /hang-moi-ve/ | 2 | Yes |
 | /cua-hang/ | 1 | Yes |
-| /hang-moi-ve/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /hoatuoigiaredanang/ | 1 | Yes |
 
@@ -45,21 +44,22 @@
 | #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #5 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #6 | /hoatuoigiaredanang/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #7 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #8 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | tramhoa.com | 3 |
-| flowercorner.vn | 3 |
 | hoadanang.vn | 2 |
 | hoatuoidanang247.com | 2 |
 | hoadanang.com | 1 |
 | hoatuoi24h.com.vn | 1 |
-| shophoamaimai.com | 1 |
 | canhdonghoatuoi.com | 1 |
 | happywedding.vn | 1 |
 | dalathasfarm.com | 1 |
+| royflower.com | 1 |
+| mytour.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -146,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.003 | ? | 617ms | 1401ms |
-| /san-pham/ | 94% | 1606ms | 0 | ? | 518ms | 120ms |
-| /danh-muc/hoa-sinh-nhat/ | 86% | 2622ms | 0 | ? | 602ms | 59ms |
+| / | 83% | 1098ms | 0.016 | ? | 670ms | 1175ms |
+| /san-pham/ | 93% | 1718ms | 0.003 | ? | 501ms | 67ms |
+| /danh-muc/hoa-sinh-nhat/ | 88% | 2299ms | 0 | ? | 593ms | 545ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1229ms | 0 | ? | 257ms | 59ms |
+| /amp/ | 88% | 1201ms | 0 | ? | 261ms | 55ms |
 
 **Pass rate:** 1/5 pages ≥ 90%
