@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-21T00:27:39.049Z
+**Updated:** 2026-06-21T06:24:42.673Z
 
 ## Keyword Rankings
 
@@ -10,33 +10,28 @@
 | 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, flowercorner.vn, shophoamaimai.com |
 | 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
 | 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, hoadanang.vn |
-| 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | lanhodiepdanang.com, hongtamflower.com, shophoatuoidanang.vn |
-| 7 | hoa tulip đà nẵng | **#42** | 2 | 2p | bachhoaxanh.com, tiktok.com, tiktok.com |
-| 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 9 | hoa valentine đà nẵng | **#9** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
-| 10 | mua hoa tươi đà nẵng | **#24** | 2 | 2p | dalathasfarm.com, royflower.com, mytour.vn |
-| 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
+| 6 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 7 | mua hoa tươi đà nẵng | **#24** | 2 | 2p | dalathasfarm.com, royflower.com, mytour.vn |
+| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 5/11 keywords ranking (45%)
+**Visibility:** 2/8 keywords ranking (25%)
 
-## Site Index Verification (10 runs)
+## Site Index Verification (8 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 900 kết quả (0,18 giây) 
-- **Click verified:** 9/10 passed
-- **Click failed:** 1/10
+- **Click verified:** 8/8 passed
+- **Click failed:** 0/8
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /chinh-sach-thanh-toan/ | 2 | Yes |
+| /lien-he/ | 2 | Yes |
 | /hang-moi-ve/ | 2 | Yes |
-| /yeu-thich/ | 1 | Yes |
-| /hinh-anh-thuc-te/ | 1 | Yes |
 | /hoatuoigiaredanang/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
-| /lien-he/ | 1 | Yes |
 
 ### Click Detail
 
@@ -44,28 +39,26 @@
 |-----|-------------|--------------|----------|
 | #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #2 | - | - | No |
-| #3 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #5 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hoatuoigiaredanang/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #8 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #9 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #2 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #4 | /hoatuoigiaredanang/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| flowercorner.vn | 5 |
+| flowercorner.vn | 4 |
 | tramhoa.com | 3 |
-| canhdonghoatuoi.com | 2 |
 | hoadanang.vn | 2 |
-| bachhoaxanh.com | 2 |
-| tiktok.com | 2 |
-| dalathasfarm.com | 2 |
 | hoadanang.com | 1 |
 | hoatuoi24h.com.vn | 1 |
 | shophoamaimai.com | 1 |
+| canhdonghoatuoi.com | 1 |
+| kimkieuflower.vn | 1 |
+| facebook.com | 1 |
+| dalathasfarm.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -152,10 +145,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 627ms | 2209ms |
-| /san-pham/ | 97% | 1206ms | 0 | ? | 511ms | 85ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1781ms | 0 | ? | 590ms | 68ms |
+| / | 96% | 388ms | 0.034 | ? | 366ms | 418ms |
+| /san-pham/ | 97% | 1289ms | 0 | ? | 481ms | 64ms |
+| /danh-muc/hoa-sinh-nhat/ | 94% | 1632ms | 0 | ? | 557ms | 414ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1190ms | 0 | ? | 263ms | 116ms |
+| /amp/ | 87% | 1296ms | 0 | ? | 272ms | 81ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
