@@ -1,16 +1,11 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-20T05:42:22.056Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 2
-}ang/",
+  "timestamp": "2026-06-21T10:41:19.239Z",
+  "indexStats": "Khoảng 957 kết quả (0,12 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/hoatuoigiaredanang/",
     "https://hoatuoidanangnhanhi.com/yeu-thich/",
     "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
@@ -25,5 +20,6 @@
   "clickVerified": true,
   "landedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
   "landedTitle": "Cửa hàng | Hoa Tươi Đà Nẵng",
-  "brandRank": 2
+  "brandRank": 3
+}
 }
