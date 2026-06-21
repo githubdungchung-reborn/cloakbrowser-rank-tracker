@@ -1,25 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-14T19:55:24.953Z",
-  "indexStats": "Khoảng 920 kết quả (0,19 giây) ",
+  "timestamp": "2026-06-21T00:21:09.199Z",
+  "indexStats": "Khoảng 1.110 kết quả (0,12 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/hoatuoigiaredanang/",
+    "https://hoatuoidanangnhanhi.com/yeu-thich/",
     "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0020/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0158/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0216/"
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0131/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0020/",
-  "clickedPosition": 5,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hoatuoigiaredanang/",
+  "clickedPosition": 1,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0020/",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hoatuoigiaredanang/",
   "landedTitle": "Không tìm thấy trang | Hoa Tươi Đà Nẵng",
-  "brandRank": 7
-}Rank": 6
+  "brandRank": 2
 }
