@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-21T10:49:01.474Z
+**Updated:** 2026-06-21T13:24:55.019Z
 
 ## Keyword Rankings
 
@@ -17,12 +17,12 @@
 
 **Visibility:** 3/9 keywords ranking (33%)
 
-## Site Index Verification (8 runs)
+## Site Index Verification (7 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 900 kết quả (0,18 giây) 
-- **Click verified:** 8/8 passed
-- **Click failed:** 0/8
+- **Click verified:** 7/7 passed
+- **Click failed:** 0/7
 
 ### Pages Clicked (random distribution)
 
@@ -32,7 +32,6 @@
 | /lien-he/ | 2 | Yes |
 | /hang-moi-ve/ | 2 | Yes |
 | /hoatuoigiaredanang/ | 1 | Yes |
-| /tuyen-dung/ | 1 | Yes |
 
 ### Click Detail
 
@@ -43,9 +42,8 @@
 | #2 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #4 | /hoatuoigiaredanang/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -146,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 98% | 637ms | 0.001 | ? | 501ms | 1510ms |
-| /san-pham/ | 98% | 1166ms | 0 | ? | 499ms | 77ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1778ms | 0 | ? | 575ms | 403ms |
+| / | N/A | ? | 0 | ? | 561ms | 1370ms |
+| /san-pham/ | 92% | 1872ms | 0 | ? | 563ms | 128ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2529ms | 0 | ? | 526ms | 97ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1215ms | 0 | ? | 257ms | 85ms |
+| /amp/ | 87% | 1251ms | 0 | ? | 268ms | 60ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
