@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-23T21:14:17.283Z
+**Updated:** 2026-06-23T22:45:05.896Z
 
 ## Keyword Rankings
 
@@ -9,29 +9,27 @@
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 3 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
 | 4 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, top10danang.com |
-| 5 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, caycanhdanang.com.vn |
-| 6 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 8 | shop hoa tươi đà nẵng | **#42** | 3 | 3p | royflower.com, hoatuoidanangnhanhi.com, hellodanang.vn |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 5 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 6 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 7 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 8 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 3/10 keywords ranking (30%)
+**Visibility:** 2/8 keywords ranking (25%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 889 kết quả (0,12 giây) 
-- **Click verified:** 6/7 passed
-- **Click failed:** 1/7
+- **Click verified:** 5/6 passed
+- **Click failed:** 1/6
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 2 | Yes |
-| /hinh-anh-thuc-te/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
+| /hinh-anh-thuc-te/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 
 ### Click Detail
@@ -42,23 +40,20 @@
 | #1 | - | - | No |
 | #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #4 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | tramhoa.com | 3 |
-| facebook.com | 2 |
 | hoadanang.com | 1 |
 | hoatuoi24h.com.vn | 1 |
 | happywedding.vn | 1 |
 | hoatuoidanang247.com | 1 |
+| facebook.com | 1 |
 | hoasenviet.net | 1 |
 | top10danang.com | 1 |
-| canhdonghoatuoi.com | 1 |
-| caycanhdanang.com.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -145,10 +140,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 714ms | 0.032 | ? | 579ms | 1185ms |
-| /san-pham/ | 91% | 1968ms | 0 | ? | 492ms | 139ms |
-| /danh-muc/hoa-sinh-nhat/ | 90% | 2132ms | 0 | ? | 502ms | 119ms |
+| / | 88% | 382ms | 0.034 | ? | 352ms | 128ms |
+| /san-pham/ | 96% | 1309ms | 0 | ? | 608ms | 151ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2642ms | 0 | ? | 521ms | 202ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | N/A | ? | ? | ? | ? | ? |
+| /amp/ | 87% | 1345ms | 0 | ? | 314ms | 146ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
