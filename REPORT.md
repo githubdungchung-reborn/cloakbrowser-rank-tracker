@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-23T16:15:58.440Z
+**Updated:** 2026-06-23T18:22:19.377Z
 
 ## Keyword Rankings
 
@@ -29,11 +29,11 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hang-moi-ve/ | 3 | Yes |
+| /hang-moi-ve/ | 2 | Yes |
+| /hinh-anh-thuc-te/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
 | /san-pham/fb-0131/ | 1 | Yes |
-| /hinh-anh-thuc-te/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 
 ### Click Detail
@@ -46,7 +46,7 @@
 | #3 | /san-pham/fb-0131/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #5 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
@@ -149,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 88% | 704ms | 0.016 | ? | 699ms | 1105ms |
-| /san-pham/ | 97% | 1202ms | 0 | ? | 494ms | 140ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1822ms | 0 | ? | 544ms | 55ms |
+| / | N/A | ? | 0.001 | ? | 559ms | 1957ms |
+| /san-pham/ | 98% | 1141ms | 0 | ? | 488ms | 104ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1254ms | 0 | ? | 603ms | 465ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1299ms | 0 | ? | 283ms | 97ms |
+| /amp/ | 87% | 1238ms | 0 | ? | 283ms | 61ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
