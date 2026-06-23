@@ -1,14 +1,16 @@
 [
   {
     "keyword": "hoa tulip đà nẵng",
-    "position": 65,
-    "page": 4,
-    "topCompetitors": [
-      "canhdonghoatuoi.com",
-      "youtube.com",
-      "youtube.com"
-    ],
-    "pagesSearched": 4,
-    "timestamp": "2026-06-22T21:12:43.829Z"
+    "position": -1,
+    "status": "captcha",
+    "pagesSearched": 1,
+    "timestamp": "2026-06-23T04:17:48.049Z"
+  },
+  {
+    "keyword": "hoa tulip đà nẵng",
+    "position": -1,
+    "topCompetitors": [],
+    "pagesSearched": 50,
+    "timestamp": "2026-06-23T04:17:48.049Z"
   }
 ]
