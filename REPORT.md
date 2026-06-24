@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-24T09:58:02.441Z
+**Updated:** 2026-06-24T12:37:50.306Z
 
 ## Keyword Rankings
 
@@ -9,13 +9,15 @@
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 3 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
 | 4 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, top10danang.com |
-| 5 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 7 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
+| 5 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 6 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 7 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 9 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 10 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 2/9 keywords ranking (22%)
+**Visibility:** 2/11 keywords ranking (18%)
 
 ## Site Index Verification (3 runs)
 
@@ -138,10 +140,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 98% | 702ms | 0.032 | ? | 564ms | 41ms |
-| /san-pham/ | 94% | 1684ms | 0 | ? | 488ms | 126ms |
-| /danh-muc/hoa-sinh-nhat/ | 88% | 2308ms | 0 | ? | 579ms | 141ms |
+| / | N/A | ? | 0.001 | ? | 576ms | 1595ms |
+| /san-pham/ | 97% | 1311ms | 0 | ? | 494ms | 235ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1348ms | 0 | ? | 485ms | 140ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1224ms | 0 | ? | 273ms | 149ms |
+| /amp/ | 88% | 1163ms | 0 | ? | 263ms | 73ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
