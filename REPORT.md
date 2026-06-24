@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-24T12:37:50.306Z
+**Updated:** 2026-06-24T15:46:19.339Z
 
 ## Keyword Rankings
 
@@ -7,17 +7,18 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa online đà nẵng | **#43** | 3 | 3p | hoadanang.com, hoatuoi24h.com.vn, hoatuoidanangnhanhi.com |
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 3 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
-| 4 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, top10danang.com |
-| 5 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 6 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 7 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
+| 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, canhdonghoatuoi.com, facebook.com |
+| 4 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
+| 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, top10danang.com |
+| 6 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 8 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 10 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 11 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 2/11 keywords ranking (18%)
+**Visibility:** 2/12 keywords ranking (17%)
 
 ## Site Index Verification (3 runs)
 
@@ -45,15 +46,15 @@
 | Domain | Hits |
 |--------|------|
 | tramhoa.com | 3 |
+| facebook.com | 2 |
 | hoatuoidanang247.com | 2 |
 | hoadanang.com | 1 |
 | hoatuoi24h.com.vn | 1 |
+| hoatuoidanang.net | 1 |
+| canhdonghoatuoi.com | 1 |
 | happywedding.vn | 1 |
-| facebook.com | 1 |
 | hoasenviet.net | 1 |
 | top10danang.com | 1 |
-| bachhoaxanh.com | 1 |
-| kimkieuflower.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -140,10 +141,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 576ms | 1595ms |
-| /san-pham/ | 97% | 1311ms | 0 | ? | 494ms | 235ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1348ms | 0 | ? | 485ms | 140ms |
+| / | 97% | 542ms | 0.002 | ? | 373ms | 1033ms |
+| /san-pham/ | 97% | 1323ms | 0 | ? | 497ms | 203ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1497ms | 0 | ? | 514ms | 118ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1163ms | 0 | ? | 263ms | 73ms |
+| /amp/ | 87% | 1301ms | 0 | ? | 289ms | 120ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
