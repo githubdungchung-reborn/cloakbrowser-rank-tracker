@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-24T20:13:15.128Z
+**Updated:** 2026-06-24T21:51:12.458Z
 
 ## Keyword Rankings
 
@@ -18,19 +18,19 @@
 
 **Visibility:** 2/10 keywords ranking (20%)
 
-## Site Index Verification (5 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 906 kết quả (0,27 giây) 
-- **Click verified:** 5/5 passed
-- **Click failed:** 0/5
+- **Click verified:** 6/6 passed
+- **Click failed:** 0/6
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /hang-moi-ve/ | 3 | Yes |
 | /tuyen-dung/ | 2 | Yes |
-| /hang-moi-ve/ | 2 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 
 ### Click Detail
@@ -42,6 +42,7 @@
 | #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #5 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -142,10 +143,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 84% | 672ms | 0.016 | ? | 599ms | 1702ms |
-| /san-pham/ | 97% | 1332ms | 0 | ? | 521ms | 117ms |
-| /danh-muc/hoa-sinh-nhat/ | 94% | 1640ms | 0 | ? | 544ms | 213ms |
+| / | 98% | 389ms | 0.009 | ? | 362ms | 65ms |
+| /san-pham/ | 92% | 1835ms | 0 | ? | 483ms | 92ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2637ms | 0 | ? | 582ms | 121ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1241ms | 0 | ? | 264ms | 108ms |
+| /amp/ | 85% | 1507ms | 0 | ? | 341ms | 143ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
