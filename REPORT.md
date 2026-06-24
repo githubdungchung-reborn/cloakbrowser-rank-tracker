@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-24T05:19:09.689Z
+**Updated:** 2026-06-24T09:58:02.441Z
 
 ## Keyword Rankings
 
@@ -13,49 +13,45 @@
 | 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
 | 7 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
 | 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 2/10 keywords ranking (20%)
+**Visibility:** 2/9 keywords ranking (22%)
 
-## Site Index Verification (6 runs)
+## Site Index Verification (3 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 940 kết quả (0,13 giây) 
-- **Click verified:** 5/6 passed
-- **Click failed:** 1/6
+- **Index stats:** Khoảng 901 kết quả (0,13 giây) 
+- **Click verified:** 3/3 passed
+- **Click failed:** 0/3
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 2 | Yes |
-| / | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
-| /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #1 | - | - | No |
-| #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #1 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #2 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | tramhoa.com | 3 |
+| hoatuoidanang247.com | 2 |
 | hoadanang.com | 1 |
 | hoatuoi24h.com.vn | 1 |
 | happywedding.vn | 1 |
-| hoatuoidanang247.com | 1 |
 | facebook.com | 1 |
 | hoasenviet.net | 1 |
 | top10danang.com | 1 |
+| bachhoaxanh.com | 1 |
+| kimkieuflower.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -142,10 +138,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 309ms | 68ms |
-| /san-pham/ | 98% | 1131ms | 0.001 | ? | 518ms | 118ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1190ms | 0 | ? | 581ms | 81ms |
+| / | 98% | 702ms | 0.032 | ? | 564ms | 41ms |
+| /san-pham/ | 94% | 1684ms | 0 | ? | 488ms | 126ms |
+| /danh-muc/hoa-sinh-nhat/ | 88% | 2308ms | 0 | ? | 579ms | 141ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1176ms | 0 | ? | 273ms | 110ms |
+| /amp/ | 88% | 1224ms | 0 | ? | 273ms | 149ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
