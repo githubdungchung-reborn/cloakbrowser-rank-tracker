@@ -2,14 +2,15 @@
   {
     "keyword": "hoa tươi đà nẵng",
     "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-06-23T08:36:48.744Z"
-  },
-  {
-    "keyword": "hoa tươi đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
+    "topCompetitors": [
+      "kimkieuflower.vn",
+      "facebook.com",
+      "bachhoaxanh.com"
+    ],
+    "pagesSearched": 50,
+    "timestamp": "2026-06-24T20:04:27.731Z"
+  }
+]itors": [],
     "pagesSearched": 50,
     "timestamp": "2026-06-23T08:36:48.744Z"
   }

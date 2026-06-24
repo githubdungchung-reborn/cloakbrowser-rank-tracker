@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-24T18:13:46.394Z
+**Updated:** 2026-06-24T20:13:15.128Z
 
 ## Keyword Rankings
 
@@ -14,35 +14,34 @@
 | 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
 | 8 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 10 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 11 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 2/12 keywords ranking (17%)
+**Visibility:** 2/10 keywords ranking (20%)
 
-## Site Index Verification (4 runs)
+## Site Index Verification (5 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 901 kết quả (0,13 giây) 
-- **Click verified:** 4/4 passed
-- **Click failed:** 0/4
+- **Index stats:** Khoảng 906 kết quả (0,27 giây) 
+- **Click verified:** 5/5 passed
+- **Click failed:** 0/5
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /tuyen-dung/ | 2 | Yes |
 | /hang-moi-ve/ | 2 | Yes |
-| /tuyen-dung/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 
 ### Click Detail
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #1 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #2 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #0 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -143,10 +142,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 64% | 584ms | 0.016 | ? | 520ms | 942ms |
-| /san-pham/ | 96% | 1361ms | 0 | ? | 629ms | 212ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1689ms | 0 | ? | 567ms | 202ms |
+| / | 84% | 672ms | 0.016 | ? | 599ms | 1702ms |
+| /san-pham/ | 97% | 1332ms | 0 | ? | 521ms | 117ms |
+| /danh-muc/hoa-sinh-nhat/ | 94% | 1640ms | 0 | ? | 544ms | 213ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1448ms | 0 | ? | 343ms | 205ms |
+| /amp/ | 87% | 1241ms | 0 | ? | 264ms | 108ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
