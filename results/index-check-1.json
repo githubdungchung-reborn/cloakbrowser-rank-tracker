@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-24T12:30:34.377Z",
-  "indexStats": "Khoảng 945 kết quả (0,16 giây) ",
+  "timestamp": "2026-06-25T17:22:03.874Z",
+  "indexStats": "Khoảng 1.100 kết quả (0,13 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -10,16 +10,15 @@
     "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
+    "https://hoatuoidanangnhanhi.com/hoa-mua-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0131/"
+    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "clickedPosition": 7,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hoa-mua-he/",
+  "clickedPosition": 6,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "landedTitle": "Chính sách thanh toán | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hoa-mua-he/",
+  "landedTitle": "hoa mùa hè – Hoa Tươi Đà Nẵng",
   "brandRank": 3
-}}randRank": 7
 }
