@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-24T23:27:56.828Z
+**Updated:** 2026-06-25T08:38:57.526Z
 
 ## Keyword Rankings
 
@@ -14,16 +14,17 @@
 | 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
 | 8 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
+| 10 | mua hoa tươi đà nẵng | **#47** | 3 | 3p | hoatuoi24h.com.vn, depkhongtuong.com, thanhpho.danang.vn |
+| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 2/10 keywords ranking (20%)
+**Visibility:** 3/11 keywords ranking (27%)
 
-## Site Index Verification (6 runs)
+## Site Index Verification (7 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 906 kết quả (0,27 giây) 
-- **Click verified:** 6/6 passed
-- **Click failed:** 0/6
+- **Click verified:** 7/7 passed
+- **Click failed:** 0/7
 
 ### Pages Clicked (random distribution)
 
@@ -32,6 +33,7 @@
 | /hang-moi-ve/ | 3 | Yes |
 | /tuyen-dung/ | 2 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
+| /hoa-mua-he/ | 1 | Yes |
 
 ### Click Detail
 
@@ -42,16 +44,17 @@
 | #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #5 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #5 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
+| #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | tramhoa.com | 3 |
+| hoatuoi24h.com.vn | 2 |
 | facebook.com | 2 |
 | hoatuoidanang247.com | 2 |
 | hoadanang.com | 1 |
-| hoatuoi24h.com.vn | 1 |
 | hoatuoidanang.net | 1 |
 | canhdonghoatuoi.com | 1 |
 | happywedding.vn | 1 |
@@ -143,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 756ms | 0.032 | ? | 633ms | 105ms |
-| /san-pham/ | 97% | 1281ms | 0 | ? | 546ms | 125ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1724ms | 0.001 | ? | 555ms | 118ms |
+| / | N/A | ? | 0.001 | ? | 359ms | 62ms |
+| /san-pham/ | 98% | 1168ms | 0.001 | ? | 500ms | 88ms |
+| /danh-muc/hoa-sinh-nhat/ | 98% | 1067ms | 0 | ? | 502ms | 93ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1463ms | 0 | ? | 332ms | 115ms |
+| /amp/ | 88% | 1215ms | 0 | ? | 274ms | 82ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
