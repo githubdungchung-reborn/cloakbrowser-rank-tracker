@@ -2,14 +2,15 @@
   {
     "keyword": "hoa lan hồ điệp đà nẵng",
     "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-06-24T12:28:35.910Z"
-  },
-  {
-    "keyword": "hoa lan hồ điệp đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
+    "topCompetitors": [
+      "hoasenviet.net",
+      "caycanhdanang.com.vn",
+      "shophoamaimai.com"
+    ],
+    "pagesSearched": 50,
+    "timestamp": "2026-06-25T22:43:40.660Z"
+  }
+]etitors": [],
     "pagesSearched": 50,
     "timestamp": "2026-06-24T12:28:35.910Z"
   }

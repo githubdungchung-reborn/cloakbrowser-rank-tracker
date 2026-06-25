@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-25T17:30:20.332Z
+**Updated:** 2026-06-25T22:50:52.833Z
 
 ## Keyword Rankings
 
@@ -11,28 +11,26 @@
 | 4 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
 | 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, top10danang.com |
 | 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
-| 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 8 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | mua hoa tươi đà nẵng | **#47** | 3 | 3p | hoatuoi24h.com.vn, depkhongtuong.com, thanhpho.danang.vn |
-| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
+| 7 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 9 | mua hoa tươi đà nẵng | **#47** | 3 | 3p | hoatuoi24h.com.vn, depkhongtuong.com, thanhpho.danang.vn |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 3/12 keywords ranking (25%)
+**Visibility:** 3/10 keywords ranking (30%)
 
-## Site Index Verification (8 runs)
+## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.100 kết quả (0,13 giây) 
-- **Click verified:** 8/8 passed
-- **Click failed:** 0/8
+- **Click verified:** 9/9 passed
+- **Click failed:** 0/9
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /hoa-mua-he/ | 3 | Yes |
 | /hang-moi-ve/ | 3 | Yes |
-| /hoa-mua-he/ | 2 | Yes |
 | /tuyen-dung/ | 2 | Yes |
 | / | 1 | Yes |
 
@@ -41,13 +39,14 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
-| #1 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #3 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #4 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #6 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
-| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #1 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
+| #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #5 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #6 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #7 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
+| #8 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -148,10 +147,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 63% | 958ms | 0.016 | ? | 536ms | 402ms |
-| /san-pham/ | 92% | 1820ms | 0 | ? | 489ms | 244ms |
-| /danh-muc/hoa-sinh-nhat/ | 85% | 2689ms | 0 | ? | 532ms | 304ms |
+| / | 84% | 709ms | 0.001 | ? | 367ms | 169ms |
+| /san-pham/ | 92% | 1831ms | 0.001 | ? | 489ms | 178ms |
+| /danh-muc/hoa-sinh-nhat/ | 93% | 1680ms | 0 | ? | 599ms | 107ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1398ms | 0 | ? | 323ms | 173ms |
+| /amp/ | 87% | 1288ms | 0 | ? | 308ms | 173ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
