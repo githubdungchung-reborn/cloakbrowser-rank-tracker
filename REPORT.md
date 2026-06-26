@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-26T05:28:15.742Z
+**Updated:** 2026-06-26T09:57:28.106Z
 
 ## Keyword Rankings
 
@@ -33,7 +33,8 @@
 |-----------|---------------|----------|
 | /hoa-mua-he/ | 3 | Yes |
 | /hang-moi-ve/ | 3 | Yes |
-| /tuyen-dung/ | 2 | Yes |
+| /cua-hang/ | 1 | Yes |
+| /tuyen-dung/ | 1 | Yes |
 | / | 1 | Yes |
 
 ### Click Detail
@@ -42,7 +43,7 @@
 |-----|-------------|--------------|----------|
 | #0 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
 | #1 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
-| #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #2 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #5 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
@@ -149,10 +150,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 412ms | 909ms |
-| /san-pham/ | 93% | 1772ms | 0 | ? | 518ms | 102ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2477ms | 0 | ? | 585ms | 85ms |
+| / | 98% | 757ms | 0.001 | ? | 634ms | 1110ms |
+| /san-pham/ | 96% | 1332ms | 0 | ? | 629ms | 88ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1823ms | 0 | ? | 660ms | 85ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1201ms | 0 | ? | 264ms | 63ms |
+| /amp/ | 86% | 1378ms | 0 | ? | 311ms | 68ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
