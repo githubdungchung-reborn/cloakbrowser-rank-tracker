@@ -2,15 +2,12 @@
   {
     "keyword": "hoa tulip đà nẵng",
     "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-06-24T00:07:32.771Z"
-  },
-  {
-    "keyword": "hoa tulip đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
+    "topCompetitors": [
+      "facebook.com",
+      "canhdonghoatuoi.com",
+      "hoa10h.vn"
+    ],
     "pagesSearched": 50,
-    "timestamp": "2026-06-24T00:07:32.771Z"
+    "timestamp": "2026-06-26T20:05:40.296Z"
   }
 ]
