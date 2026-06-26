@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-26T20:13:47.427Z
+**Updated:** 2026-06-26T21:47:36.119Z
 
 ## Keyword Rankings
 
@@ -9,7 +9,7 @@
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
 | 3 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | hoatuoidanang.net, canhdonghoatuoi.com, facebook.com |
-| 5 | hoa cưới đà nẵng | **#23** | 2 | 2p | happywedding.vn, hoatuoidanang247.com, hoatuoidanangnhanhi.com |
+| 5 | hoa cưới đà nẵng | **#26** | 2 | 2p | hoadanang.vn, shophoatuoidanang.vn, facebook.com |
 | 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
 | 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 8 | mua hoa tươi đà nẵng | **#43** | 3 | 3p | depkhongtuong.com, shophoamaimai.com, hoatuoidanangnhanhi.com |
@@ -21,7 +21,7 @@
 ## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 1.100 kết quả (0,13 giây) 
+- **Index stats:** Khoảng 916 kết quả (0,12 giây) 
 - **Click verified:** 11/11 passed
 - **Click failed:** 0/11
 
@@ -30,7 +30,8 @@
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 4 | Yes |
-| /hoa-mua-he/ | 3 | Yes |
+| /hoa-mua-he/ | 2 | Yes |
+| /lien-he/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
@@ -40,7 +41,7 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
+| #0 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #1 | /hoa-mua-he/ | hoa mùa hè – Hoa Tươi Đà Nẵng | Yes |
 | #2 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
@@ -55,13 +56,13 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
+| facebook.com | 4 |
 | canhdonghoatuoi.com | 3 |
-| facebook.com | 3 |
 | hoadanang.com | 1 |
 | hoatuoi24h.com.vn | 1 |
 | hoatuoidanang.net | 1 |
-| happywedding.vn | 1 |
-| hoatuoidanang247.com | 1 |
+| hoadanang.vn | 1 |
+| shophoatuoidanang.vn | 1 |
 | flowercorner.vn | 1 |
 | hoa10h.vn | 1 |
 | depkhongtuong.com | 1 |
@@ -151,10 +152,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 734ms | 0 | ? | 629ms | 1798ms |
-| /san-pham/ | 98% | 1129ms | 0 | ? | 517ms | 120ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1364ms | 0 | ? | 592ms | 96ms |
+| / | 73% | 979ms | 0.032 | ? | 560ms | 932ms |
+| /san-pham/ | 97% | 1325ms | 0 | ? | 498ms | 174ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1788ms | 0 | ? | 593ms | 82ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1272ms | 0 | ? | 291ms | 68ms |
+| /amp/ | 87% | 1275ms | 0 | ? | 273ms | 135ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
