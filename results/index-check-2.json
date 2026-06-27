@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-26T12:24:52.501Z",
-  "indexStats": "Khoảng 906 kết quả (0,22 giây) ",
+  "timestamp": "2026-06-27T04:13:36.922Z",
+  "indexStats": "Khoảng 967 kết quả (0,20 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,10 +15,12 @@
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "clickedPosition": 9,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hoa-mua-he/",
+  "clickedPosition": 6,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hoa-mua-he/",
+  "landedTitle": "hoa mùa hè – Hoa Tươi Đà Nẵng",
+  "brandRank": 2
+}",
   "brandRank": 4
 }
