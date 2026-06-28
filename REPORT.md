@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-28T14:19:39.479Z
+**Updated:** 2026-06-28T16:30:32.772Z
 
 ## Keyword Rankings
 
@@ -8,15 +8,14 @@
 | 1 | đặt hoa online đà nẵng | **#43** | 3 | 3p | hoadanang.com, hoatuoi24h.com.vn, hoatuoidanangnhanhi.com |
 | 2 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, hoadanang.vn |
 | 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, dienhoaxanh.com, floli.vn |
-| 5 | hoa cưới đà nẵng | **#27** | 2 | 2p | hoadanang.vn, happywedding.vn, shophoatuoidanang.vn |
-| 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
-| 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 8 | hoa valentine đà nẵng | **#8** | 1 | 1p | canhdonghoatuoi.com, dalathasfarm.com, kimkieuflower.vn |
-| 9 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 4 | hoa cưới đà nẵng | **#27** | 2 | 2p | hoadanang.vn, happywedding.vn, shophoatuoidanang.vn |
+| 5 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
+| 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 7 | hoa valentine đà nẵng | **#8** | 1 | 1p | canhdonghoatuoi.com, dalathasfarm.com, kimkieuflower.vn |
+| 8 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 9 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 3/10 keywords ranking (30%)
+**Visibility:** 3/9 keywords ranking (33%)
 
 ## Site Index Verification (8 runs)
 
@@ -52,16 +51,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
+| facebook.com | 4 |
 | canhdonghoatuoi.com | 4 |
 | flowercorner.vn | 2 |
 | hoadanang.vn | 2 |
 | hoadanang.com | 1 |
 | hoatuoi24h.com.vn | 1 |
 | hoatuoidanang.net | 1 |
-| dienhoaxanh.com | 1 |
-| floli.vn | 1 |
 | happywedding.vn | 1 |
+| shophoatuoidanang.vn | 1 |
+| hoa10h.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -148,10 +147,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 390ms | 0.032 | ? | 363ms | 1675ms |
-| /san-pham/ | 96% | 1365ms | 0 | ? | 503ms | 513ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1759ms | 0 | ? | 583ms | 94ms |
+| / | 93% | 647ms | 0.029 | ? | 587ms | 729ms |
+| /san-pham/ | 96% | 1337ms | 0 | ? | 488ms | 514ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1851ms | 0 | ? | 596ms | 105ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1151ms | 0 | ? | 258ms | 52ms |
+| /amp/ | 88% | 1190ms | 0 | ? | 249ms | 69ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
