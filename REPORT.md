@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-28T18:24:14.845Z
+**Updated:** 2026-06-28T20:30:05.489Z
 
 ## Keyword Rankings
 
@@ -29,8 +29,8 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hang-moi-ve/ | 3 | Yes |
-| /yeu-thich/ | 2 | Yes |
+| /yeu-thich/ | 3 | Yes |
+| /hang-moi-ve/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
@@ -47,7 +47,7 @@
 | #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #7 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
@@ -149,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 91% | 632ms | 0.032 | ? | 544ms | 443ms |
-| /san-pham/ | 96% | 1371ms | 0 | ? | 505ms | 110ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1767ms | 0 | ? | 595ms | 93ms |
+| / | 99% | 717ms | 0.001 | ? | 560ms | 587ms |
+| /san-pham/ | 98% | 1124ms | 0.002 | ? | 482ms | 701ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1248ms | 0 | ? | 601ms | 100ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1215ms | 0 | ? | 253ms | 65ms |
+| /amp/ | 88% | 1201ms | 0 | ? | 272ms | 61ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
