@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-28T00:21:20.729Z
+**Updated:** 2026-06-28T05:52:47.753Z
 
 ## Keyword Rankings
 
@@ -11,7 +11,7 @@
 | 4 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, hoadanang.vn |
 | 5 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
 | 6 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, dienhoaxanh.com, floli.vn |
-| 7 | hoa cưới đà nẵng | **#26** | 2 | 2p | hoadanang.vn, shophoatuoidanang.vn, facebook.com |
+| 7 | hoa cưới đà nẵng | **#27** | 2 | 2p | hoadanang.vn, happywedding.vn, shophoatuoidanang.vn |
 | 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 10 | hoa valentine đà nẵng | **#8** | 1 | 1p | canhdonghoatuoi.com, dalathasfarm.com, kimkieuflower.vn |
@@ -32,9 +32,10 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hang-moi-ve/ | 5 | Yes |
+| /hang-moi-ve/ | 4 | Yes |
 | /lien-he/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /hinh-anh-thuc-te/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 
 ### Click Detail
@@ -45,7 +46,7 @@
 | #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
@@ -53,7 +54,7 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 6 |
+| facebook.com | 5 |
 | canhdonghoatuoi.com | 4 |
 | hoatuoi24h.com.vn | 2 |
 | flowercorner.vn | 2 |
@@ -62,7 +63,7 @@
 | hoatuoidanang.net | 1 |
 | dienhoaxanh.com | 1 |
 | floli.vn | 1 |
-| shophoatuoidanang.vn | 1 |
+| happywedding.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -149,10 +150,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 585ms | 0.016 | ? | 356ms | 1528ms |
-| /san-pham/ | 96% | 1316ms | 0 | ? | 558ms | 104ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1778ms | 0 | ? | 543ms | 88ms |
+| / | 94% | 392ms | 0.016 | ? | 363ms | 1485ms |
+| /san-pham/ | 98% | 1178ms | 0 | ? | 509ms | 88ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1219ms | 0 | ? | 584ms | 80ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1424ms | 0 | ? | 321ms | 79ms |
+| /amp/ | 88% | 1167ms | 0 | ? | 266ms | 73ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
