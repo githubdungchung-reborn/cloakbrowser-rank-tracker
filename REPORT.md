@@ -1,25 +1,22 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-28T09:37:16.825Z
+**Updated:** 2026-06-28T12:05:21.288Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa online đà nẵng | **#43** | 3 | 3p | hoadanang.com, hoatuoi24h.com.vn, hoatuoidanangnhanhi.com |
-| 2 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
-| 3 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
-| 4 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, hoadanang.vn |
-| 5 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 6 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, dienhoaxanh.com, floli.vn |
-| 7 | hoa cưới đà nẵng | **#27** | 2 | 2p | hoadanang.vn, happywedding.vn, shophoatuoidanang.vn |
-| 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
-| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 10 | hoa valentine đà nẵng | **#8** | 1 | 1p | canhdonghoatuoi.com, dalathasfarm.com, kimkieuflower.vn |
-| 11 | mua hoa tươi đà nẵng | **#46** | 3 | 3p | hoatuoi24h.com.vn, toplist.vn, shophoamaimai.com |
-| 12 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 13 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 2 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, hoadanang.vn |
+| 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
+| 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, dienhoaxanh.com, floli.vn |
+| 5 | hoa cưới đà nẵng | **#27** | 2 | 2p | hoadanang.vn, happywedding.vn, shophoatuoidanang.vn |
+| 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
+| 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 8 | hoa valentine đà nẵng | **#8** | 1 | 1p | canhdonghoatuoi.com, dalathasfarm.com, kimkieuflower.vn |
+| 9 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 10 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 4/13 keywords ranking (31%)
+**Visibility:** 3/10 keywords ranking (30%)
 
 ## Site Index Verification (8 runs)
 
@@ -32,9 +29,10 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hang-moi-ve/ | 4 | Yes |
+| /hang-moi-ve/ | 3 | Yes |
 | /lien-he/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /yeu-thich/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 
@@ -45,7 +43,7 @@
 | #0 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #3 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
@@ -56,10 +54,10 @@
 |--------|------|
 | facebook.com | 5 |
 | canhdonghoatuoi.com | 4 |
-| hoatuoi24h.com.vn | 2 |
 | flowercorner.vn | 2 |
 | hoadanang.vn | 2 |
 | hoadanang.com | 1 |
+| hoatuoi24h.com.vn | 1 |
 | hoatuoidanang.net | 1 |
 | dienhoaxanh.com | 1 |
 | floli.vn | 1 |
@@ -150,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 679ms | 0.032 | ? | 592ms | 53ms |
-| /san-pham/ | 96% | 1391ms | 0 | ? | 525ms | 97ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1752ms | 0.001 | ? | 479ms | 82ms |
+| / | N/A | ? | ? | ? | ? | ? |
+| /san-pham/ | 93% | 1709ms | 0 | ? | 494ms | 80ms |
+| /danh-muc/hoa-sinh-nhat/ | 88% | 2353ms | 0 | ? | 588ms | 99ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1221ms | 0 | ? | 264ms | 60ms |
+| /amp/ | 88% | 1174ms | 0 | ? | 263ms | 115ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
