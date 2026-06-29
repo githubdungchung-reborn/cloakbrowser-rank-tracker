@@ -1,24 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-21T21:41:35.300Z",
-  "indexStats": "Khoảng 936 kết quả (0,13 giây) ",
+  "timestamp": "2026-06-29T00:19:55.530Z",
+  "indexStats": "Khoảng 1.050 kết quả (0,30 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
-    "https://hoatuoidanangnhanhi.com/hoatuoigiaredanang/",
     "https://hoatuoidanangnhanhi.com/yeu-thich/",
     "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
+    "https://hoatuoidanangnhanhi.com/hoa-mua-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0131/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-  "clickedPosition": 6,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
+  "clickedPosition": 7,
   "clickVerified": true,
-  "landedUrl": "https://www.google.com/search?q=site:hoatuoidanangnhanhi.com&hl=vi&gl=vn&sei=gVo4aoDjE5_n5NoPmYzLgA0",
-  "landedTitle": "site:hoatuoidanangnhanhi.com - Tìm trên Google",
-  "brandRank": 3
+  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
+  "landedTitle": "Chính sách thanh toán | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
 }

@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-28T22:21:15.171Z
+**Updated:** 2026-06-29T00:25:48.041Z
 
 ## Keyword Rankings
 
@@ -32,10 +32,10 @@
 |-----------|---------------|----------|
 | /yeu-thich/ | 3 | Yes |
 | /hinh-anh-thuc-te/ | 2 | Yes |
-| /hang-moi-ve/ | 2 | Yes |
+| /chinh-sach-thanh-toan/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
+| /hang-moi-ve/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
-| /chinh-sach-thanh-toan/ | 1 | Yes |
 
 ### Click Detail
 
@@ -47,7 +47,7 @@
 | #3 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #4 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
@@ -151,10 +151,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 90% | 402ms | 0.001 | ? | 377ms | 1633ms |
-| /san-pham/ | 98% | 1119ms | 0 | ? | 488ms | 90ms |
-| /danh-muc/hoa-sinh-nhat/ | 99% | 971ms | 0 | ? | 490ms | 82ms |
+| / | 91% | 1092ms | 0.001 | ? | 344ms | 683ms |
+| /san-pham/ | 96% | 1352ms | 0 | ? | 493ms | 85ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1782ms | 0 | ? | 583ms | 53ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1195ms | 0 | ? | 270ms | 91ms |
+| /amp/ | 88% | 1205ms | 0 | ? | 263ms | 52ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
