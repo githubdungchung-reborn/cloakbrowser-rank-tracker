@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-29T11:30:46.724Z
+**Updated:** 2026-06-29T16:15:53.581Z
 
 ## Keyword Rankings
 
@@ -21,12 +21,12 @@
 
 **Visibility:** 4/13 keywords ranking (31%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (10 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 934 kết quả (0,30 giây) 
-- **Click verified:** 11/11 passed
-- **Click failed:** 0/11
+- **Click verified:** 10/10 passed
+- **Click failed:** 0/10
 
 ### Pages Clicked (random distribution)
 
@@ -34,11 +34,11 @@
 |-----------|---------------|----------|
 | /yeu-thich/ | 3 | Yes |
 | /hinh-anh-thuc-te/ | 2 | Yes |
-| /chinh-sach-thanh-toan/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
 | /hoatuoigiaredanang/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /chinh-sach-thanh-toan/ | 1 | Yes |
 
 ### Click Detail
 
@@ -52,9 +52,8 @@
 | #5 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #8 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -155,10 +154,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 645ms | 0.001 | ? | 507ms | 1346ms |
-| /san-pham/ | 92% | 1838ms | 0 | ? | 504ms | 71ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2487ms | 0 | ? | 589ms | 50ms |
+| / | 90% | 412ms | 0.016 | ? | 385ms | 2023ms |
+| /san-pham/ | 96% | 1402ms | 0 | ? | 514ms | 142ms |
+| /danh-muc/hoa-sinh-nhat/ | 94% | 1593ms | 0.001 | ? | 515ms | 116ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1188ms | 0 | ? | 253ms | 488ms |
+| /amp/ | 88% | 1207ms | 0 | ? | 267ms | 125ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
