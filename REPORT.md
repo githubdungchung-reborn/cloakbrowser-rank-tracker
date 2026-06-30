@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-06-30T00:25:04.386Z
+**Updated:** 2026-06-30T05:23:52.183Z
 
 ## Keyword Rankings
 
@@ -7,24 +7,25 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 17p | - |
-| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
-| 5 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 6 | hoa cưới đà nẵng | **#27** | 2 | 2p | hoadanang.vn, happywedding.vn, shophoatuoidanang.vn |
-| 7 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
-| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 10 | hoa valentine đà nẵng | **#8** | 1 | 1p | canhdonghoatuoi.com, dalathasfarm.com, kimkieuflower.vn |
-| 11 | mua hoa tươi đà nẵng | **#49** | 3 | 3p | shophoakieutrinh.com, facebook.com, hoatuoi24h.com.vn |
-| 12 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 13 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
+| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 17p | - |
+| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
+| 6 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
+| 7 | hoa cưới đà nẵng | **#27** | 2 | 2p | hoadanang.vn, happywedding.vn, shophoatuoidanang.vn |
+| 8 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 9 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
+| 10 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 11 | hoa valentine đà nẵng | **#8** | 1 | 1p | canhdonghoatuoi.com, dalathasfarm.com, kimkieuflower.vn |
+| 12 | mua hoa tươi đà nẵng | **#49** | 3 | 3p | shophoakieutrinh.com, facebook.com, hoatuoi24h.com.vn |
+| 13 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 14 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 3/13 keywords ranking (23%)
+**Visibility:** 3/14 keywords ranking (21%)
 
 ## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 909 kết quả (0,18 giây) 
+- **Index stats:** Khoảng 1.050 kết quả (0,11 giây) 
 - **Click verified:** 9/9 passed
 - **Click failed:** 0/9
 
@@ -32,10 +33,11 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hang-moi-ve/ | 2 | Yes |
 | /yeu-thich/ | 2 | Yes |
+| /san-pham/fb-0131/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /hoatuoigiaredanang/ | 1 | Yes |
+| /hang-moi-ve/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
@@ -44,7 +46,7 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #0 | /san-pham/fb-0131/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #2 | /hoatuoigiaredanang/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
@@ -57,10 +59,10 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 6 |
-| canhdonghoatuoi.com | 6 |
+| facebook.com | 7 |
+| canhdonghoatuoi.com | 7 |
+| flowercorner.vn | 3 |
 | tramhoa.com | 3 |
-| flowercorner.vn | 2 |
 | kimkieuflower.vn | 2 |
 | hoadanang.vn | 2 |
 | caycanhdanang.com.vn | 2 |
@@ -153,10 +155,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 709ms | 0.016 | ? | 595ms | 1697ms |
-| /san-pham/ | 97% | 1306ms | 0 | ? | 499ms | 145ms |
-| /danh-muc/hoa-sinh-nhat/ | 94% | 1598ms | 0 | ? | 505ms | 604ms |
+| / | 96% | 767ms | 0.032 | ? | 642ms | 1550ms |
+| /san-pham/ | 96% | 1357ms | 0 | ? | 639ms | 93ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1786ms | 0 | ? | 657ms | 115ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1380ms | 0 | ? | 317ms | 97ms |
+| /amp/ | 86% | 1423ms | 0 | ? | 321ms | 79ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
