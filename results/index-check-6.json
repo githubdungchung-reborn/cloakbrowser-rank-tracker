@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-30T22:35:56.370Z",
-  "indexStats": "Khoảng 1.110 kết quả (0,20 giây) ",
+  "timestamp": "2026-07-01T00:18:59.581Z",
+  "indexStats": "Khoảng 1.170 kết quả (0,18 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,13 +15,11 @@
     "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0168/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
-  "clickedPosition": 0,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0168/",
+  "clickedPosition": 9,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/",
-  "landedTitle": "Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/san-pham/fb-0168/",
+  "landedTitle": "Không tìm thấy trang | Hoa Tươi Đà Nẵng",
   "brandRank": 4
-},
-  "brandRank": 2
-}andRank": 2
+} 2
 }
