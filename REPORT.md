@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-01T00:26:55.083Z
+**Updated:** 2026-07-01T06:00:15.497Z
 
 ## Keyword Rankings
 
@@ -14,17 +14,18 @@
 | 7 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 10 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 11 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
+| 11 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/11 keywords ranking (0%)
+**Visibility:** 0/12 keywords ranking (0%)
 
-## Site Index Verification (5 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.050 kết quả (0,11 giây) 
-- **Click verified:** 5/5 passed
-- **Click failed:** 0/5
+- **Click verified:** 6/6 passed
+- **Click failed:** 0/6
 
 ### Pages Clicked (random distribution)
 
@@ -34,6 +35,7 @@
 | / | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
+| /hoa-mua-he/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
 
 ### Click Detail
@@ -44,12 +46,13 @@
 | #1 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /hoa-mua-he/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 6 |
+| facebook.com | 7 |
 | canhdonghoatuoi.com | 6 |
 | flowercorner.vn | 3 |
 | tramhoa.com | 3 |
@@ -58,6 +61,7 @@
 | hoadanang.vn | 1 |
 | hoatuoidanang.net | 1 |
 | hoa10h.vn | 1 |
+| hoatuoidanang247.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -144,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 68% | 1335ms | 0.016 | ? | 654ms | 461ms |
-| /san-pham/ | 96% | 1439ms | 0.005 | ? | 498ms | 109ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1949ms | 0 | ? | 576ms | 55ms |
+| / | 84% | 687ms | 0.016 | ? | 608ms | 1724ms |
+| /san-pham/ | 98% | 1174ms | 0 | ? | 518ms | 88ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1320ms | 0 | ? | 617ms | 103ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1222ms | 0 | ? | 263ms | 72ms |
+| /amp/ | 88% | 1193ms | 0 | ? | 271ms | 61ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
