@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-01T19:16:21.012Z
+**Updated:** 2026-07-01T21:53:37.578Z
 
 ## Keyword Rankings
 
@@ -8,8 +8,8 @@
 | 1 | đặt hoa online đà nẵng | **#47** | 3 | 3p | facebook.com, hoatuoi24h.com.vn, dienhoa24gio.net |
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
-| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 17p | - |
-| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
+| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 15p | - |
+| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, laodong.vn, hoadanang.vn |
 | 6 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
 | 7 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
@@ -21,24 +21,24 @@
 
 **Visibility:** 1/13 keywords ranking (8%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (8 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.050 kết quả (0,11 giây) 
-- **Click verified:** 7/7 passed
-- **Click failed:** 0/7
+- **Click verified:** 8/8 passed
+- **Click failed:** 0/8
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /yeu-thich/ | 2 | Yes |
 | /san-pham/fb-0131/ | 1 | Yes |
 | / | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
 | /theo-doi-don-hang/ | 1 | Yes |
 | /san-pham/fb-0168/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
-| /yeu-thich/ | 1 | Yes |
 
 ### Click Detail
 
@@ -47,16 +47,17 @@
 | #0 | /san-pham/fb-0131/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #1 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #2 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #3 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
+| #3 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | facebook.com | 8 |
-| canhdonghoatuoi.com | 6 |
+| canhdonghoatuoi.com | 5 |
 | tramhoa.com | 3 |
 | flowercorner.vn | 2 |
 | caycanhdanang.com.vn | 2 |
@@ -64,7 +65,7 @@
 | bachhoaxanh.com | 2 |
 | hoatuoi24h.com.vn | 1 |
 | dienhoa24gio.net | 1 |
-| hoadanang.vn | 1 |
+| laodong.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -151,10 +152,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 313ms | 1560ms |
-| /san-pham/ | 98% | 1190ms | 0 | ? | 490ms | 116ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2380ms | 0 | ? | 616ms | 110ms |
+| / | 72% | 835ms | 0.016 | ? | 490ms | 1496ms |
+| /san-pham/ | 97% | 1175ms | 0 | ? | 492ms | 622ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1236ms | 0 | ? | 592ms | 580ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1239ms | 0 | ? | 285ms | 139ms |
+| /amp/ | 88% | 1223ms | 0 | ? | 280ms | 73ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
