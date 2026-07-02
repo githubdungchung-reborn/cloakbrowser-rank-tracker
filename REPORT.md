@@ -1,26 +1,24 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-02T11:50:36.657Z
+**Updated:** 2026-07-02T14:35:13.629Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa online đà nẵng | **#47** | 3 | 3p | facebook.com, hoatuoi24h.com.vn, dienhoa24gio.net |
-| 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, canhdonghoatuoi.com |
-| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 15p | - |
-| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, laodong.vn, hoadanang.vn |
-| 6 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 7 | hoa cưới đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, shophoatuoidanang.vn, tripi.vn |
-| 8 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 9 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
-| 10 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
-| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
-| 13 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 14 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 1 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
+| 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 15p | - |
+| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, laodong.vn, hoadanang.vn |
+| 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
+| 5 | hoa cưới đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, shophoatuoidanang.vn, tripi.vn |
+| 6 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 7 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
+| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
+| 11 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 2/14 keywords ranking (14%)
+**Visibility:** 1/12 keywords ranking (8%)
 
 ## Site Index Verification (10 runs)
 
@@ -34,12 +32,11 @@
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | / | 3 | Yes |
+| /hang-moi-ve/ | 2 | Yes |
 | /yeu-thich/ | 2 | Yes |
 | /san-pham/fb-0131/ | 1 | Yes |
-| /hang-moi-ve/ | 1 | Yes |
 | /theo-doi-don-hang/ | 1 | Yes |
 | /san-pham/fb-0168/ | 1 | Yes |
-| /chinh-sach-thanh-toan/ | 1 | Yes |
 
 ### Click Detail
 
@@ -53,22 +50,22 @@
 | #5 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #6 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
 | #7 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #8 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #9 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 8 |
-| canhdonghoatuoi.com | 5 |
+| facebook.com | 6 |
+| canhdonghoatuoi.com | 4 |
 | tramhoa.com | 3 |
-| flowercorner.vn | 2 |
 | caycanhdanang.com.vn | 2 |
 | hoatuoidanang247.com | 2 |
 | bachhoaxanh.com | 2 |
-| hoatuoi24h.com.vn | 1 |
-| dienhoa24gio.net | 1 |
 | laodong.vn | 1 |
+| hoadanang.vn | 1 |
+| hoatuoidanang.net | 1 |
+| shophoatuoidanang.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -155,10 +152,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 624ms | 1618ms |
-| /san-pham/ | 96% | 1326ms | 0 | ? | 614ms | 90ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1341ms | 0 | ? | 567ms | 61ms |
+| / | 94% | 546ms | 0.001 | ? | 355ms | 79ms |
+| /san-pham/ | 96% | 1395ms | 0 | ? | 534ms | 103ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1942ms | 0.001 | ? | 519ms | 59ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1371ms | 0 | ? | 317ms | 72ms |
+| /amp/ | 88% | 1235ms | 0 | ? | 269ms | 65ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
