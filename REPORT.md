@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-03T14:37:28.985Z
+**Updated:** 2026-07-03T16:51:11.464Z
 
 ## Keyword Rankings
 
@@ -32,14 +32,14 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| / | 3 | Yes |
 | /danh-muc/hoa-tuoi/ | 2 | Yes |
+| / | 2 | Yes |
 | /hang-moi-ve/ | 2 | Yes |
+| /cua-hang/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
 | /theo-doi-don-hang/ | 1 | Yes |
 | /san-pham/fb-0168/ | 1 | Yes |
-| /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
@@ -50,7 +50,7 @@
 | #2 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
 | #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #5 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #5 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #6 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #7 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
@@ -157,10 +157,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 523ms | 2086ms |
-| /san-pham/ | 95% | 1468ms | 0 | ? | 488ms | 569ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1998ms | 0 | ? | 588ms | 83ms |
+| / | 96% | 614ms | 0 | ? | 356ms | 1762ms |
+| /san-pham/ | 95% | 1470ms | 0 | ? | 495ms | 781ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1946ms | 0 | ? | 625ms | 106ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1213ms | 0 | ? | 269ms | 68ms |
+| /amp/ | 88% | 1228ms | 0 | ? | 263ms | 468ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
