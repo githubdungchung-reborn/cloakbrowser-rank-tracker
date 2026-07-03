@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-03T11:48:25.012Z
+**Updated:** 2026-07-03T14:37:28.985Z
 
 ## Keyword Rankings
 
@@ -9,16 +9,17 @@
 | 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 15p | - |
 | 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, laodong.vn, hoadanang.vn |
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 5 | hoa cưới đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, shophoatuoidanang.vn, facebook.com |
-| 6 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 7 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 9 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, kimkieuflower.vn |
-| 10 | shop hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, top5.com.vn, taidanang.com |
-| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
-| 12 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
+| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, floli.vn, canhdonghoatuoi.com |
+| 6 | hoa cưới đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, shophoatuoidanang.vn, facebook.com |
+| 7 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
+| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 10 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, kimkieuflower.vn |
+| 11 | shop hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, top5.com.vn, taidanang.com |
+| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
+| 13 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
 
-**Visibility:** 4/12 keywords ranking (33%)
+**Visibility:** 4/13 keywords ranking (31%)
 
 ## Site Index Verification (12 runs)
 
@@ -31,11 +32,10 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| / | 3 | Yes |
 | /danh-muc/hoa-tuoi/ | 2 | Yes |
-| / | 2 | Yes |
 | /hang-moi-ve/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
-| /hinh-anh-thuc-te/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
 | /theo-doi-don-hang/ | 1 | Yes |
 | /san-pham/fb-0168/ | 1 | Yes |
@@ -51,7 +51,7 @@
 | #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #5 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #6 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #6 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #7 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #8 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
@@ -61,16 +61,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 8 |
-| canhdonghoatuoi.com | 5 |
+| facebook.com | 9 |
+| canhdonghoatuoi.com | 6 |
 | tramhoa.com | 3 |
 | caycanhdanang.com.vn | 2 |
 | laodong.vn | 1 |
 | hoadanang.vn | 1 |
 | hoatuoidanang.net | 1 |
+| floli.vn | 1 |
 | shophoatuoidanang.vn | 1 |
 | flowercorner.vn | 1 |
-| hoa10h.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -157,10 +157,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 681ms | 0.016 | ? | 626ms | 532ms |
-| /san-pham/ | 96% | 1320ms | 0.003 | ? | 487ms | 580ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1858ms | 0 | ? | 615ms | 116ms |
+| / | N/A | ? | 0 | ? | 523ms | 2086ms |
+| /san-pham/ | 95% | 1468ms | 0 | ? | 488ms | 569ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1998ms | 0 | ? | 588ms | 83ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1223ms | 0 | ? | 267ms | 656ms |
+| /amp/ | 88% | 1213ms | 0 | ? | 269ms | 68ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
