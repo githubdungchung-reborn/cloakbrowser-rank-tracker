@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-02T20:44:31.658Z
+**Updated:** 2026-07-03T00:25:06.304Z
 
 ## Keyword Rankings
 
@@ -13,10 +13,11 @@
 | 6 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 7 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
 | 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 9 | shop hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, top5.com.vn, taidanang.com |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
+| 9 | hoa valentine đà nẵng | **#6** | 1 | 1p | canhdonghoatuoi.com, kimkieuflower.vn, dalathasfarm.com |
+| 10 | shop hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, top5.com.vn, taidanang.com |
+| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
 
-**Visibility:** 2/10 keywords ranking (20%)
+**Visibility:** 3/11 keywords ranking (27%)
 
 ## Site Index Verification (12 runs)
 
@@ -31,12 +32,13 @@
 |-----------|---------------|----------|
 | / | 3 | Yes |
 | /hang-moi-ve/ | 2 | Yes |
-| /yeu-thich/ | 2 | Yes |
 | /san-pham/fb-0131/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
+| /yeu-thich/ | 1 | Yes |
 | /theo-doi-don-hang/ | 1 | Yes |
 | /san-pham/fb-0168/ | 1 | Yes |
+| /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
@@ -53,13 +55,13 @@
 | #8 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
 | #9 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 | #10 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #11 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
+| #11 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
+| canhdonghoatuoi.com | 5 |
 | facebook.com | 5 |
-| canhdonghoatuoi.com | 4 |
 | tramhoa.com | 3 |
 | caycanhdanang.com.vn | 2 |
 | laodong.vn | 1 |
@@ -154,10 +156,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 59% | 1221ms | 0.016 | ? | 698ms | 85ms |
-| /san-pham/ | 99% | 891ms | 0 | ? | 516ms | 167ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1264ms | 0 | ? | 590ms | 118ms |
+| / | 78% | 771ms | 0.016 | ? | 757ms | 1598ms |
+| /san-pham/ | 92% | 1821ms | 0 | ? | 500ms | 217ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2463ms | 0 | ? | 594ms | 108ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1293ms | 0 | ? | 282ms | 107ms |
+| /amp/ | 86% | 1392ms | 0 | ? | 302ms | 81ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
