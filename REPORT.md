@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-03T20:29:53.678Z
+**Updated:** 2026-07-04T00:23:53.198Z
 
 ## Keyword Rankings
 
@@ -12,7 +12,7 @@
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, floli.vn, canhdonghoatuoi.com |
 | 6 | hoa cưới đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, shophoatuoidanang.vn, facebook.com |
 | 7 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, flowercorner.vn |
+| 8 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 10 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, kimkieuflower.vn |
 | 11 | shop hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, top5.com.vn, taidanang.com |
@@ -24,7 +24,7 @@
 ## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 1.130 kết quả (0,12 giây) 
+- **Index stats:** Khoảng 1.050 kết quả (0,20 giây) 
 - **Click verified:** 12/12 passed
 - **Click failed:** 0/12
 
@@ -32,10 +32,9 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /cua-hang/ | 3 | Yes |
 | / | 2 | Yes |
 | /hang-moi-ve/ | 2 | Yes |
-| /cua-hang/ | 2 | Yes |
-| /hoa-mua-he/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /danh-muc/hoa-tuoi/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
@@ -46,7 +45,7 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | /hoa-mua-he/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #0 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #2 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
 | #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
@@ -71,7 +70,7 @@
 | hoatuoidanang.net | 1 |
 | floli.vn | 1 |
 | shophoatuoidanang.vn | 1 |
-| flowercorner.vn | 1 |
+| shophoabaongoc.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -158,10 +157,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 98% | 362ms | 0.059 | ? | 304ms | 1890ms |
-| /san-pham/ | 95% | 1475ms | 0.002 | ? | 496ms | 130ms |
-| /danh-muc/hoa-sinh-nhat/ | 89% | 2191ms | 0 | ? | 590ms | 124ms |
+| / | 83% | 397ms | 0.025 | ? | 354ms | 1149ms |
+| /san-pham/ | 96% | 1342ms | 0 | ? | 501ms | 112ms |
+| /danh-muc/hoa-sinh-nhat/ | 90% | 2011ms | 0 | ? | 593ms | 60ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1204ms | 0 | ? | 260ms | 510ms |
+| /amp/ | 88% | 1204ms | 0 | ? | 259ms | 63ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
