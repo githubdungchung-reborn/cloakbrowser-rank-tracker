@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-06-30T12:22:36.692Z",
-  "indexStats": "Khoảng 1.060 kết quả (0,14 giây) ",
+  "timestamp": "2026-07-04T14:45:33.787Z",
+  "indexStats": "Khoảng 968 kết quả (0,12 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,11 +15,10 @@
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
-  "clickedPosition": 0,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "clickedPosition": 8,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/",
-  "landedTitle": "Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng",
-  "brandRank": 4
-}
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
 }
