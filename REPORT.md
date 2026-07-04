@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-04T10:30:44.833Z
+**Updated:** 2026-07-04T12:23:01.734Z
 
 ## Keyword Rankings
 
@@ -23,12 +23,12 @@
 
 **Visibility:** 5/15 keywords ranking (33%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.050 kết quả (0,20 giây) 
-- **Click verified:** 11/11 passed
-- **Click failed:** 0/11
+- **Click verified:** 9/9 passed
+- **Click failed:** 0/9
 
 ### Pages Clicked (random distribution)
 
@@ -38,9 +38,7 @@
 | /hang-moi-ve/ | 2 | Yes |
 | /lien-he/ | 1 | Yes |
 | /danh-muc/hoa-tuoi/ | 1 | Yes |
-| / | 1 | Yes |
 | /san-pham/fb-0168/ | 1 | Yes |
-| /theo-doi-don-hang/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 
 ### Click Detail
@@ -50,14 +48,12 @@
 | #0 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #2 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
-| #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #5 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #7 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #9 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #10 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #3 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #4 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #8 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -158,10 +154,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 567ms | 1261ms |
-| /san-pham/ | 93% | 1724ms | 0 | ? | 497ms | 167ms |
-| /danh-muc/hoa-sinh-nhat/ | 88% | 2310ms | 0.001 | ? | 498ms | 60ms |
+| / | N/A | ? | 0.001 | ? | 351ms | 1137ms |
+| /san-pham/ | 96% | 1346ms | 0 | ? | 491ms | 721ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1941ms | 0 | ? | 580ms | 517ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1169ms | 0 | ? | 250ms | 57ms |
+| /amp/ | 88% | 1219ms | 0 | ? | 264ms | 62ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
