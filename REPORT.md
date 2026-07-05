@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-05T08:23:27.548Z
+**Updated:** 2026-07-05T11:20:20.128Z
 
 ## Keyword Rankings
 
@@ -22,18 +22,18 @@
 
 **Visibility:** 4/14 keywords ranking (29%)
 
-## Site Index Verification (8 runs)
+## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.010 kết quả (0,10 giây) 
-- **Click verified:** 8/8 passed
-- **Click failed:** 0/8
+- **Click verified:** 9/9 passed
+- **Click failed:** 0/9
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /danh-muc/hoa-tuoi/ | 2 | Yes |
+| /danh-muc/hoa-tuoi/ | 3 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /san-pham/fb-0168/ | 1 | Yes |
@@ -47,12 +47,13 @@
 |-----|-------------|--------------|----------|
 | #0 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
 | #1 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
-| #2 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #4 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #7 | /san-pham/binh-hoa-hoa-baby-hong-valentine/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #2 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
+| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #5 | /san-pham/fb-0168/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #8 | /san-pham/binh-hoa-hoa-baby-hong-valentine/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -153,10 +154,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 651ms | 0.001 | ? | 572ms | 1788ms |
-| /san-pham/ | 95% | 1486ms | 0.001 | ? | 493ms | 420ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1899ms | 0 | ? | 615ms | 70ms |
+| / | 97% | 685ms | 0.032 | ? | 564ms | 1543ms |
+| /san-pham/ | 93% | 1719ms | 0 | ? | 496ms | 96ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2426ms | 0 | ? | 593ms | 51ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1235ms | 0 | ? | 265ms | 60ms |
+| /amp/ | 88% | 1175ms | 0 | ? | 258ms | 51ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
