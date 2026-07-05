@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-05T21:25:02.237Z
+**Updated:** 2026-07-05T23:23:39.724Z
 
 ## Keyword Rankings
 
@@ -12,12 +12,13 @@
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, floli.vn, canhdonghoatuoi.com |
 | 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
 | 7 | hoa lan hồ điệp đà nẵng | **#29** | 2 | 2p | hoadanang.vn, caycanhdanang.com.vn, lanhodiepdanang.com |
-| 8 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
-| 9 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, kimkieuflower.vn |
-| 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
-| 11 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
+| 8 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
+| 9 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
+| 10 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, kimkieuflower.vn |
+| 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
+| 12 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
 
-**Visibility:** 5/11 keywords ranking (45%)
+**Visibility:** 6/12 keywords ranking (50%)
 
 ## Site Index Verification (10 runs)
 
@@ -58,13 +59,13 @@
 | canhdonghoatuoi.com | 6 |
 | facebook.com | 5 |
 | hoadanang.vn | 2 |
+| kimkieuflower.vn | 2 |
 | dalathasfarm.com | 1 |
 | dienhoa24gio.net | 1 |
 | hoatuoidanang.net | 1 |
 | floli.vn | 1 |
 | shophoabaongoc.com | 1 |
 | caycanhdanang.com.vn | 1 |
-| lanhodiepdanang.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -151,10 +152,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 618ms | 0.002 | ? | 618ms | 1060ms |
-| /san-pham/ | 91% | 1953ms | 0 | ? | 497ms | 271ms |
-| /danh-muc/hoa-sinh-nhat/ | 86% | 2534ms | 0 | ? | 587ms | 181ms |
+| / | 90% | 781ms | 0.016 | ? | 688ms | 1588ms |
+| /san-pham/ | 92% | 1702ms | 0 | ? | 487ms | 1331ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2591ms | 0 | ? | 610ms | 136ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1260ms | 0 | ? | 292ms | 84ms |
+| /amp/ | 87% | 1261ms | 0 | ? | 292ms | 135ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
