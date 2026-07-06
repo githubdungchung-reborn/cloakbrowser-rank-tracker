@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-06T20:19:16.570Z
+**Updated:** 2026-07-06T22:32:03.368Z
 
 ## Keyword Rankings
 
@@ -9,7 +9,7 @@
 | 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
 | 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, floli.vn, canhdonghoatuoi.com |
+| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoayeuthuong.com |
 | 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
 | 7 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | shophoacomay.vn, hoadanang.vn, shophoatuoidep.net |
 | 8 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
@@ -44,7 +44,7 @@
 | #1 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
 | #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #4 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #5 | /san-pham/binh-hoa-hoa-baby-hong-valentine/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
@@ -56,7 +56,7 @@
 | kimkieuflower.vn | 2 |
 | hoadanang.vn | 2 |
 | hoatuoidanang.net | 1 |
-| floli.vn | 1 |
+| hoayeuthuong.com | 1 |
 | shophoabaongoc.com | 1 |
 | shophoacomay.vn | 1 |
 | shophoatuoidep.net | 1 |
@@ -146,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 98% | 783ms | 0 | ? | 483ms | 1790ms |
-| /san-pham/ | 93% | 1780ms | 0 | ? | 510ms | 141ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2456ms | 0 | ? | 596ms | 71ms |
+| / | 92% | 412ms | 0.032 | ? | 361ms | 1690ms |
+| /san-pham/ | 95% | 1486ms | 0 | ? | 505ms | 123ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1878ms | 0 | ? | 622ms | 697ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1227ms | 0 | ? | 281ms | 88ms |
+| /amp/ | 88% | 1191ms | 0 | ? | 264ms | 91ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
