@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-06T04:43:51.728Z
+**Updated:** 2026-07-06T09:16:28.430Z
 
 ## Keyword Rankings
 
@@ -13,28 +13,28 @@
 | 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
 | 7 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
 | 8 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
-| 9 | hoa valentine đà nẵng | **#46** | 3 | 3p | hoatuoiquanhaichau.com, translate.google.com, shophoamaimai.com |
+| 9 | hoa valentine đà nẵng | **#46** | 3 | 3p | shophoatuoigiare.com, hoatuoiquanhaichau.com, translate.google.com |
 | 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
 | 11 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
 
 **Visibility:** 5/11 keywords ranking (45%)
 
-## Site Index Verification (10 runs)
+## Site Index Verification (8 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 997 kết quả (0,16 giây) 
-- **Click verified:** 10/10 passed
-- **Click failed:** 0/10
+- **Click verified:** 8/8 passed
+- **Click failed:** 0/8
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /danh-muc/hoa-tuoi/ | 3 | Yes |
+| /danh-muc/hoa-tuoi/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 2 | Yes |
-| /hang-moi-ve/ | 2 | Yes |
 | / | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
+| /hang-moi-ve/ | 1 | Yes |
 | /san-pham/binh-hoa-hoa-baby-hong-valentine/ | 1 | Yes |
 
 ### Click Detail
@@ -44,13 +44,11 @@
 | #0 | / | Loading https://hoatuoidanangnhanhi.com/ | Yes |
 | #1 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
 | #2 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #7 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #8 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #9 | /san-pham/binh-hoa-hoa-baby-hong-valentine/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #6 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /san-pham/binh-hoa-hoa-baby-hong-valentine/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -151,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 87% | 945ms | 0.016 | ? | 379ms | 1402ms |
-| /san-pham/ | 93% | 1714ms | 0 | ? | 495ms | 134ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2486ms | 0 | ? | 590ms | 85ms |
+| / | 92% | 712ms | 0.032 | ? | 556ms | 1281ms |
+| /san-pham/ | 96% | 1414ms | 0 | ? | 650ms | 150ms |
+| /danh-muc/hoa-sinh-nhat/ | 93% | 1773ms | 0 | ? | 642ms | 93ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1220ms | 0 | ? | 260ms | 61ms |
+| /amp/ | 86% | 1401ms | 0 | ? | 324ms | 68ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
