@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-05T23:23:39.724Z
+**Updated:** 2026-07-06T04:43:51.728Z
 
 ## Keyword Rankings
 
@@ -11,14 +11,13 @@
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, floli.vn, canhdonghoatuoi.com |
 | 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
-| 7 | hoa lan hồ điệp đà nẵng | **#29** | 2 | 2p | hoadanang.vn, caycanhdanang.com.vn, lanhodiepdanang.com |
-| 8 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
-| 9 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
-| 10 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, kimkieuflower.vn |
-| 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
-| 12 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
+| 7 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
+| 8 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
+| 9 | hoa valentine đà nẵng | **#46** | 3 | 3p | hoatuoiquanhaichau.com, translate.google.com, shophoamaimai.com |
+| 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
+| 11 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
 
-**Visibility:** 6/12 keywords ranking (50%)
+**Visibility:** 5/11 keywords ranking (45%)
 
 ## Site Index Verification (10 runs)
 
@@ -56,16 +55,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| canhdonghoatuoi.com | 6 |
-| facebook.com | 5 |
-| hoadanang.vn | 2 |
-| kimkieuflower.vn | 2 |
+| canhdonghoatuoi.com | 5 |
+| facebook.com | 4 |
+| hoatuoiquanhaichau.com | 2 |
 | dalathasfarm.com | 1 |
 | dienhoa24gio.net | 1 |
+| hoadanang.vn | 1 |
 | hoatuoidanang.net | 1 |
 | floli.vn | 1 |
 | shophoabaongoc.com | 1 |
-| caycanhdanang.com.vn | 1 |
+| kimkieuflower.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -152,10 +151,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 90% | 781ms | 0.016 | ? | 688ms | 1588ms |
-| /san-pham/ | 92% | 1702ms | 0 | ? | 487ms | 1331ms |
-| /danh-muc/hoa-sinh-nhat/ | 86% | 2591ms | 0 | ? | 610ms | 136ms |
+| / | 87% | 945ms | 0.016 | ? | 379ms | 1402ms |
+| /san-pham/ | 93% | 1714ms | 0 | ? | 495ms | 134ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2486ms | 0 | ? | 590ms | 85ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1261ms | 0 | ? | 292ms | 135ms |
+| /amp/ | 88% | 1220ms | 0 | ? | 260ms | 61ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
