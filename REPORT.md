@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-07T08:45:26.166Z
+**Updated:** 2026-07-07T12:15:50.916Z
 
 ## Keyword Rankings
 
@@ -17,12 +17,12 @@
 
 **Visibility:** 4/9 keywords ranking (44%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 997 kết quả (0,16 giây) 
-- **Click verified:** 7/7 passed
-- **Click failed:** 0/7
+- **Click verified:** 6/6 passed
+- **Click failed:** 0/6
 
 ### Pages Clicked (random distribution)
 
@@ -33,7 +33,6 @@
 | /danh-muc/hoa-tuoi/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
 | /san-pham/fb-0131/ | 1 | Yes |
-| /san-pham/binh-hoa-hoa-baby-hong-valentine/ | 1 | Yes |
 
 ### Click Detail
 
@@ -45,7 +44,6 @@
 | #3 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 | #4 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #5 | /san-pham/fb-0131/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /san-pham/binh-hoa-hoa-baby-hong-valentine/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -146,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 519ms | 1874ms |
-| /san-pham/ | 95% | 1533ms | 0 | ? | 494ms | 111ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1834ms | 0 | ? | 571ms | 499ms |
+| / | N/A | ? | 0.001 | ? | 510ms | 484ms |
+| /san-pham/ | 95% | 1479ms | 0 | ? | 491ms | 809ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1899ms | 0 | ? | 593ms | 71ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1221ms | 0 | ? | 263ms | 63ms |
+| /amp/ | 88% | 1175ms | 0 | ? | 252ms | 64ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
