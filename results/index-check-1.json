@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-07-05T17:24:02.276Z",
-  "indexStats": "Khoảng 997 kết quả (0,16 giây) ",
+  "timestamp": "2026-07-07T15:50:10.519Z",
+  "indexStats": "Khoảng 1.020 kết quả (0,52 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,10 +15,12 @@
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0131/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
-  "clickedPosition": 0,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
+  "clickedPosition": 2,
   "clickVerified": true,
-  "landedUrl": "https://www.google.com/search?q=site:hoatuoidanangnhanhi.com&hl=vi&gl=vn&sei=J5NKap_8BuKkptQP-eHZ2AQ",
-  "landedTitle": "Loading https://hoatuoidanangnhanhi.com/",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
+  "landedTitle": "Cửa hàng | Hoa Tươi Đà Nẵng",
+  "brandRank": 3
+}ttps://hoatuoidanangnhanhi.com/",
   "brandRank": 5
 }
