@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-07T15:57:48.293Z
+**Updated:** 2026-07-07T18:23:18.080Z
 
 ## Keyword Rankings
 
@@ -8,15 +8,16 @@
 | 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
 | 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
 | 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 4 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
-| 5 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | shophoacomay.vn, hoadanang.vn, shophoatuoidep.net |
-| 6 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
-| 7 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
-| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
-| 10 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
+| 4 | hoa cưới đà nẵng | **#22** | 2 | 2p | hoatuoidanang247.com, hoatuoidanangnhanhi.com, shophoatuoidanang.vn |
+| 5 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
+| 6 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | shophoacomay.vn, hoadanang.vn, shophoatuoidep.net |
+| 7 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
+| 8 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
+| 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, flowercorner.vn, bachhoaxanh.com |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 11 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
 
-**Visibility:** 4/10 keywords ranking (40%)
+**Visibility:** 5/11 keywords ranking (45%)
 
 ## Site Index Verification (5 runs)
 
@@ -49,14 +50,14 @@
 |--------|------|
 | facebook.com | 5 |
 | canhdonghoatuoi.com | 4 |
+| hoatuoidanang247.com | 3 |
 | flowercorner.vn | 2 |
 | kimkieuflower.vn | 2 |
 | hoadanang.vn | 2 |
-| hoatuoidanang247.com | 2 |
 | bachhoaxanh.com | 2 |
 | hoatuoidanang.net | 1 |
+| shophoatuoidanang.vn | 1 |
 | shophoabaongoc.com | 1 |
-| shophoacomay.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -143,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 679ms | 0.029 | ? | 623ms | 615ms |
-| /san-pham/ | 97% | 1324ms | 0 | ? | 485ms | 121ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1916ms | 0.001 | ? | 504ms | 94ms |
+| / | 94% | 410ms | 0.001 | ? | 368ms | 1953ms |
+| /san-pham/ | 98% | 1071ms | 0 | ? | 503ms | 163ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1372ms | 0 | ? | 604ms | 95ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1250ms | 0 | ? | 276ms | 90ms |
+| /amp/ | 86% | 1371ms | 0 | ? | 317ms | 114ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
