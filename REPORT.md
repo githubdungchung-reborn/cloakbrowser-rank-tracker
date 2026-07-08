@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-08T04:35:45.006Z
+**Updated:** 2026-07-08T07:48:30.548Z
 
 ## Keyword Rankings
 
@@ -12,7 +12,7 @@
 | 5 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
 | 6 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | shophoacomay.vn, hoadanang.vn, shophoatuoidep.net |
 | 7 | hoa tulip đà nẵng | **#29** | 2 | 2p | kimkieuflower.vn, top10danang.com, hoahongsi.com |
-| 8 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, shophoatamflower.com, hoatuoiquanhaichau.com |
+| 8 | hoa tươi đà nẵng | **#66** | 4 | 4p | icflowers.wsg.vn, facebook.com, hellodanang.vn |
 | 9 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | facebook.com, kimkieuflower.vn, bachhoaxanh.com |
 | 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
@@ -52,7 +52,7 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 6 |
+| facebook.com | 7 |
 | canhdonghoatuoi.com | 4 |
 | kimkieuflower.vn | 3 |
 | hoadanang.vn | 2 |
@@ -148,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 562ms | 1394ms |
-| /san-pham/ | 93% | 1768ms | 0 | ? | 518ms | 148ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2458ms | 0 | ? | 583ms | 76ms |
+| / | 99% | 855ms | 0 | ? | 666ms | 112ms |
+| /san-pham/ | 93% | 1714ms | 0 | ? | 495ms | 106ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2482ms | 0 | ? | 586ms | 438ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | N/A | ? | ? | ? | ? | ? |
+| /amp/ | 88% | 1182ms | 0 | ? | 260ms | 429ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
