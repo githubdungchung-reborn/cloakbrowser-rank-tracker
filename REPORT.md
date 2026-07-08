@@ -1,23 +1,23 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-08T15:40:12.046Z
+**Updated:** 2026-07-08T17:57:35.414Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
-| 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
-| 3 | hoa cưới đà nẵng | **#22** | 2 | 2p | hoatuoidanang247.com, hoatuoidanangnhanhi.com, shophoatuoidanang.vn |
-| 4 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
-| 5 | hoa lan hồ điệp đà nẵng | **#28** | 2 | 2p | caycanhdanang.com.vn, shophoatuoidanang.vn, shophoalanhodiep.com |
-| 6 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | shophoacomay.vn, hoadanang.vn, shophoatuoidep.net |
+| 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
+| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
+| 4 | hoa cưới đà nẵng | **#22** | 2 | 2p | hoatuoidanang247.com, hoatuoidanangnhanhi.com, shophoatuoidanang.vn |
+| 5 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
+| 6 | hoa lan hồ điệp đà nẵng | **#28** | 2 | 2p | caycanhdanang.com.vn, shophoatuoidanang.vn, shophoalanhodiep.com |
 | 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
 | 8 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | facebook.com, kimkieuflower.vn, bachhoaxanh.com |
 | 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
 | 11 | shop hoa tươi giá rẻ đà nẵng | **#63** | 4 | 4p | facebook.com, vietflorist.vn, hoatuoidanangnhanhi.com |
 
-**Visibility:** 4/11 keywords ranking (36%)
+**Visibility:** 3/11 keywords ranking (27%)
 
 ## Site Index Verification (5 runs)
 
@@ -50,11 +50,11 @@
 | facebook.com | 6 |
 | canhdonghoatuoi.com | 4 |
 | kimkieuflower.vn | 2 |
-| hoadanang.vn | 2 |
 | hoatuoidanang247.com | 2 |
 | shophoatuoidanang.vn | 2 |
 | bachhoaxanh.com | 2 |
 | flowercorner.vn | 1 |
+| hoadanang.vn | 1 |
 | shophoabaongoc.com | 1 |
 | caycanhdanang.com.vn | 1 |
 
@@ -143,10 +143,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 377ms | 0.032 | ? | 351ms | 2073ms |
-| /san-pham/ | 96% | 1345ms | 0 | ? | 497ms | 254ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1897ms | 0 | ? | 625ms | 697ms |
+| / | 78% | 526ms | 0.001 | ? | 370ms | 564ms |
+| /san-pham/ | 95% | 1540ms | 0 | ? | 501ms | 153ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1888ms | 0 | ? | 592ms | 136ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1234ms | 0 | ? | 283ms | 893ms |
+| /amp/ | 87% | 1299ms | 0 | ? | 276ms | 66ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
