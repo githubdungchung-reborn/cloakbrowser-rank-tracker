@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-07-06T04:37:06.354Z",
-  "indexStats": "Khoảng 1.040 kết quả (0,11 giây) ",
+  "timestamp": "2026-07-09T16:08:41.616Z",
+  "indexStats": "Khoảng 854 kết quả (0,17 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,10 +15,11 @@
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/san-pham/fb-0131/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "clickedPosition": 7,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "clickedPosition": 8,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-  "landedTitle": "Chính sách thanh toán | Hoa Tươi Đà Nẵng",
-  "brandRank": 3
+  "landedUrl": "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
+  "landedTitle": "Hình ảnh thực tế | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
+}andRank": 3
 }
