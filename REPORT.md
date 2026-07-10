@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-10T00:24:19.894Z
+**Updated:** 2026-07-10T05:12:43.904Z
 
 ## Keyword Rankings
 
@@ -9,14 +9,13 @@
 | 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
 | 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
 | 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoayeuthuong.com |
-| 5 | hoa cưới đà nẵng | **#22** | 2 | 2p | hoatuoidanang247.com, hoatuoidanangnhanhi.com, shophoatuoidanang.vn |
-| 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
-| 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 8 | hoa tươi đà nẵng | **#67** | 4 | 4p | thanhpho.danang.vn, shophoamaimai.com, icflowers.wsg.vn |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
-| 10 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
+| 5 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
+| 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 7 | hoa tươi đà nẵng | **#67** | 4 | 4p | thanhpho.danang.vn, shophoamaimai.com, icflowers.wsg.vn |
+| 8 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 9 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 2/10 keywords ranking (20%)
+**Visibility:** 1/9 keywords ranking (11%)
 
 ## Site Index Verification (2 runs)
 
@@ -45,13 +44,13 @@
 | facebook.com | 6 |
 | canhdonghoatuoi.com | 5 |
 | flowercorner.vn | 2 |
-| hoatuoidanang247.com | 2 |
 | bachhoaxanh.com | 2 |
 | kimkieuflower.vn | 1 |
 | hoadanang.vn | 1 |
 | hoayeuthuong.com | 1 |
-| shophoatuoidanang.vn | 1 |
 | shophoabaongoc.com | 1 |
+| hoa10h.vn | 1 |
+| thanhpho.danang.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -138,10 +137,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 70% | 1062ms | 0.001 | ? | 572ms | 1640ms |
-| /san-pham/ | 96% | 1351ms | 0 | ? | 601ms | 138ms |
-| /danh-muc/hoa-sinh-nhat/ | 90% | 2052ms | 0 | ? | 775ms | 576ms |
+| / | 73% | 1318ms | 0.001 | ? | 640ms | 1341ms |
+| /san-pham/ | 93% | 1729ms | 0 | ? | 498ms | 99ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2504ms | 0 | ? | 639ms | 79ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1338ms | 0 | ? | 311ms | 95ms |
+| /amp/ | 88% | 1204ms | 0 | ? | 260ms | 59ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
