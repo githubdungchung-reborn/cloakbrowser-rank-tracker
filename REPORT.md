@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-10T21:25:36.816Z
+**Updated:** 2026-07-10T23:19:57.188Z
 
 ## Keyword Rankings
 
@@ -19,12 +19,12 @@
 
 **Visibility:** 2/11 keywords ranking (18%)
 
-## Site Index Verification (6 runs)
+## Site Index Verification (7 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 838 kết quả (0,36 giây) 
-- **Click verified:** 6/6 passed
-- **Click failed:** 0/6
+- **Click verified:** 7/7 passed
+- **Click failed:** 0/7
 
 ### Pages Clicked (random distribution)
 
@@ -33,6 +33,7 @@
 | /lien-he/ | 2 | Yes |
 | /hinh-anh-thuc-te/ | 2 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
+| / | 1 | Yes |
 | /san-pham/fb-0131/ | 1 | Yes |
 
 ### Click Detail
@@ -40,11 +41,12 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #1 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #2 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #1 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #2 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #5 | /san-pham/fb-0131/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #6 | /san-pham/fb-0131/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -145,10 +147,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 657ms | 2155ms |
-| /san-pham/ | 96% | 1354ms | 0 | ? | 572ms | 213ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1854ms | 0 | ? | 659ms | 136ms |
+| / | N/A | ? | 0 | ? | 681ms | 1452ms |
+| /san-pham/ | 92% | 1786ms | 0 | ? | 483ms | 1043ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2604ms | 0 | ? | 579ms | 124ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1450ms | 0 | ? | 345ms | 103ms |
+| /amp/ | 88% | 1220ms | 0 | ? | 283ms | 118ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
