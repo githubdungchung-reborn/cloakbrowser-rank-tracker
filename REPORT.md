@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-10T18:05:36.566Z
+**Updated:** 2026-07-10T20:06:17.761Z
 
 ## Keyword Rankings
 
@@ -10,13 +10,14 @@
 | 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
 | 4 | hoa 8/3 đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, hoatuoidollar.com, shophoasunny.vn |
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoayeuthuong.com |
-| 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
-| 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 8 | hoa tươi đà nẵng | **#67** | 4 | 4p | thanhpho.danang.vn, shophoamaimai.com, icflowers.wsg.vn |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
-| 10 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
+| 6 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
+| 7 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
+| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 9 | hoa tươi đà nẵng | **#67** | 4 | 4p | thanhpho.danang.vn, shophoamaimai.com, icflowers.wsg.vn |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 11 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 2/10 keywords ranking (20%)
+**Visibility:** 2/11 keywords ranking (18%)
 
 ## Site Index Verification (5 runs)
 
@@ -46,7 +47,7 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 6 |
+| facebook.com | 7 |
 | canhdonghoatuoi.com | 5 |
 | flowercorner.vn | 2 |
 | bachhoaxanh.com | 2 |
@@ -55,7 +56,7 @@
 | hoatuoidollar.com | 1 |
 | shophoasunny.vn | 1 |
 | hoayeuthuong.com | 1 |
-| shophoabaongoc.com | 1 |
+| hoasenviet.net | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -142,10 +143,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 92% | 848ms | 0.001 | ? | 613ms | 432ms |
-| /san-pham/ | 98% | 1111ms | 0 | ? | 478ms | 128ms |
-| /danh-muc/hoa-sinh-nhat/ | 95% | 1437ms | 0 | ? | 603ms | 69ms |
+| / | N/A | ? | 0.001 | ? | 624ms | 702ms |
+| /san-pham/ | 93% | 1704ms | 0.001 | ? | 493ms | 160ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2580ms | 0 | ? | 624ms | 93ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1333ms | 0 | ? | 308ms | 72ms |
+| /amp/ | 87% | 1287ms | 0 | ? | 286ms | 61ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
