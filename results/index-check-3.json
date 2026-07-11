@@ -1,33 +1,24 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-07-08T17:50:36.071Z",
-  "indexStats": "Khoảng 926 kết quả (0,14 giây) ",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
-}-hang/",
+  "timestamp": "2026-07-11T22:02:50.470Z",
+  "indexStats": "Khoảng 836 kết quả (0,31 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/yeu-thich/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
-    "https://hoatuoidanangnhanhi.com/hoa-mua-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
     "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/san-pham/fb-0131/"
+    "https://hoatuoidanangnhanhi.com/san-pham/fb-0131/",
+    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
-  "clickedPosition": 2,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
+  "clickedPosition": 6,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
-  "landedTitle": "Cửa hàng | Hoa Tươi Đà Nẵng",
-  "brandRank": 2
-}�à Nẵng",
-  "brandRank": 2
-}k": 3
-}ươi Đà Nẵng",
-  "brandRank": 2
+  "landedUrl": "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
+  "landedTitle": "Chính sách thanh toán | Hoa Tươi Đà Nẵng",
+  "brandRank": 3
 }
