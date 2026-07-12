@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-12T17:21:26.936Z
+**Updated:** 2026-07-12T19:28:47.648Z
 
 ## Keyword Rankings
 
@@ -18,12 +18,12 @@
 
 **Visibility:** 0/10 keywords ranking (0%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (8 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 838 kết quả (0,36 giây) 
-- **Click verified:** 7/7 passed
-- **Click failed:** 0/7
+- **Click verified:** 8/8 passed
+- **Click failed:** 0/8
 
 ### Pages Clicked (random distribution)
 
@@ -33,6 +33,7 @@
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
+| /cua-hang/ | 1 | Yes |
 | /hoa-tot-nghiep-gia-re/ | 1 | Yes |
 
 ### Click Detail
@@ -45,7 +46,8 @@
 | #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #5 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hoa-tot-nghiep-gia-re/ | hoa tốt nghiệp giá rẽ – Hoa Tươi Đà Nẵng | Yes |
+| #6 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #7 | /hoa-tot-nghiep-gia-re/ | hoa tốt nghiệp giá rẽ – Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -146,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 93% | 1546ms | 0 | ? | 509ms | 1861ms |
-| /san-pham/ | 98% | 1149ms | 0.003 | ? | 491ms | 109ms |
-| /danh-muc/hoa-sinh-nhat/ | 95% | 1478ms | 0 | ? | 608ms | 108ms |
+| / | 92% | 1035ms | 0.001 | ? | 565ms | 1657ms |
+| /san-pham/ | 92% | 1749ms | 0 | ? | 569ms | 800ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1885ms | 0 | ? | 579ms | 480ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1206ms | 0 | ? | 276ms | 100ms |
+| /amp/ | 87% | 1278ms | 0 | ? | 272ms | 70ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
