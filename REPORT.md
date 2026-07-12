@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-12T13:58:54.209Z
+**Updated:** 2026-07-12T15:19:09.553Z
 
 ## Keyword Rankings
 
@@ -18,22 +18,21 @@
 
 **Visibility:** 0/10 keywords ranking (0%)
 
-## Site Index Verification (9 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 838 kết quả (0,36 giây) 
-- **Click verified:** 9/9 passed
-- **Click failed:** 0/9
+- **Click verified:** 6/6 passed
+- **Click failed:** 0/6
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hang-moi-ve/ | 5 | Yes |
+| /hang-moi-ve/ | 3 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /lien-he/ | 1 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
-| /san-pham/fb-0131/ | 1 | Yes |
 
 ### Click Detail
 
@@ -45,9 +44,6 @@
 | #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #5 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #6 | /hang-moi-ve/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
-| #7 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #8 | /san-pham/fb-0131/ | Không tìm thấy trang | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -148,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 621ms | 138ms |
-| /san-pham/ | 91% | 1848ms | 0 | ? | 617ms | 281ms |
-| /danh-muc/hoa-sinh-nhat/ | 86% | 2537ms | 0 | ? | 615ms | 99ms |
+| / | 97% | 555ms | 0.001 | ? | 340ms | 1633ms |
+| /san-pham/ | N/A | ? | ? | ? | ? | ? |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1912ms | 0 | ? | 593ms | 87ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1373ms | 0 | ? | 316ms | 156ms |
+| /amp/ | 87% | 1257ms | 0 | ? | 270ms | 63ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
