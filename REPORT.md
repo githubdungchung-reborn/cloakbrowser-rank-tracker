@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-13T04:47:37.393Z
+**Updated:** 2026-07-13T08:34:29.314Z
 
 ## Keyword Rankings
 
@@ -18,12 +18,12 @@
 
 **Visibility:** 1/10 keywords ranking (10%)
 
-## Site Index Verification (6 runs)
+## Site Index Verification (5 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 832 kết quả (0,14 giây) 
-- **Click verified:** 6/6 passed
-- **Click failed:** 0/6
+- **Click verified:** 5/5 passed
+- **Click failed:** 0/5
 
 ### Pages Clicked (random distribution)
 
@@ -31,7 +31,6 @@
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 2 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
-| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 | /hoa-tot-nghiep-gia-re/ | 1 | Yes |
 
@@ -42,9 +41,8 @@
 | #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #2 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /hoa-tot-nghiep-gia-re/ | hoa tốt nghiệp giá rẽ – Hoa Tươi Đà Nẵng | Yes |
+| #3 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /hoa-tot-nghiep-gia-re/ | hoa tốt nghiệp giá rẽ – Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -145,10 +143,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 573ms | 2020ms |
-| /san-pham/ | 92% | 1912ms | 0 | ? | 485ms | 128ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2404ms | 0 | ? | 570ms | 92ms |
+| / | N/A | ? | 0 | ? | 623ms | 1594ms |
+| /san-pham/ | 92% | 1797ms | 0 | ? | 554ms | 120ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2415ms | 0 | ? | 627ms | 111ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1408ms | 0 | ? | 322ms | 117ms |
+| /amp/ | 87% | 1317ms | 0 | ? | 286ms | 106ms |
 
 **Pass rate:** 1/5 pages ≥ 90%
