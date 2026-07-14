@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-14T06:29:51.063Z
+**Updated:** 2026-07-14T09:22:41.517Z
 
 ## Keyword Rankings
 
@@ -7,60 +7,62 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
 | 2 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, shophoamaimai.com |
-| 3 | hoa cảm ơn đà nẵng | **#5** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
-| 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoayeuthuong.com |
-| 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
-| 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
-| 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, hoalanhodiep.net, caycanhdanang.com.vn |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
-| 9 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, icflowers.wsg.vn, shophoamaimai.com |
-| 10 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
-| 11 | mua hoa tươi đà nẵng | NOT FOUND | - | 7p | - |
-| 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | facebook.com, kimkieuflower.vn, bachhoaxanh.com |
-| 13 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
-| 14 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
+| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
+| 4 | hoa cảm ơn đà nẵng | **#5** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
+| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, hoayeuthuong.com |
+| 6 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
+| 7 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
+| 8 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, hoalanhodiep.net, caycanhdanang.com.vn |
+| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hoa10h.vn |
+| 10 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, icflowers.wsg.vn, shophoamaimai.com |
+| 11 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
+| 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 7p | - |
+| 13 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | facebook.com, kimkieuflower.vn, bachhoaxanh.com |
+| 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 15 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 3/14 keywords ranking (21%)
+**Visibility:** 3/15 keywords ranking (20%)
 
-## Site Index Verification (5 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 10
-- **Index stats:** Khoảng 1.160 kết quả (0,40 giây) 
-- **Click verified:** 4/5 passed
-- **Click failed:** 1/5
+- **Index stats:** Khoảng 849 kết quả (0,12 giây) 
+- **Click verified:** 5/6 passed
+- **Click failed:** 1/6
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /cua-hang/ | 2 | Yes |
 | / | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
-| /cua-hang/ | 1 | Yes |
 | /hoa-tot-nghiep-gia-re/ | 1 | Yes |
 
 ### Click Detail
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #2 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /hoa-tot-nghiep-gia-re/ | hoa tốt nghiệp giá rẽ – Hoa Tươi Đà Nẵng | Yes |
-| #4 | - | - | No |
+| #0 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #1 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #2 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #3 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /hoa-tot-nghiep-gia-re/ | hoa tốt nghiệp giá rẽ – Hoa Tươi Đà Nẵng | Yes |
+| #5 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | facebook.com | 10 |
-| canhdonghoatuoi.com | 5 |
+| canhdonghoatuoi.com | 7 |
 | flowercorner.vn | 4 |
 | shophoamaimai.com | 3 |
 | bachhoaxanh.com | 3 |
 | kimkieuflower.vn | 2 |
 | hoasenviet.net | 2 |
 | caycanhdanang.com.vn | 2 |
+| hoadanang.vn | 1 |
 | hoayeuthuong.com | 1 |
-| shophoabaongoc.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -147,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 81% | 679ms | 0.006 | ? | 404ms | 548ms |
-| /san-pham/ | 93% | 1739ms | 0 | ? | 500ms | 159ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2488ms | 0 | ? | 603ms | 116ms |
+| / | 92% | 1058ms | 0.001 | ? | 589ms | 1659ms |
+| /san-pham/ | 93% | 1729ms | 0 | ? | 498ms | 96ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2452ms | 0 | ? | 593ms | 96ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1221ms | 0 | ? | 268ms | 62ms |
+| /amp/ | 88% | 1229ms | 0 | ? | 257ms | 57ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
