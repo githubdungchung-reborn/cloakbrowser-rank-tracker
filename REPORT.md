@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-14T09:22:41.517Z
+**Updated:** 2026-07-14T11:50:58.918Z
 
 ## Keyword Rankings
 
@@ -18,10 +18,11 @@
 | 11 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
 | 12 | mua hoa tươi đà nẵng | NOT FOUND | - | 7p | - |
 | 13 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | facebook.com, kimkieuflower.vn, bachhoaxanh.com |
-| 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
-| 15 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
+| 14 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, bachhoaxanh.com |
+| 15 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 16 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 3/15 keywords ranking (20%)
+**Visibility:** 3/16 keywords ranking (19%)
 
 ## Site Index Verification (6 runs)
 
@@ -55,14 +56,14 @@
 |--------|------|
 | facebook.com | 10 |
 | canhdonghoatuoi.com | 7 |
-| flowercorner.vn | 4 |
+| flowercorner.vn | 5 |
+| bachhoaxanh.com | 4 |
 | shophoamaimai.com | 3 |
-| bachhoaxanh.com | 3 |
 | kimkieuflower.vn | 2 |
 | hoasenviet.net | 2 |
 | caycanhdanang.com.vn | 2 |
+| hoatuoidanang247.com | 2 |
 | hoadanang.vn | 1 |
-| hoayeuthuong.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -149,10 +150,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 92% | 1058ms | 0.001 | ? | 589ms | 1659ms |
-| /san-pham/ | 93% | 1729ms | 0 | ? | 498ms | 96ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2452ms | 0 | ? | 593ms | 96ms |
+| / | 76% | 887ms | 0.001 | ? | 397ms | 1781ms |
+| /san-pham/ | 98% | 1188ms | 0 | ? | 505ms | 106ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1347ms | 0 | ? | 593ms | 89ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1229ms | 0 | ? | 257ms | 57ms |
+| /amp/ | 88% | 1202ms | 0 | ? | 273ms | 61ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
