@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-15T09:27:21.477Z
+**Updated:** 2026-07-15T11:53:43.808Z
 
 ## Keyword Rankings
 
@@ -7,20 +7,16 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
-| 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
-| 5 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 6 | hoa cảm ơn đà nẵng | **#5** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
-| 7 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, floli.vn, canhdonghoatuoi.com |
-| 8 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
-| 9 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
-| 10 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, icflowers.wsg.vn, shophoamaimai.com |
-| 11 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
-| 12 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, bachhoaxanh.com |
-| 13 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
-| 14 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
+| 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
+| 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
+| 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
+| 6 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, facebook.com, shophoabaongoc.com |
+| 7 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, icflowers.wsg.vn, shophoamaimai.com |
+| 8 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, flowercorner.vn, dalathasfarm.com |
+| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 10 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 3/14 keywords ranking (21%)
+**Visibility:** 2/10 keywords ranking (20%)
 
 ## Site Index Verification (4 runs)
 
@@ -48,16 +44,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 8 |
-| canhdonghoatuoi.com | 7 |
-| flowercorner.vn | 4 |
+| facebook.com | 6 |
+| flowercorner.vn | 3 |
 | tramhoa.com | 3 |
-| bachhoaxanh.com | 3 |
-| shophoamaimai.com | 2 |
-| hoatuoidanang247.com | 2 |
+| canhdonghoatuoi.com | 3 |
+| bachhoaxanh.com | 2 |
 | kimkieuflower.vn | 1 |
-| hoadanang.vn | 1 |
 | hoatuoidanang.net | 1 |
+| hoasenviet.net | 1 |
+| caycanhdanang.com.vn | 1 |
+| shophoabaongoc.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -144,10 +140,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 650ms | 0.001 | ? | 573ms | 1637ms |
-| /san-pham/ | 94% | 1668ms | 0 | ? | 505ms | 106ms |
-| /danh-muc/hoa-sinh-nhat/ | 90% | 2027ms | 0 | ? | 566ms | 447ms |
+| / | 96% | 415ms | 0.016 | ? | 397ms | 469ms |
+| /san-pham/ | 92% | 1819ms | 0 | ? | 489ms | 116ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1794ms | 0 | ? | 563ms | 467ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1227ms | 0 | ? | 275ms | 91ms |
+| /amp/ | 88% | 1236ms | 0 | ? | 274ms | 745ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
