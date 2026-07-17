@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-17T18:24:05.569Z
+**Updated:** 2026-07-17T20:21:26.585Z
 
 ## Keyword Rankings
 
@@ -14,16 +14,15 @@
 | 7 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hellodanang.vn |
 | 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 9 | mua hoa tươi đà nẵng | **#47** | 3 | 3p | icflowers.wsg.vn, shophoamaimai.com, floli.vn |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
 
-**Visibility:** 2/10 keywords ranking (20%)
+**Visibility:** 2/9 keywords ranking (22%)
 
-## Site Index Verification (9 runs)
+## Site Index Verification (8 runs)
 
-- **Indexed pages found:** 0
-- **Index stats:** N/A
-- **Click verified:** 3/9 passed
-- **Click failed:** 6/9
+- **Indexed pages found:** 10
+- **Index stats:** Khoảng 1.090 kết quả (0,20 giây) 
+- **Click verified:** 3/8 passed
+- **Click failed:** 5/8
 
 ### Pages Clicked (random distribution)
 
@@ -37,20 +36,19 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | - | - | No |
-| #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #0 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #1 | - | - | No |
 | #2 | - | - | No |
 | #3 | - | - | No |
-| #4 | - | - | No |
-| #5 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #6 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #4 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #6 | - | - | No |
 | #7 | - | - | No |
-| #8 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 6 |
+| facebook.com | 5 |
 | tramhoa.com | 3 |
 | canhdonghoatuoi.com | 3 |
 | dienhoaxanh.com | 3 |
@@ -146,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 618ms | 1989ms |
-| /san-pham/ | 98% | 1155ms | 0 | ? | 509ms | 156ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1369ms | 0 | ? | 600ms | 114ms |
+| / | 97% | 688ms | 0.001 | ? | 572ms | 607ms |
+| /san-pham/ | 93% | 1798ms | 0 | ? | 514ms | 122ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2601ms | 0 | ? | 622ms | 101ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1269ms | 0 | ? | 301ms | 115ms |
+| /amp/ | 87% | 1248ms | 0 | ? | 284ms | 88ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
