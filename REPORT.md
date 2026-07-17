@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-17T04:27:26.019Z
+**Updated:** 2026-07-17T10:17:17.383Z
 
 ## Keyword Rankings
 
@@ -11,19 +11,19 @@
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
 | 5 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
 | 6 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 7 | hoa tươi đà nẵng | **#61** | 4 | 4p | hoatuoidanangnhanhi.com, icflowers.wsg.vn, shophoamaimai.com |
+| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 8 | mua hoa tươi đà nẵng | **#47** | 3 | 3p | icflowers.wsg.vn, shophoamaimai.com, floli.vn |
 | 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
 | 10 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 3/10 keywords ranking (30%)
+**Visibility:** 2/10 keywords ranking (20%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (8 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 3/7 passed
-- **Click failed:** 4/7
+- **Click verified:** 3/8 passed
+- **Click failed:** 5/8
 
 ### Pages Clicked (random distribution)
 
@@ -40,24 +40,25 @@
 | #0 | - | - | No |
 | #1 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #2 | - | - | No |
-| #3 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
-| #4 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
-| #5 | - | - | No |
+| #3 | - | - | No |
+| #4 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #5 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 | #6 | - | - | No |
+| #7 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
+| facebook.com | 6 |
+| flowercorner.vn | 3 |
 | tramhoa.com | 3 |
 | dienhoaxanh.com | 3 |
-| flowercorner.vn | 2 |
+| kimkieuflower.vn | 2 |
 | canhdonghoatuoi.com | 2 |
-| icflowers.wsg.vn | 2 |
-| shophoamaimai.com | 2 |
 | bachhoaxanh.com | 2 |
-| kimkieuflower.vn | 1 |
 | hoatuoidanang.net | 1 |
+| icflowers.wsg.vn | 1 |
+| shophoamaimai.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -144,10 +145,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 59% | 1105ms | 0.016 | ? | 650ms | 1617ms |
-| /san-pham/ | 93% | 1782ms | 0 | ? | 495ms | 116ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1960ms | 0 | ? | 580ms | 77ms |
+| / | 98% | 366ms | 0.002 | ? | 341ms | 111ms |
+| /san-pham/ | 93% | 1668ms | 0 | ? | 500ms | 519ms |
+| /danh-muc/hoa-sinh-nhat/ | 90% | 1986ms | 0 | ? | 640ms | 409ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1179ms | 0 | ? | 258ms | 90ms |
+| /amp/ | 87% | 1296ms | 0 | ? | 279ms | 94ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
