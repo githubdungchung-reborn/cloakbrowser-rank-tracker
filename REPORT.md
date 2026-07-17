@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-17T20:21:26.585Z
+**Updated:** 2026-07-17T22:11:38.003Z
 
 ## Keyword Rankings
 
@@ -9,7 +9,7 @@
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 5 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
+| 5 | hoa cảm ơn đà nẵng | **#1** | 1 | 1p | hoatuoidanangnhanhi.com, canhdonghoatuoi.com, facebook.com |
 | 6 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 7 | hoa cưới đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, hellodanang.vn |
 | 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
@@ -144,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 688ms | 0.001 | ? | 572ms | 607ms |
-| /san-pham/ | 93% | 1798ms | 0 | ? | 514ms | 122ms |
-| /danh-muc/hoa-sinh-nhat/ | 86% | 2601ms | 0 | ? | 622ms | 101ms |
+| / | N/A | ? | 0.032 | ? | 651ms | 1590ms |
+| /san-pham/ | 93% | 1768ms | 0 | ? | 507ms | 130ms |
+| /danh-muc/hoa-sinh-nhat/ | 85% | 2658ms | 0 | ? | 586ms | 74ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1248ms | 0 | ? | 284ms | 88ms |
+| /amp/ | 88% | 1196ms | 0 | ? | 272ms | 592ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
