@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-18T10:44:30.666Z
+**Updated:** 2026-07-18T12:09:55.261Z
 
 ## Keyword Rankings
 
@@ -10,7 +10,7 @@
 | 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, flowercorner.vn |
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
 | 5 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 6 | hoa cảm ơn đà nẵng | **#1** | 1 | 1p | hoatuoidanangnhanhi.com, canhdonghoatuoi.com, facebook.com |
+| 6 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
 | 7 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 9 | mua hoa tươi đà nẵng | **#47** | 3 | 3p | icflowers.wsg.vn, shophoamaimai.com, floli.vn |
@@ -22,15 +22,14 @@
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.090 kết quả (0,20 giây) 
-- **Click verified:** 2/5 passed
-- **Click failed:** 3/5
+- **Click verified:** 1/5 passed
+- **Click failed:** 4/5
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 1 | Yes |
-| / | 1 | Yes |
 
 ### Click Detail
 
@@ -40,7 +39,7 @@
 | #1 | - | - | No |
 | #2 | - | - | No |
 | #3 | - | - | No |
-| #4 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #4 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -141,10 +140,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 1054ms | 0.001 | ? | 509ms | 1521ms |
-| /san-pham/ | 93% | 1742ms | 0 | ? | 482ms | 106ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1931ms | 0 | ? | 575ms | 69ms |
+| / | 96% | 698ms | 0.002 | ? | 621ms | 352ms |
+| /san-pham/ | 94% | 1634ms | 0 | ? | 491ms | 118ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1949ms | 0 | ? | 590ms | 60ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1188ms | 0 | ? | 255ms | 61ms |
+| /amp/ | 87% | 1247ms | 0 | ? | 277ms | 63ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
