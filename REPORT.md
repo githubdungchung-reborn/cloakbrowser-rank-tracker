@@ -1,11 +1,11 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-18T17:16:54.827Z
+**Updated:** 2026-07-18T19:28:43.027Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
+| 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
 | 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, flowercorner.vn |
 | 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
@@ -17,18 +17,19 @@
 
 **Visibility:** 1/9 keywords ranking (11%)
 
-## Site Index Verification (4 runs)
+## Site Index Verification (5 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.090 kết quả (0,20 giây) 
-- **Click verified:** 1/4 passed
-- **Click failed:** 3/4
+- **Click verified:** 2/5 passed
+- **Click failed:** 3/5
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hang-moi-ve/ | 1 | Yes |
+| /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
@@ -38,6 +39,7 @@
 | #1 | - | - | No |
 | #2 | - | - | No |
 | #3 | - | - | No |
+| #4 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -137,10 +139,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 92% | 590ms | 0.016 | ? | 348ms | 1605ms |
-| /san-pham/ | 94% | 1622ms | 0 | ? | 484ms | 130ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1964ms | 0 | ? | 584ms | 65ms |
+| / | 94% | 643ms | 0.002 | ? | 570ms | 1804ms |
+| /san-pham/ | 94% | 1656ms | 0 | ? | 502ms | 107ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1963ms | 0 | ? | 587ms | 63ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1235ms | 0 | ? | 273ms | 76ms |
+| /amp/ | 88% | 1195ms | 0 | ? | 258ms | 387ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
