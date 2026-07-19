@@ -1,20 +1,21 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-19T03:59:40.133Z
+**Updated:** 2026-07-19T06:48:54.916Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
-| 2 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
-| 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
-| 4 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
-| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 6 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 7 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
-| 8 | shop hoa tươi giá rẻ đà nẵng | **#43** | 3 | 3p | linhflower.com, shophoatuoidieuflorist.com, hoatuoidanangnhanhi.com |
+| 1 | đặt hoa giao nhanh đà nẵng | **#30** | 2 | 2p | dathoatuoionline.com, hoadanang.vn, hoatuoimocviet.com |
+| 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
+| 3 | hoa 8/3 đà nẵng | NOT FOUND | - | 16p | - |
+| 4 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoatuoidanang.net, facebook.com |
+| 5 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
+| 6 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
+| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 8 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
+| 9 | shop hoa tươi giá rẻ đà nẵng | **#43** | 3 | 3p | linhflower.com, shophoatuoidieuflorist.com, hoatuoidanangnhanhi.com |
 
-**Visibility:** 2/8 keywords ranking (25%)
+**Visibility:** 3/9 keywords ranking (33%)
 
 ## Site Index Verification (5 runs)
 
@@ -47,11 +48,11 @@
 | flowercorner.vn | 2 |
 | kimkieuflower.vn | 2 |
 | canhdonghoatuoi.com | 2 |
+| dathoatuoionline.com | 1 |
+| hoadanang.vn | 1 |
+| hoatuoimocviet.com | 1 |
 | hoatuoidanang.net | 1 |
 | hoatuoidanang247.com | 1 |
-| bachhoaxanh.com | 1 |
-| linhflower.com | 1 |
-| shophoatuoidieuflorist.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -138,10 +139,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 90% | 935ms | 0.016 | ? | 561ms | 1716ms |
-| /san-pham/ | 93% | 1693ms | 0 | ? | 547ms | 119ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1959ms | 0 | ? | 581ms | 39ms |
+| / | N/A | ? | 0.001 | ? | 341ms | 2390ms |
+| /san-pham/ | 98% | 1152ms | 0 | ? | 500ms | 111ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1382ms | 0 | ? | 610ms | 57ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1243ms | 0 | ? | 287ms | 617ms |
+| /amp/ | 88% | 1177ms | 0 | ? | 276ms | 61ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
