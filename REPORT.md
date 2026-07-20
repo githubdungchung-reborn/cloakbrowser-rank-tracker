@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-20T19:12:53.935Z
+**Updated:** 2026-07-20T20:46:45.219Z
 
 ## Keyword Rankings
 
@@ -10,14 +10,15 @@
 | 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, flowercorner.vn |
 | 4 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 6 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
-| 7 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, canhdonghoatuoi.com, shophoamaimai.com |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, hoa10h.vn, canhdonghoatuoi.com |
-| 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
-| 11 | shop hoa tươi giá rẻ đà nẵng | **#43** | 3 | 3p | linhflower.com, shophoatuoidieuflorist.com, hoatuoidanangnhanhi.com |
+| 6 | hoa cưới đà nẵng | **#38** | 2 | 2p | hongtamflower.com, tripi.vn, instagram.com |
+| 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
+| 8 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, canhdonghoatuoi.com, shophoamaimai.com |
+| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, hoa10h.vn, canhdonghoatuoi.com |
+| 10 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
+| 12 | shop hoa tươi giá rẻ đà nẵng | **#43** | 3 | 3p | linhflower.com, shophoatuoidieuflorist.com, hoatuoidanangnhanhi.com |
 
-**Visibility:** 3/11 keywords ranking (27%)
+**Visibility:** 4/12 keywords ranking (33%)
 
 ## Site Index Verification (4 runs)
 
@@ -53,7 +54,7 @@
 | dathoatuoionline.com | 1 |
 | hoadanang.vn | 1 |
 | hoatuoimocviet.com | 1 |
-| hoasenviet.net | 1 |
+| hongtamflower.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -140,10 +141,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 100% | 362ms | 0.001 | ? | 308ms | 900ms |
-| /san-pham/ | 89% | 2024ms | 0 | ? | 561ms | 1263ms |
-| /danh-muc/hoa-sinh-nhat/ | 85% | 2709ms | 0 | ? | 601ms | 137ms |
+| / | 94% | 396ms | 0.016 | ? | 370ms | 1530ms |
+| /san-pham/ | 92% | 1834ms | 0 | ? | 511ms | 168ms |
+| /danh-muc/hoa-sinh-nhat/ | 85% | 2640ms | 0 | ? | 634ms | 73ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1361ms | 0 | ? | 319ms | 218ms |
+| /amp/ | 87% | 1265ms | 0 | ? | 288ms | 70ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
