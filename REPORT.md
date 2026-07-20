@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-20T20:46:45.219Z
+**Updated:** 2026-07-20T22:18:45.216Z
 
 ## Keyword Rankings
 
@@ -12,7 +12,7 @@
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 6 | hoa cưới đà nẵng | **#38** | 2 | 2p | hongtamflower.com, tripi.vn, instagram.com |
 | 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
-| 8 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | hoa10h.vn, canhdonghoatuoi.com, shophoamaimai.com |
+| 8 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, shophoamaimai.com, flowercorner.vn |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, hoa10h.vn, canhdonghoatuoi.com |
 | 10 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, facebook.com |
@@ -46,15 +46,15 @@
 | Domain | Hits |
 |--------|------|
 | facebook.com | 7 |
-| flowercorner.vn | 4 |
+| flowercorner.vn | 5 |
 | canhdonghoatuoi.com | 3 |
 | dienhoaxanh.com | 3 |
 | kimkieuflower.vn | 2 |
-| hoa10h.vn | 2 |
 | dathoatuoionline.com | 1 |
 | hoadanang.vn | 1 |
 | hoatuoimocviet.com | 1 |
 | hongtamflower.com | 1 |
+| tripi.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -141,10 +141,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 396ms | 0.016 | ? | 370ms | 1530ms |
-| /san-pham/ | 92% | 1834ms | 0 | ? | 511ms | 168ms |
-| /danh-muc/hoa-sinh-nhat/ | 85% | 2640ms | 0 | ? | 634ms | 73ms |
+| / | N/A | ? | 0.001 | ? | 568ms | 628ms |
+| /san-pham/ | 93% | 1712ms | 0.001 | ? | 515ms | 116ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1956ms | 0.005 | ? | 618ms | 108ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1265ms | 0 | ? | 288ms | 70ms |
+| /amp/ | 88% | 1220ms | 0 | ? | 278ms | 62ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
