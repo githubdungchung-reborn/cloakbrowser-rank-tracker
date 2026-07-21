@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-21T20:36:12.703Z
+**Updated:** 2026-07-21T22:22:00.762Z
 
 ## Keyword Rankings
 
@@ -8,13 +8,14 @@
 | 1 | đặt hoa giao nhanh đà nẵng | **#30** | 2 | 2p | dathoatuoionline.com, hoadanang.vn, hoatuoimocviet.com |
 | 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
 | 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 4 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
-| 5 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, hoa10h.vn, canhdonghoatuoi.com |
-| 6 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 7 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, flowercorner.vn |
-| 8 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
+| 4 | hoa hồng đà nẵng | **#29** | 2 | 2p | hatgiongxinh.com, afamily.vn, facebook.com |
+| 5 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
+| 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, hoa10h.vn, canhdonghoatuoi.com |
+| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, flowercorner.vn |
+| 9 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 1/8 keywords ranking (13%)
+**Visibility:** 2/9 keywords ranking (22%)
 
 ## Site Index Verification (7 runs)
 
@@ -46,7 +47,7 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
+| facebook.com | 6 |
 | flowercorner.vn | 4 |
 | dienhoaxanh.com | 3 |
 | kimkieuflower.vn | 2 |
@@ -54,8 +55,8 @@
 | dathoatuoionline.com | 1 |
 | hoadanang.vn | 1 |
 | hoatuoimocviet.com | 1 |
-| hoasenviet.net | 1 |
-| caycanhdanang.com.vn | 1 |
+| hatgiongxinh.com | 1 |
+| afamily.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -142,10 +143,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 660ms | 1591ms |
-| /san-pham/ | 93% | 1720ms | 0 | ? | 496ms | 115ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2458ms | 0 | ? | 635ms | 582ms |
+| / | 94% | 745ms | 0.016 | ? | 705ms | 1647ms |
+| /san-pham/ | 93% | 1739ms | 0.003 | ? | 500ms | 113ms |
+| /danh-muc/hoa-sinh-nhat/ | 85% | 2687ms | 0 | ? | 637ms | 98ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1233ms | 0 | ? | 285ms | 84ms |
+| /amp/ | 88% | 1213ms | 0 | ? | 278ms | 54ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
