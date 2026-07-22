@@ -1,11 +1,11 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-21T22:22:00.762Z
+**Updated:** 2026-07-22T00:11:46.031Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa giao nhanh đà nẵng | **#30** | 2 | 2p | dathoatuoionline.com, hoadanang.vn, hoatuoimocviet.com |
+| 1 | đặt hoa giao nhanh đà nẵng | **#85** | 5 | 5p | shophoatuoidep.net, shophoamaimai.com, shophoatuoidanang.vn |
 | 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
 | 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 4 | hoa hồng đà nẵng | **#29** | 2 | 2p | hatgiongxinh.com, afamily.vn, facebook.com |
@@ -17,17 +17,18 @@
 
 **Visibility:** 2/9 keywords ranking (22%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (8 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 3/7 passed
-- **Click failed:** 4/7
+- **Click verified:** 4/8 passed
+- **Click failed:** 4/8
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /cua-hang/ | 1 | Yes |
 | /san-pham/fb-0131/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
@@ -37,12 +38,13 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | - | - | No |
-| #1 | - | - | No |
+| #1 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #2 | - | - | No |
-| #3 | /san-pham/fb-0131/ | Loading https://hoatuoidanangnhanhi.com/ | Yes |
-| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #6 | - | - | No |
+| #3 | - | - | No |
+| #4 | /san-pham/fb-0131/ | Loading https://hoatuoidanangnhanhi.com/ | Yes |
+| #5 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #7 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -52,9 +54,9 @@
 | dienhoaxanh.com | 3 |
 | kimkieuflower.vn | 2 |
 | bachhoaxanh.com | 2 |
-| dathoatuoionline.com | 1 |
-| hoadanang.vn | 1 |
-| hoatuoimocviet.com | 1 |
+| shophoatuoidep.net | 1 |
+| shophoamaimai.com | 1 |
+| shophoatuoidanang.vn | 1 |
 | hatgiongxinh.com | 1 |
 | afamily.vn | 1 |
 
@@ -143,10 +145,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 745ms | 0.016 | ? | 705ms | 1647ms |
-| /san-pham/ | 93% | 1739ms | 0.003 | ? | 500ms | 113ms |
-| /danh-muc/hoa-sinh-nhat/ | 85% | 2687ms | 0 | ? | 637ms | 98ms |
+| / | 93% | 865ms | 0.016 | ? | 679ms | 1677ms |
+| /san-pham/ | 93% | 1768ms | 0 | ? | 492ms | 106ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1940ms | 0 | ? | 616ms | 99ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1213ms | 0 | ? | 278ms | 54ms |
+| /amp/ | 87% | 1241ms | 0 | ? | 270ms | 477ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
