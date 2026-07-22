@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-22T20:27:24.451Z
+**Updated:** 2026-07-22T22:22:20.912Z
 
 ## Keyword Rankings
 
@@ -7,7 +7,7 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
 | 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
-| 3 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoavada.com |
+| 3 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
 | 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
 | 6 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
@@ -53,7 +53,7 @@
 | hoasenviet.net | 2 |
 | caycanhdanang.com.vn | 2 |
 | bachhoaxanh.com | 2 |
-| hoavada.com | 1 |
+| shophoamaimai.com | 1 |
 | hoa10h.vn | 1 |
 
 ## CrUX Traffic Simulation
@@ -141,10 +141,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 771ms | 0.016 | ? | 724ms | 1715ms |
-| /san-pham/ | 89% | 2156ms | 0 | ? | 620ms | 289ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1815ms | 0 | ? | 665ms | 123ms |
+| / | 96% | 719ms | 0.001 | ? | 678ms | 1601ms |
+| /san-pham/ | 97% | 1234ms | 0.001 | ? | 490ms | 120ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1422ms | 0 | ? | 641ms | 756ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | N/A | ? | ? | ? | ? | ? |
+| /amp/ | 88% | 1226ms | 0 | ? | 283ms | 65ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
