@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-23T04:35:43.878Z
+**Updated:** 2026-07-23T07:51:03.865Z
 
 ## Keyword Rankings
 
@@ -7,14 +7,15 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
 | 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
-| 3 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
-| 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
-| 6 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
-| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, flowercorner.vn |
+| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
+| 4 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
+| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
+| 6 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, hoasenviet.net, caycanhdanang.com.vn |
+| 7 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | hoasenviet.net, caycanhdanang.com.vn, facebook.com |
+| 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, flowercorner.vn |
 
-**Visibility:** 1/8 keywords ranking (13%)
+**Visibility:** 1/9 keywords ranking (11%)
 
 ## Site Index Verification (5 runs)
 
@@ -47,13 +48,13 @@
 | facebook.com | 6 |
 | flowercorner.vn | 4 |
 | kimkieuflower.vn | 3 |
+| canhdonghoatuoi.com | 3 |
 | dienhoaxanh.com | 3 |
 | hoasenviet.net | 2 |
 | caycanhdanang.com.vn | 2 |
+| hoadanang.vn | 1 |
 | shophoamaimai.com | 1 |
-| canhdonghoatuoi.com | 1 |
 | hoatuoidanang247.com | 1 |
-| bachhoaxanh.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -140,10 +141,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 1032ms | 2207ms |
-| /san-pham/ | 93% | 1676ms | 0 | ? | 501ms | 451ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1940ms | 0.001 | ? | 618ms | 121ms |
+| / | N/A | ? | 0 | ? | 646ms | 1561ms |
+| /san-pham/ | 94% | 1594ms | 0 | ? | 487ms | 94ms |
+| /danh-muc/hoa-sinh-nhat/ | 91% | 1951ms | 0.002 | ? | 619ms | 382ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1189ms | 0 | ? | 266ms | 48ms |
+| /amp/ | 88% | 1179ms | 0 | ? | 267ms | 76ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
