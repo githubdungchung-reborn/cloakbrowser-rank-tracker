@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-24T17:55:35.254Z
+**Updated:** 2026-07-24T19:51:24.982Z
 
 ## Keyword Rankings
 
@@ -13,12 +13,12 @@
 
 **Visibility:** 1/5 keywords ranking (20%)
 
-## Site Index Verification (6 runs)
+## Site Index Verification (7 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 4/6 passed
-- **Click failed:** 2/6
+- **Click verified:** 4/7 passed
+- **Click failed:** 3/7
 
 ### Pages Clicked (random distribution)
 
@@ -39,6 +39,7 @@
 | #3 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
 | #4 | - | - | No |
 | #5 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #6 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -138,10 +139,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 73% | 1496ms | 0.001 | ? | 671ms | 532ms |
-| /san-pham/ | 92% | 1786ms | 0 | ? | 482ms | 589ms |
-| /danh-muc/hoa-sinh-nhat/ | 89% | 2216ms | 0 | ? | 633ms | 85ms |
+| / | 59% | 1470ms | 0.016 | ? | 847ms | 1606ms |
+| /san-pham/ | 98% | 1132ms | 0 | ? | 518ms | 174ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1470ms | 0 | ? | 681ms | 129ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1285ms | 0 | ? | 283ms | 98ms |
+| /amp/ | 87% | 1284ms | 0 | ? | 290ms | 80ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
