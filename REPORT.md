@@ -1,19 +1,16 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-24T09:37:12.434Z
+**Updated:** 2026-07-24T12:00:48.894Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
-| 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, canhdonghoatuoi.com |
-| 3 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
-| 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 5 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 6 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, bachhoaxanh.com, flowercorner.vn |
-| 7 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 2 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
+| 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
+| 4 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
 
-**Visibility:** 1/7 keywords ranking (14%)
+**Visibility:** 1/4 keywords ranking (25%)
 
 ## Site Index Verification (5 runs)
 
@@ -43,15 +40,14 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 3 |
-| flowercorner.vn | 3 |
-| canhdonghoatuoi.com | 3 |
 | dienhoaxanh.com | 3 |
-| kimkieuflower.vn | 2 |
-| hoatuoidanang247.com | 2 |
-| bachhoaxanh.com | 2 |
-| hoadanang.vn | 1 |
+| facebook.com | 2 |
+| flowercorner.vn | 1 |
+| kimkieuflower.vn | 1 |
 | shophoamaimai.com | 1 |
+| canhdonghoatuoi.com | 1 |
+| bachhoaxanh.com | 1 |
+| hoatuoidanang247.com | 1 |
 | shophoakieutrinh.com | 1 |
 
 ## CrUX Traffic Simulation
@@ -139,10 +135,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 637ms | 381ms |
-| /san-pham/ | 93% | 1728ms | 0 | ? | 479ms | 96ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1984ms | 0 | ? | 611ms | 50ms |
+| / | N/A | ? | ? | ? | ? | ? |
+| /san-pham/ | 49% | 2230ms | 0.019 | ? | 733ms | 219ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2441ms | 0 | ? | 620ms | 82ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1179ms | 0 | ? | 261ms | 54ms |
+| /amp/ | 88% | 1221ms | 0 | ? | 291ms | 79ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 0/5 pages ≥ 90%
