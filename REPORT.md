@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-23T23:17:26.048Z
+**Updated:** 2026-07-24T03:45:37.050Z
 
 ## Keyword Rankings
 
@@ -15,30 +15,28 @@
 
 **Visibility:** 1/7 keywords ranking (14%)
 
-## Site Index Verification (5 runs)
+## Site Index Verification (3 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 1.030 kết quả (0,15 giây) 
-- **Click verified:** 4/5 passed
-- **Click failed:** 1/5
+- **Click verified:** 3/3 passed
+- **Click failed:** 0/3
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hinh-anh-thuc-te/ | 2 | Yes |
 | /cua-hang/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /hinh-anh-thuc-te/ | 1 | Yes |
 
 ### Click Detail
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #1 | - | - | No |
-| #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #1 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #2 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -138,10 +136,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 93% | 858ms | 0.001 | ? | 656ms | 1574ms |
-| /san-pham/ | 94% | 1658ms | 0 | ? | 492ms | 440ms |
-| /danh-muc/hoa-sinh-nhat/ | 89% | 2203ms | 0 | ? | 700ms | 86ms |
+| / | 98% | 703ms | 0.032 | ? | 663ms | 549ms |
+| /san-pham/ | 98% | 1154ms | 0 | ? | 493ms | 101ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1445ms | 0 | ? | 652ms | 430ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1236ms | 0 | ? | 271ms | 403ms |
+| /amp/ | 87% | 1276ms | 0 | ? | 279ms | 64ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
