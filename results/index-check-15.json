@@ -1,7 +1,7 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-07-24T17:48:59.799Z",
-  "indexStats": "Khoảng 1.040 kết quả (0,11 giây) ",
+  "timestamp": "2026-07-25T06:29:17.359Z",
+  "indexStats": "Khoảng 953 kết quả (0,10 giây) ",
   "indexedCount": 10,
   "indexedUrls": [
     "https://hoatuoidanangnhanhi.com/",
@@ -15,10 +15,12 @@
     "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/",
     "https://hoatuoidanangnhanhi.com/theo-doi-don-hang/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/theo-doi-don-hang/",
-  "clickedPosition": 9,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
+  "clickedPosition": 2,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/theo-doi-don-hang/",
-  "landedTitle": "Theo dõi đơn hàng | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
+  "landedTitle": "Cửa hàng | Hoa Tươi Đà Nẵng",
+  "brandRank": 2
+}à Nẵng",
   "brandRank": 0
 }
