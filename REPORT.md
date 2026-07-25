@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-25T17:20:22.095Z
+**Updated:** 2026-07-25T19:33:02.525Z
 
 ## Keyword Rankings
 
@@ -8,18 +8,19 @@
 | 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
 | 2 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
 | 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 4 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 5 | mua hoa tươi đà nẵng | **#48** | 3 | 3p | hoatuoi24h.com.vn, shophoakieutrinh.com, tripi.vn |
-| 6 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 4 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, hoa10h.vn, facebook.com |
+| 5 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 6 | mua hoa tươi đà nẵng | **#48** | 3 | 3p | hoatuoi24h.com.vn, shophoakieutrinh.com, tripi.vn |
+| 7 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
 
-**Visibility:** 2/6 keywords ranking (33%)
+**Visibility:** 2/7 keywords ranking (29%)
 
-## Site Index Verification (10 runs)
+## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/10 passed
-- **Click failed:** 5/10
+- **Click verified:** 5/11 passed
+- **Click failed:** 6/11
 
 ### Pages Clicked (random distribution)
 
@@ -39,25 +40,26 @@
 | #2 | - | - | No |
 | #3 | - | - | No |
 | #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #5 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
-| #6 | - | - | No |
+| #5 | - | - | No |
+| #6 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
 | #7 | - | - | No |
-| #8 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #8 | - | - | No |
+| #9 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #10 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 3 |
+| facebook.com | 5 |
 | dienhoaxanh.com | 3 |
 | flowercorner.vn | 2 |
 | kimkieuflower.vn | 2 |
 | shophoakieutrinh.com | 2 |
 | canhdonghoatuoi.com | 1 |
+| hoa10h.vn | 1 |
 | hoatuoi24h.com.vn | 1 |
 | tripi.vn | 1 |
 | bachhoaxanh.com | 1 |
-| hoatuoidanang247.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -144,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 622ms | 1695ms |
-| /san-pham/ | N/A | ? | ? | ? | ? | ? |
-| /danh-muc/hoa-sinh-nhat/ | 89% | 2124ms | 0 | ? | 643ms | 682ms |
+| / | N/A | ? | 0 | ? | 629ms | 2079ms |
+| /san-pham/ | 98% | 1135ms | 0 | ? | 486ms | 110ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1448ms | 0 | ? | 640ms | 86ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1249ms | 0 | ? | 288ms | 94ms |
+| /amp/ | 88% | 1186ms | 0 | ? | 277ms | 66ms |
 
-**Pass rate:** 0/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
