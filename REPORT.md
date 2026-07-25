@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-25T15:25:01.455Z
+**Updated:** 2026-07-25T17:20:22.095Z
 
 ## Keyword Rankings
 
@@ -9,9 +9,10 @@
 | 2 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
 | 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 4 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 5 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 5 | mua hoa tươi đà nẵng | **#48** | 3 | 3p | hoatuoi24h.com.vn, shophoakieutrinh.com, tripi.vn |
+| 6 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
 
-**Visibility:** 1/5 keywords ranking (20%)
+**Visibility:** 2/6 keywords ranking (33%)
 
 ## Site Index Verification (10 runs)
 
@@ -51,10 +52,12 @@
 | dienhoaxanh.com | 3 |
 | flowercorner.vn | 2 |
 | kimkieuflower.vn | 2 |
+| shophoakieutrinh.com | 2 |
 | canhdonghoatuoi.com | 1 |
+| hoatuoi24h.com.vn | 1 |
+| tripi.vn | 1 |
 | bachhoaxanh.com | 1 |
 | hoatuoidanang247.com | 1 |
-| shophoakieutrinh.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -141,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 85% | 1206ms | 0.001 | ? | 712ms | 1717ms |
-| /san-pham/ | 92% | 1809ms | 0 | ? | 506ms | 499ms |
-| /danh-muc/hoa-sinh-nhat/ | 88% | 2318ms | 0 | ? | 613ms | 91ms |
+| / | N/A | ? | 0.001 | ? | 622ms | 1695ms |
+| /san-pham/ | N/A | ? | ? | ? | ? | ? |
+| /danh-muc/hoa-sinh-nhat/ | 89% | 2124ms | 0 | ? | 643ms | 682ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1239ms | 0 | ? | 263ms | 456ms |
+| /amp/ | 87% | 1249ms | 0 | ? | 288ms | 94ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 0/5 pages ≥ 90%
