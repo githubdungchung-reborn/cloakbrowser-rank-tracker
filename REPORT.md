@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-26T18:18:24.076Z
+**Updated:** 2026-07-26T20:25:14.444Z
 
 ## Keyword Rankings
 
@@ -11,11 +11,10 @@
 | 4 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
 | 5 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
 | 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
-| 7 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, hoa10h.vn, facebook.com |
-| 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, flowercorner.vn, facebook.com |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, flowercorner.vn, facebook.com |
+| 8 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
 
-**Visibility:** 2/9 keywords ranking (22%)
+**Visibility:** 2/8 keywords ranking (25%)
 
 ## Site Index Verification (13 runs)
 
@@ -54,7 +53,7 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
+| facebook.com | 3 |
 | dienhoaxanh.com | 3 |
 | flowercorner.vn | 2 |
 | kimkieuflower.vn | 2 |
@@ -62,8 +61,8 @@
 | canhdonghoatuoi.com | 1 |
 | shophoatuoidanang.vn | 1 |
 | caycanhdanang.com.vn | 1 |
-| hoa10h.vn | 1 |
 | bachhoaxanh.com | 1 |
+| shophoakieutrinh.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -150,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 659ms | 1077ms |
-| /san-pham/ | 92% | 1867ms | 0 | ? | 510ms | 249ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2431ms | 0 | ? | 624ms | 65ms |
+| / | N/A | ? | 0 | ? | 753ms | 1618ms |
+| /san-pham/ | 93% | 1799ms | 0 | ? | 533ms | 110ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2476ms | 0 | ? | 667ms | 105ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1245ms | 0 | ? | 300ms | 91ms |
+| /amp/ | 87% | 1287ms | 0 | ? | 278ms | 82ms |
 
 **Pass rate:** 1/5 pages ≥ 90%
