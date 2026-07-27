@@ -1,16 +1,12 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-07-25T15:16:58.447Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
-}"https://hoatuoidanangnhanhi.com/cua-hang/",
+  "timestamp": "2026-07-27T23:19:04.013Z",
+  "indexStats": "Khoảng 978 kết quả (0,11 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/yeu-thich/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
@@ -19,10 +15,12 @@
     "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/",
     "https://hoatuoidanangnhanhi.com/theo-doi-don-hang/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-  "clickedPosition": 5,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/",
+  "clickedPosition": 8,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-  "landedTitle": "Hàng mới về – Mẫu hoa cập nhật mới nhất tại Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/",
+  "landedTitle": "Hoa tươi | Hoa Tươi Đà Nẵng",
+  "brandRank": 0
+}Nẵng | Hoa Tươi Đà Nẵng",
   "brandRank": 2
 }
