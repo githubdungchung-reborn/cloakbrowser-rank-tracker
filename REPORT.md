@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-26T22:18:28.297Z
+**Updated:** 2026-07-27T00:19:14.841Z
 
 ## Keyword Rankings
 
@@ -10,9 +10,10 @@
 | 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 4 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
 | 5 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, flowercorner.vn, facebook.com |
-| 6 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 6 | hoa valentine đà nẵng | **#42** | 3 | 3p | danhsachshop.com, hoatuoidanangnhanhi.com, hellodanang.vn |
+| 7 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
 
-**Visibility:** 2/6 keywords ranking (33%)
+**Visibility:** 3/7 keywords ranking (43%)
 
 ## Site Index Verification (13 runs)
 
@@ -59,8 +60,8 @@
 | canhdonghoatuoi.com | 1 |
 | shophoatuoidanang.vn | 1 |
 | caycanhdanang.com.vn | 1 |
-| bachhoaxanh.com | 1 |
-| shophoakieutrinh.com | 1 |
+| danhsachshop.com | 1 |
+| hellodanang.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -147,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 630ms | 1809ms |
-| /san-pham/ | 94% | 1654ms | 0 | ? | 463ms | 110ms |
-| /danh-muc/hoa-sinh-nhat/ | 90% | 2086ms | 0 | ? | 611ms | 412ms |
+| / | 84% | 1055ms | 0.001 | ? | 678ms | 1966ms |
+| /san-pham/ | 92% | 1781ms | 0 | ? | 505ms | 420ms |
+| /danh-muc/hoa-sinh-nhat/ | 93% | 1740ms | 0 | ? | 644ms | 115ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1226ms | 0 | ? | 261ms | 572ms |
+| /amp/ | 88% | 1192ms | 0 | ? | 264ms | 59ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
