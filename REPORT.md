@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-27T12:43:31.207Z
+**Updated:** 2026-07-27T15:57:56.918Z
 
 ## Keyword Rankings
 
@@ -13,9 +13,10 @@
 | 6 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | facebook.com, facebook.com, royflower.com |
 | 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, flowercorner.vn, facebook.com |
 | 8 | hoa valentine đà nẵng | **#42** | 3 | 3p | danhsachshop.com, hoatuoidanangnhanhi.com, hellodanang.vn |
-| 9 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
 
-**Visibility:** 5/9 keywords ranking (56%)
+**Visibility:** 5/10 keywords ranking (50%)
 
 ## Site Index Verification (11 runs)
 
@@ -53,11 +54,11 @@
 | Domain | Hits |
 |--------|------|
 | facebook.com | 5 |
+| flowercorner.vn | 3 |
+| kimkieuflower.vn | 3 |
 | dienhoaxanh.com | 3 |
-| flowercorner.vn | 2 |
-| kimkieuflower.vn | 2 |
+| hoatuoidanang247.com | 3 |
 | royflower.com | 2 |
-| hoatuoidanang247.com | 2 |
 | hoaviet247.com | 1 |
 | canhdonghoatuoi.com | 1 |
 | shophoatuoidanang.vn | 1 |
@@ -148,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 714ms | 1261ms |
-| /san-pham/ | 92% | 1812ms | 0 | ? | 501ms | 106ms |
-| /danh-muc/hoa-sinh-nhat/ | 89% | 2203ms | 0 | ? | 641ms | 85ms |
+| / | 90% | 1312ms | 0.001 | ? | 736ms | 1673ms |
+| /san-pham/ | 98% | 1159ms | 0 | ? | 495ms | 190ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1422ms | 0 | ? | 636ms | 112ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1219ms | 0 | ? | 264ms | 71ms |
+| /amp/ | 87% | 1351ms | 0 | ? | 313ms | 105ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
