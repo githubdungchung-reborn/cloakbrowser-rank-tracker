@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-27T15:57:56.918Z
+**Updated:** 2026-07-27T18:02:07.049Z
 
 ## Keyword Rankings
 
@@ -29,9 +29,8 @@
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /tuyen-dung/ | 2 | Yes |
+| /tuyen-dung/ | 3 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
-| /cua-hang/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
 
 ### Click Detail
@@ -39,7 +38,7 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #1 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #1 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #2 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #3 | - | - | No |
 | #4 | - | - | No |
@@ -149,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 90% | 1312ms | 0.001 | ? | 736ms | 1673ms |
-| /san-pham/ | 98% | 1159ms | 0 | ? | 495ms | 190ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1422ms | 0 | ? | 636ms | 112ms |
+| / | 99% | 555ms | 0 | ? | 548ms | 1613ms |
+| /san-pham/ | 93% | 1666ms | 0 | ? | 494ms | 598ms |
+| /danh-muc/hoa-sinh-nhat/ | 90% | 2041ms | 0.059 | ? | 575ms | 89ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1351ms | 0 | ? | 313ms | 105ms |
+| /amp/ | 87% | 1237ms | 0 | ? | 268ms | 77ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
