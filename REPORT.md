@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-28T03:37:41.532Z
+**Updated:** 2026-07-28T06:47:45.217Z
 
 ## Keyword Rankings
 
@@ -15,21 +15,22 @@
 | 8 | hoa valentine đà nẵng | **#42** | 3 | 3p | danhsachshop.com, hoatuoidanangnhanhi.com, hellodanang.vn |
 | 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
 | 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 11 | shop hoa tươi giá rẻ đà nẵng | **#50** | 3 | 3p | hoa24h.vn, shophoamaimai.com, mrhoa.com |
 
-**Visibility:** 5/10 keywords ranking (50%)
+**Visibility:** 6/11 keywords ranking (55%)
 
 ## Site Index Verification (10 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 914 kết quả (0,18 giây) 
-- **Click verified:** 5/10 passed
-- **Click failed:** 5/10
+- **Click verified:** 4/10 passed
+- **Click failed:** 6/10
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /tuyen-dung/ | 3 | Yes |
+| /tuyen-dung/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
 | /yeu-thich/ | 1 | Yes |
 
@@ -46,7 +47,7 @@
 | #6 | - | - | No |
 | #7 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
 | #8 | - | - | No |
-| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #9 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -147,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 573ms | 2735ms |
-| /san-pham/ | 93% | 1762ms | 0 | ? | 573ms | 238ms |
-| /danh-muc/hoa-sinh-nhat/ | 85% | 2714ms | 0 | ? | 745ms | 253ms |
+| / | N/A | ? | 0 | ? | 607ms | 1643ms |
+| /san-pham/ | 91% | 1969ms | 0 | ? | 543ms | 730ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1400ms | 0 | ? | 588ms | 464ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1418ms | 0 | ? | 322ms | 221ms |
+| /amp/ | N/A | ? | ? | ? | ? | ? |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
