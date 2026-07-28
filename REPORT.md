@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-28T15:39:38.546Z
+**Updated:** 2026-07-28T17:54:57.468Z
 
 ## Keyword Rankings
 
@@ -7,24 +7,25 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
 | 2 | đặt hoa online đà nẵng | **#22** | 2 | 2p | hoaviet247.com, hoatuoidanangnhanhi.com, royflower.com |
-| 3 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
-| 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 5 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
-| 6 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | tramhoa.com, facebook.com, facebook.com |
-| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, flowercorner.vn, facebook.com |
-| 8 | hoa valentine đà nẵng | **#42** | 3 | 3p | danhsachshop.com, hoatuoidanangnhanhi.com, hellodanang.vn |
-| 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
-| 11 | shop hoa tươi giá rẻ đà nẵng | **#50** | 3 | 3p | hoa24h.vn, shophoamaimai.com, mrhoa.com |
+| 3 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
+| 4 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
+| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
+| 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
+| 7 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | tramhoa.com, facebook.com, facebook.com |
+| 8 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, flowercorner.vn, facebook.com |
+| 9 | hoa valentine đà nẵng | **#42** | 3 | 3p | danhsachshop.com, hoatuoidanangnhanhi.com, hellodanang.vn |
+| 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
+| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 12 | shop hoa tươi giá rẻ đà nẵng | **#50** | 3 | 3p | hoa24h.vn, shophoamaimai.com, mrhoa.com |
 
-**Visibility:** 6/11 keywords ranking (55%)
+**Visibility:** 6/12 keywords ranking (50%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (10 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 914 kết quả (0,18 giây) 
-- **Click verified:** 4/11 passed
-- **Click failed:** 7/11
+- **Click verified:** 4/10 passed
+- **Click failed:** 6/10
 
 ### Pages Clicked (random distribution)
 
@@ -44,16 +45,16 @@
 | #3 | - | - | No |
 | #4 | - | - | No |
 | #5 | - | - | No |
-| #6 | - | - | No |
-| #7 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
+| #6 | /yeu-thich/ | Yêu thích | Hoa Tươi Đà Nẵng | Yes |
+| #7 | - | - | No |
 | #8 | - | - | No |
 | #9 | - | - | No |
-| #10 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
 | facebook.com | 5 |
+| tramhoa.com | 4 |
 | flowercorner.vn | 3 |
 | kimkieuflower.vn | 3 |
 | dienhoaxanh.com | 3 |
@@ -62,7 +63,6 @@
 | royflower.com | 1 |
 | canhdonghoatuoi.com | 1 |
 | shophoatuoidanang.vn | 1 |
-| caycanhdanang.com.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -149,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 649ms | 2210ms |
-| /san-pham/ | 92% | 1821ms | 0 | ? | 523ms | 175ms |
-| /danh-muc/hoa-sinh-nhat/ | 86% | 2526ms | 0 | ? | 641ms | 112ms |
+| / | 95% | 628ms | 0.001 | ? | 628ms | 1914ms |
+| /san-pham/ | 93% | 1789ms | 0 | ? | 506ms | 114ms |
+| /danh-muc/hoa-sinh-nhat/ | 89% | 2149ms | 0 | ? | 626ms | 91ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1412ms | 0 | ? | 316ms | 86ms |
+| /amp/ | 87% | 1237ms | 0 | ? | 276ms | 56ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
