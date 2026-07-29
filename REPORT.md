@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-29T06:50:27.052Z
+**Updated:** 2026-07-29T09:55:07.949Z
 
 ## Keyword Rankings
 
@@ -9,17 +9,19 @@
 | 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
 | 3 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 4 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, hoatuoidanang247.com |
-| 5 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
-| 6 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 7 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
-| 8 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | tramhoa.com, facebook.com, facebook.com |
-| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 10 | hoa tươi đà nẵng | **#70** | 4 | 4p | shophoathienbinh.com, hoatuoidanang.shop, tripi.vn |
-| 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
-| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
-| 13 | shop hoa tươi giá rẻ đà nẵng | **#50** | 3 | 3p | hoa24h.vn, shophoamaimai.com, mrhoa.com |
+| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 14p | - |
+| 6 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
+| 7 | hoa cảm ơn đà nẵng | **#3** | 1 | 1p | facebook.com, canhdonghoatuoi.com, hoatuoidanangnhanhi.com |
+| 8 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
+| 9 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
+| 10 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | tramhoa.com, facebook.com, facebook.com |
+| 11 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 12 | hoa tươi đà nẵng | **#70** | 4 | 4p | shophoathienbinh.com, hoatuoidanang.shop, tripi.vn |
+| 13 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
+| 14 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
+| 15 | shop hoa tươi giá rẻ đà nẵng | **#50** | 3 | 3p | hoa24h.vn, shophoamaimai.com, mrhoa.com |
 
-**Visibility:** 5/13 keywords ranking (38%)
+**Visibility:** 5/15 keywords ranking (33%)
 
 ## Site Index Verification (6 runs)
 
@@ -51,15 +53,15 @@
 | Domain | Hits |
 |--------|------|
 | facebook.com | 7 |
+| canhdonghoatuoi.com | 5 |
 | flowercorner.vn | 4 |
 | tramhoa.com | 4 |
 | hoatuoidanang247.com | 4 |
 | kimkieuflower.vn | 3 |
-| canhdonghoatuoi.com | 3 |
 | dienhoaxanh.com | 3 |
+| hoadanang.vn | 1 |
 | shophoatuoidanang.vn | 1 |
 | caycanhdanang.com.vn | 1 |
-| shophoathienbinh.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -146,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 90% | 1439ms | 0.001 | ? | 665ms | 708ms |
-| /san-pham/ | 95% | 1559ms | 0.001 | ? | 489ms | 112ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2454ms | 0.001 | ? | 573ms | 77ms |
+| / | 95% | 786ms | 0.001 | ? | 613ms | 1678ms |
+| /san-pham/ | 93% | 1735ms | 0 | ? | 480ms | 108ms |
+| /danh-muc/hoa-sinh-nhat/ | 89% | 2132ms | 0 | ? | 613ms | 85ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1192ms | 0 | ? | 264ms | 62ms |
+| /amp/ | 88% | 1170ms | 0 | ? | 257ms | 57ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
