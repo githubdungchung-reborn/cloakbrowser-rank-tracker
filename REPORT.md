@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-30T12:09:43.378Z
+**Updated:** 2026-07-30T14:36:30.262Z
 
 ## Keyword Rankings
 
@@ -24,12 +24,12 @@
 
 **Visibility:** 7/16 keywords ranking (44%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 839 kết quả (0,28 giây) 
-- **Click verified:** 8/11 passed
-- **Click failed:** 3/11
+- **Click verified:** 7/9 passed
+- **Click failed:** 2/9
 
 ### Pages Clicked (random distribution)
 
@@ -40,7 +40,6 @@
 | /hang-moi-ve/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
-| /theo-doi-don-hang/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 
 ### Click Detail
@@ -53,11 +52,9 @@
 | #3 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #4 | - | - | No |
 | #5 | - | - | No |
-| #6 | - | - | No |
-| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #8 | /theo-doi-don-hang/ | Theo dõi đơn hàng | Hoa Tươi Đà Nẵng | Yes |
-| #9 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
-| #10 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
+| #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #7 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #8 | /lien-he/ | Liên hệ và hỗ trợ đặt hoa | Hoa Tươi Đà  | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -158,10 +155,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 677ms | 1774ms |
-| /san-pham/ | 93% | 1767ms | 0 | ? | 487ms | 102ms |
-| /danh-muc/hoa-sinh-nhat/ | 92% | 1876ms | 0 | ? | 646ms | 57ms |
+| / | 87% | 726ms | 0.001 | ? | 726ms | 1512ms |
+| /san-pham/ | 93% | 1732ms | 0 | ? | 499ms | 203ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2481ms | 0 | ? | 649ms | 638ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1210ms | 0 | ? | 266ms | 83ms |
+| /amp/ | 88% | 1189ms | 0 | ? | 270ms | 61ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
