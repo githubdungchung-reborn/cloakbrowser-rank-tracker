@@ -1,28 +1,26 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-30T03:28:30.832Z
+**Updated:** 2026-07-30T06:46:00.865Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, kimkieuflower.vn |
-| 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
-| 3 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 4 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, hoatuoidanang247.com |
-| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 14p | - |
-| 6 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
-| 7 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
-| 8 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 9 | hoa hồng đà nẵng | **#28** | 2 | 2p | canhdonghoatuoi.com, laodong.vn, hoavada.com |
-| 10 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
-| 11 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | tramhoa.com, facebook.com, facebook.com |
-| 12 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 13 | hoa tươi đà nẵng | **#70** | 4 | 4p | shophoathienbinh.com, hoatuoidanang.shop, tripi.vn |
-| 14 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
-| 15 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, shophoakieutrinh.com |
-| 16 | shop hoa tươi giá rẻ đà nẵng | **#46** | 3 | 3p | hongtamflower.com, shophoathienbinh.com, linhflower.com |
+| 1 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, kimkieuflower.vn |
+| 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
+| 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, hoatuoidanang247.com |
+| 4 | hoa 20/10 đà nẵng | NOT FOUND | - | 14p | - |
+| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, canhdonghoatuoi.com, hoadanang.vn |
+| 6 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
+| 7 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
+| 8 | hoa hồng đà nẵng | **#28** | 2 | 2p | canhdonghoatuoi.com, laodong.vn, hoavada.com |
+| 9 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
+| 10 | hoa sinh nhật đà nẵng | **#27** | 2 | 2p | tramhoa.com, facebook.com, facebook.com |
+| 11 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 12 | hoa tươi đà nẵng | **#70** | 4 | 4p | shophoathienbinh.com, hoatuoidanang.shop, tripi.vn |
+| 13 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, kimkieuflower.vn |
+| 14 | shop hoa tươi giá rẻ đà nẵng | **#46** | 3 | 3p | hongtamflower.com, shophoathienbinh.com, linhflower.com |
 
-**Visibility:** 6/16 keywords ranking (38%)
+**Visibility:** 6/14 keywords ranking (43%)
 
 ## Site Index Verification (10 runs)
 
@@ -59,13 +57,13 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 7 |
+| facebook.com | 6 |
 | canhdonghoatuoi.com | 6 |
-| flowercorner.vn | 4 |
 | tramhoa.com | 4 |
-| hoatuoidanang247.com | 4 |
-| kimkieuflower.vn | 3 |
+| flowercorner.vn | 3 |
+| hoatuoidanang247.com | 3 |
 | dienhoaxanh.com | 3 |
+| kimkieuflower.vn | 2 |
 | shophoathienbinh.com | 2 |
 | hoadanang.vn | 1 |
 | shophoamaimai.com | 1 |
@@ -155,10 +153,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 96% | 793ms | 0.001 | ? | 728ms | 1534ms |
-| /san-pham/ | 97% | 1266ms | 0 | ? | 590ms | 166ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1348ms | 0 | ? | 598ms | 94ms |
+| / | N/A | ? | 0 | ? | 526ms | 1253ms |
+| /san-pham/ | 93% | 1714ms | 0 | ? | 495ms | 123ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2448ms | 0 | ? | 619ms | 106ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1366ms | 0 | ? | 316ms | 517ms |
+| /amp/ | 88% | 1195ms | 0 | ? | 259ms | 71ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 1/5 pages ≥ 90%
