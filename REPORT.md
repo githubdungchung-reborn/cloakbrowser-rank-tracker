@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-07-31T20:51:56.871Z
+**Updated:** 2026-07-31T22:21:44.452Z
 
 ## Keyword Rankings
 
@@ -14,18 +14,18 @@
 | 7 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
 | 8 | hoa sinh nhật đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, facebook.com, facebook.com |
 | 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 10 | mua hoa tươi đà nẵng | **#46** | 3 | 3p | vietflorist.vn, shophoakieutrinh.com, hoatuoi24h.com.vn |
+| 10 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | facebook.com, kimkieuflower.vn, bachhoaxanh.com |
 | 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, facebook.com |
 | 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
 
-**Visibility:** 4/12 keywords ranking (33%)
+**Visibility:** 3/12 keywords ranking (25%)
 
-## Site Index Verification (7 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** Khoảng 1.040 kết quả (0,14 giây) 
-- **Click verified:** 2/7 passed
-- **Click failed:** 5/7
+- **Click verified:** 2/6 passed
+- **Click failed:** 4/6
 
 ### Pages Clicked (random distribution)
 
@@ -42,23 +42,22 @@
 | #1 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #2 | - | - | No |
 | #3 | - | - | No |
-| #4 | - | - | No |
-| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #6 | - | - | No |
+| #4 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #5 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 8 |
+| facebook.com | 9 |
 | hoatuoidanang247.com | 4 |
 | flowercorner.vn | 3 |
 | tramhoa.com | 3 |
 | dienhoaxanh.com | 3 |
 | caycanhdanang.com.vn | 3 |
+| kimkieuflower.vn | 2 |
 | canhdonghoatuoi.com | 2 |
-| kimkieuflower.vn | 1 |
+| bachhoaxanh.com | 2 |
 | mytour.vn | 1 |
-| hongtamflower.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -145,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 630ms | 1606ms |
-| /san-pham/ | 98% | 1133ms | 0 | ? | 486ms | 135ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1394ms | 0 | ? | 620ms | 91ms |
+| / | 91% | 863ms | 0.001 | ? | 655ms | 2038ms |
+| /san-pham/ | 93% | 1685ms | 0 | ? | 467ms | 333ms |
+| /danh-muc/hoa-sinh-nhat/ | 87% | 2449ms | 0 | ? | 636ms | 155ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1220ms | 0 | ? | 288ms | 493ms |
+| /amp/ | 86% | 1403ms | 0 | ? | 322ms | 108ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
