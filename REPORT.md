@@ -1,20 +1,21 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-01T18:16:34.968Z
+**Updated:** 2026-08-01T20:24:29.999Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 2 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, hoatuoidanang247.com |
-| 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
-| 4 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
-| 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
-| 7 | hoa sinh nhật đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, facebook.com, facebook.com |
-| 8 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
+| 1 | đặt hoa online đà nẵng | **#23** | 2 | 2p | hoaviet247.com, royflower.com, hoatuoidanangnhanhi.com |
+| 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
+| 3 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, facebook.com, hoatuoidanang247.com |
+| 4 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
+| 5 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
+| 6 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 7 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
+| 8 | hoa sinh nhật đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, facebook.com, facebook.com |
+| 9 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
 
-**Visibility:** 4/8 keywords ranking (50%)
+**Visibility:** 5/9 keywords ranking (56%)
 
 ## Site Index Verification (1 runs)
 
@@ -44,10 +45,10 @@
 | caycanhdanang.com.vn | 3 |
 | flowercorner.vn | 2 |
 | hoatuoidanang247.com | 2 |
+| hoaviet247.com | 1 |
+| royflower.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
-| shophoatuoidanang.vn | 1 |
-| canhdonghoatuoi.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -134,10 +135,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 544ms | 106ms |
-| /san-pham/ | N/A | ? | ? | ? | ? | ? |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2419ms | 0 | ? | 654ms | 137ms |
+| / | 98% | 686ms | 0.001 | ? | 609ms | 1251ms |
+| /san-pham/ | 93% | 1734ms | 0 | ? | 512ms | 599ms |
+| /danh-muc/hoa-sinh-nhat/ | 89% | 2186ms | 0.039 | ? | 569ms | 75ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1374ms | 0 | ? | 319ms | 127ms |
+| /amp/ | 88% | 1189ms | 0 | ? | 269ms | 60ms |
 
-**Pass rate:** 0/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
