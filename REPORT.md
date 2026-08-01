@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-01T12:18:36.904Z
+**Updated:** 2026-08-01T14:48:13.810Z
 
 ## Keyword Rankings
 
@@ -13,40 +13,35 @@
 | 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
 | 7 | hoa sinh nhật đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, facebook.com, facebook.com |
 | 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, facebook.com |
-| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, facebook.com |
+| 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, bachhoaxanh.com |
 
-**Visibility:** 3/10 keywords ranking (30%)
+**Visibility:** 3/9 keywords ranking (33%)
 
-## Site Index Verification (5 runs)
+## Site Index Verification (1 runs)
 
-- **Indexed pages found:** 0
-- **Index stats:** Khoảng 1.040 kết quả (0,14 giây) 
-- **Click verified:** 2/5 passed
-- **Click failed:** 3/5
+- **Indexed pages found:** 10
+- **Index stats:** Khoảng 914 kết quả (0,18 giây) 
+- **Click verified:** 1/1 passed
+- **Click failed:** 0/1
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /chinh-sach-thanh-toan/ | 2 | Yes |
+| /chinh-sach-thanh-toan/ | 1 | Yes |
 
 ### Click Detail
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | - | - | No |
-| #1 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #2 | - | - | No |
-| #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #4 | - | - | No |
+| #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 7 |
-| hoatuoidanang247.com | 4 |
+| facebook.com | 5 |
 | tramhoa.com | 3 |
+| hoatuoidanang247.com | 3 |
 | dienhoaxanh.com | 3 |
 | caycanhdanang.com.vn | 3 |
 | flowercorner.vn | 2 |
@@ -140,10 +135,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 98% | 551ms | 0 | ? | 551ms | 1668ms |
-| /san-pham/ | 99% | 842ms | 0 | ? | 490ms | 225ms |
-| /danh-muc/hoa-sinh-nhat/ | 95% | 1443ms | 0.002 | ? | 586ms | 146ms |
+| / | 96% | 714ms | 0.001 | ? | 673ms | 1508ms |
+| /san-pham/ | 93% | 1785ms | 0 | ? | 488ms | 110ms |
+| /danh-muc/hoa-sinh-nhat/ | 88% | 2355ms | 0 | ? | 595ms | 73ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1345ms | 0 | ? | 312ms | 108ms |
+| /amp/ | 88% | 1186ms | 0 | ? | 255ms | 54ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
