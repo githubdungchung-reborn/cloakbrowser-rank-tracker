@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-01T22:17:12.585Z
+**Updated:** 2026-08-01T23:18:23.381Z
 
 ## Keyword Rankings
 
@@ -18,12 +18,12 @@
 
 **Visibility:** 6/10 keywords ranking (60%)
 
-## Site Index Verification (1 runs)
+## Site Index Verification (2 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 914 kết quả (0,18 giây) 
-- **Click verified:** 1/1 passed
-- **Click failed:** 0/1
+- **Click verified:** 1/2 passed
+- **Click failed:** 1/2
 
 ### Pages Clicked (random distribution)
 
@@ -36,6 +36,7 @@
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
 | #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #1 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -136,10 +137,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 82% | 701ms | 0.001 | ? | 661ms | 458ms |
-| /san-pham/ | 93% | 1768ms | 0 | ? | 529ms | 111ms |
-| /danh-muc/hoa-sinh-nhat/ | 89% | 2155ms | 0 | ? | 621ms | 55ms |
+| / | N/A | ? | 0 | ? | 661ms | 1426ms |
+| /san-pham/ | 99% | 876ms | 0 | ? | 508ms | 840ms |
+| /danh-muc/hoa-sinh-nhat/ | 86% | 2599ms | 0 | ? | 619ms | 112ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1279ms | 0 | ? | 275ms | 68ms |
+| /amp/ | 87% | 1251ms | 0 | ? | 272ms | 84ms |
 
 **Pass rate:** 1/5 pages ≥ 90%
