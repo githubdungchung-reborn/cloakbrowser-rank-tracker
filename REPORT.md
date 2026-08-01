@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-01T14:48:13.810Z
+**Updated:** 2026-08-01T16:18:46.714Z
 
 ## Keyword Rankings
 
@@ -12,10 +12,10 @@
 | 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 6 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
 | 7 | hoa sinh nhật đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, facebook.com, facebook.com |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 8 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
 | 9 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, bachhoaxanh.com |
 
-**Visibility:** 3/9 keywords ranking (33%)
+**Visibility:** 4/9 keywords ranking (44%)
 
 ## Site Index Verification (1 runs)
 
@@ -39,16 +39,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
+| facebook.com | 4 |
 | tramhoa.com | 3 |
+| flowercorner.vn | 3 |
 | hoatuoidanang247.com | 3 |
 | dienhoaxanh.com | 3 |
 | caycanhdanang.com.vn | 3 |
-| flowercorner.vn | 2 |
-| canhdonghoatuoi.com | 2 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
 | shophoatuoidanang.vn | 1 |
+| canhdonghoatuoi.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -135,10 +135,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 96% | 714ms | 0.001 | ? | 673ms | 1508ms |
-| /san-pham/ | 93% | 1785ms | 0 | ? | 488ms | 110ms |
-| /danh-muc/hoa-sinh-nhat/ | 88% | 2355ms | 0 | ? | 595ms | 73ms |
+| / | N/A | ? | 0.001 | ? | 693ms | 1559ms |
+| /san-pham/ | 93% | 1752ms | 0 | ? | 489ms | 112ms |
+| /danh-muc/hoa-sinh-nhat/ | 90% | 2040ms | 0 | ? | 598ms | 56ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1186ms | 0 | ? | 255ms | 54ms |
+| /amp/ | 88% | 1173ms | 0 | ? | 260ms | 59ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
