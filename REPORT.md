@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-02T09:27:24.382Z
+**Updated:** 2026-08-02T11:39:51.345Z
 
 ## Keyword Rankings
 
@@ -14,10 +14,10 @@
 | 7 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
 | 8 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 9 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
-| 10 | hoa sinh nhật đà nẵng | **#21** | 2 | 2p | hoatuoidanangnhanhi.com, facebook.com, facebook.com |
-| 11 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
+| 10 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
+| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 7/11 keywords ranking (64%)
+**Visibility:** 6/11 keywords ranking (55%)
 
 ## Site Index Verification (2 runs)
 
@@ -42,12 +42,12 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
 | tramhoa.com | 3 |
+| facebook.com | 3 |
+| hoatuoidanang247.com | 3 |
 | dienhoaxanh.com | 3 |
 | caycanhdanang.com.vn | 3 |
 | flowercorner.vn | 2 |
-| hoatuoidanang247.com | 2 |
 | canhdonghoatuoi.com | 2 |
 | tiemhoanang.com | 1 |
 | hoatuoimocviet.com | 1 |
@@ -138,10 +138,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 617ms | 1317ms |
-| /san-pham/ | 99% | 843ms | 0 | ? | 491ms | 110ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2439ms | 0.003 | ? | 645ms | 117ms |
+| / | N/A | ? | 0 | ? | 643ms | 1487ms |
+| /san-pham/ | 99% | 897ms | 0 | ? | 547ms | 675ms |
+| /danh-muc/hoa-sinh-nhat/ | 92% | 1834ms | 0 | ? | 646ms | 93ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1310ms | 0 | ? | 304ms | 598ms |
+| /amp/ | 87% | 1322ms | 0 | ? | 285ms | 81ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
