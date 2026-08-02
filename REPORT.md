@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-02T19:32:24.493Z
+**Updated:** 2026-08-02T21:15:51.520Z
 
 ## Keyword Rankings
 
@@ -13,19 +13,18 @@
 | 6 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | dienhoaxanh.com, dienhoaxanh.com, dienhoaxanh.com |
 | 7 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
 | 8 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
-| 9 | hoa lan hồ điệp đà nẵng | **#30** | 2 | 2p | shophoatuoidanang.vn, hoatuoidanang247.com, caycanhdanang.com.vn |
-| 10 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
-| 11 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, facebook.com |
-| 12 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
+| 9 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
+| 10 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, facebook.com |
+| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 7/12 keywords ranking (58%)
+**Visibility:** 6/11 keywords ranking (55%)
 
-## Site Index Verification (4 runs)
+## Site Index Verification (5 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 0/4 passed
-- **Click failed:** 4/4
+- **Click verified:** 0/5 passed
+- **Click failed:** 5/5
 
 ### Pages Clicked (random distribution)
 
@@ -40,6 +39,7 @@
 | #1 | - | - | No |
 | #2 | - | - | No |
 | #3 | - | - | No |
+| #4 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -48,12 +48,12 @@
 | tramhoa.com | 4 |
 | canhdonghoatuoi.com | 3 |
 | dienhoaxanh.com | 3 |
-| caycanhdanang.com.vn | 3 |
 | flowercorner.vn | 2 |
-| hoatuoidanang247.com | 2 |
+| caycanhdanang.com.vn | 2 |
 | tiemhoanang.com | 1 |
 | hoatuoimocviet.com | 1 |
 | hoadanang.vn | 1 |
+| hoaviet247.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -140,10 +140,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 547ms | 2107ms |
-| /san-pham/ | 93% | 1711ms | 0 | ? | 494ms | 186ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2405ms | 0 | ? | 618ms | 157ms |
+| / | N/A | ? | 0 | ? | 689ms | 1883ms |
+| /san-pham/ | 93% | 1731ms | 0 | ? | 479ms | 633ms |
+| /danh-muc/hoa-sinh-nhat/ | 89% | 2124ms | 0.029 | ? | 631ms | 91ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1325ms | 0 | ? | 312ms | 90ms |
+| /amp/ | 87% | 1300ms | 0 | ? | 275ms | 73ms |
 
 **Pass rate:** 1/5 pages ≥ 90%
