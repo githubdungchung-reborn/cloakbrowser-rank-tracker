@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-02T23:14:48.469Z
+**Updated:** 2026-08-03T00:20:51.602Z
 
 ## Keyword Rankings
 
@@ -14,17 +14,16 @@
 | 7 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
 | 8 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 9 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, flowercorner.vn, tiktok.com |
-| 10 | hoa valentine đà nẵng | **#13** | 1 | 1p | canhdonghoatuoi.com, facebook.com, facebook.com |
-| 11 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
+| 10 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | bachhoaxanh.com, hoatuoidanang247.com, kimkieuflower.vn |
 
-**Visibility:** 6/11 keywords ranking (55%)
+**Visibility:** 5/10 keywords ranking (50%)
 
-## Site Index Verification (5 runs)
+## Site Index Verification (6 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 0/5 passed
-- **Click failed:** 5/5
+- **Click verified:** 0/6 passed
+- **Click failed:** 6/6
 
 ### Pages Clicked (random distribution)
 
@@ -40,15 +39,16 @@
 | #2 | - | - | No |
 | #3 | - | - | No |
 | #4 | - | - | No |
+| #5 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
 | tramhoa.com | 4 |
-| canhdonghoatuoi.com | 3 |
+| facebook.com | 3 |
 | dienhoaxanh.com | 3 |
 | flowercorner.vn | 2 |
+| canhdonghoatuoi.com | 2 |
 | caycanhdanang.com.vn | 2 |
 | tiemhoanang.com | 1 |
 | hoatuoimocviet.com | 1 |
@@ -140,10 +140,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 741ms | 0.002 | ? | 698ms | 1612ms |
-| /san-pham/ | 93% | 1767ms | 0 | ? | 492ms | 170ms |
-| /danh-muc/hoa-sinh-nhat/ | 88% | 2353ms | 0 | ? | 617ms | 80ms |
+| / | 95% | 620ms | 0.001 | ? | 620ms | 1964ms |
+| /san-pham/ | 94% | 1607ms | 0 | ? | 475ms | 630ms |
+| /danh-muc/hoa-sinh-nhat/ | 89% | 2158ms | 0 | ? | 617ms | 98ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1180ms | 0 | ? | 258ms | 57ms |
+| /amp/ | 88% | 1215ms | 0 | ? | 269ms | 423ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
