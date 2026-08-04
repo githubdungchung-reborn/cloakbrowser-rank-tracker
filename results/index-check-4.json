@@ -1,16 +1,12 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-08-01T10:08:09.900Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
-}  "https://hoatuoidanangnhanhi.com/cua-hang/",
+  "timestamp": "2026-08-04T23:16:17.798Z",
+  "indexStats": "Khoảng 837 kết quả (0,23 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/yeu-thich/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/danh-muc/",
@@ -19,10 +15,12 @@
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-  "clickedPosition": 3,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/",
+  "clickedPosition": 9,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-  "landedTitle": "Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "landedUrl": "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/",
+  "landedTitle": "Hoa tươi | Hoa Tươi Đà Nẵng",
+  "brandRank": 0
+}",
   "brandRank": 0
 }
