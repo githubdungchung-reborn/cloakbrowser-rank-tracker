@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-04T15:47:01.319Z
+**Updated:** 2026-08-04T18:09:27.163Z
 
 ## Keyword Rankings
 
@@ -12,8 +12,9 @@
 | 5 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 6 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, tiktok.com, tiktok.com |
 | 7 | hoa valentine đà nẵng | **#49** | 3 | 3p | royflower.com, hoatuoitoancau.com, hoadepdanang.id.vn |
+| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
 
-**Visibility:** 5/7 keywords ranking (71%)
+**Visibility:** 5/8 keywords ranking (63%)
 
 ## Site Index Verification (9 runs)
 
@@ -47,8 +48,8 @@
 | Domain | Hits |
 |--------|------|
 | tramhoa.com | 3 |
+| facebook.com | 3 |
 | royflower.com | 2 |
-| facebook.com | 2 |
 | canhdonghoatuoi.com | 2 |
 | caycanhdanang.com.vn | 2 |
 | tiktok.com | 2 |
@@ -142,10 +143,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 88% | 962ms | 0.016 | ? | 685ms | 1187ms |
-| /san-pham/ | 93% | 1746ms | 0 | ? | 483ms | 140ms |
-| /danh-muc/hoa-sinh-nhat/ | 93% | 1721ms | 0 | ? | 620ms | 72ms |
+| / | 96% | 641ms | 0.016 | ? | 641ms | 96ms |
+| /san-pham/ | 97% | 1229ms | 0 | ? | 482ms | 144ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1273ms | 0.001 | ? | 581ms | 624ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1282ms | 0 | ? | 277ms | 502ms |
+| /amp/ | 86% | 1387ms | 0 | ? | 327ms | 102ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
