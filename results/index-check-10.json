@@ -1,27 +1,13 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-08-04T09:48:06.086Z",
-  "indexStats": "Khoảng 838 kết quả (0,12 giây) ",
-  "indexedCount": 10,
-  "indexedUrls": [
-    "https://hoatuoidanangnhanhi.com/",
-    "https://hoatuoidanangnhanhi.com/yeu-thich/",
-    "https://hoatuoidanangnhanhi.com/cua-hang/",
-    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-    "https://hoatuoidanangnhanhi.com/lien-he/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/",
-    "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/"
-  ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
-  "clickedPosition": 2,
-  "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
-  "landedTitle": "Cửa hàng | Hoa Tươi Đà Nẵng",
+  "timestamp": "2026-08-05T17:51:40.009Z",
+  "indexStats": "N/A",
+  "indexedCount": 0,
+  "indexedUrls": [],
+  "clickedUrl": "",
+  "clickedPosition": -1,
+  "clickVerified": false,
+  "landedUrl": "",
+  "landedTitle": "",
   "brandRank": 0
-}ndRank": 0
-}"brandRank": 3
-}dRank": 0
 }
