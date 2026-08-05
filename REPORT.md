@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-05T09:56:40.255Z
+**Updated:** 2026-08-05T12:28:27.251Z
 
 ## Keyword Rankings
 
@@ -10,23 +10,23 @@
 | 3 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
 | 4 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 5 | hoa tulip đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, tiktok.com, tiktok.com |
-| 6 | hoa valentine đà nẵng | **#49** | 3 | 3p | royflower.com, hoatuoitoancau.com, hoadepdanang.id.vn |
-| 7 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
+| 6 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
 
-**Visibility:** 4/7 keywords ranking (57%)
+**Visibility:** 3/6 keywords ranking (50%)
 
 ## Site Index Verification (10 runs)
 
-- **Indexed pages found:** 0
-- **Index stats:** N/A
-- **Click verified:** 4/10 passed
-- **Click failed:** 6/10
+- **Indexed pages found:** 10
+- **Index stats:** Khoảng 944 kết quả (0,12 giây) 
+- **Click verified:** 5/10 passed
+- **Click failed:** 5/10
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /cua-hang/ | 2 | Yes |
+| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 
@@ -34,7 +34,7 @@
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | - | - | No |
+| #0 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #1 | - | - | No |
 | #2 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #3 | - | - | No |
@@ -49,15 +49,15 @@
 | Domain | Hits |
 |--------|------|
 | tramhoa.com | 3 |
-| royflower.com | 2 |
 | facebook.com | 2 |
 | caycanhdanang.com.vn | 2 |
 | tiktok.com | 2 |
 | hoaviet247.com | 1 |
+| royflower.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
 | canhdonghoatuoi.com | 1 |
-| hoatuoitoancau.com | 1 |
+| hoatuoidanang247.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -144,10 +144,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 82% | 1749ms | 0.001 | ? | 680ms | 1550ms |
-| /san-pham/ | 99% | 842ms | 0 | ? | 491ms | 180ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1977ms | 0 | ? | 620ms | 61ms |
+| / | N/A | ? | 0.001 | ? | 723ms | 62ms |
+| /san-pham/ | 98% | 1165ms | 0 | ? | 496ms | 121ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1303ms | 0 | ? | 648ms | 111ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1184ms | 0 | ? | 257ms | 122ms |
+| /amp/ | 87% | 1269ms | 0 | ? | 287ms | 66ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
