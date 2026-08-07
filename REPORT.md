@@ -1,27 +1,26 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-07T00:20:27.545Z
+**Updated:** 2026-08-07T04:12:52.602Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa online đà nẵng | **#23** | 2 | 2p | hoaviet247.com, royflower.com, hoatuoidanangnhanhi.com |
-| 2 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 3 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | facebook.com, canhdonghoatuoi.com, shophoadanang.com |
-| 4 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
-| 5 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
-| 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 7 | hoa tươi đà nẵng | **#64** | 4 | 4p | vietflorist.vn, thanhpho.danang.vn, thanhcongflower.com |
-| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
+| 1 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
+| 2 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | facebook.com, canhdonghoatuoi.com, shophoadanang.com |
+| 3 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
+| 4 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
+| 5 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 6 | hoa tươi đà nẵng | **#64** | 4 | 4p | vietflorist.vn, thanhpho.danang.vn, thanhcongflower.com |
+| 7 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
 
-**Visibility:** 5/8 keywords ranking (63%)
+**Visibility:** 4/7 keywords ranking (57%)
 
 ## Site Index Verification (9 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 902 kết quả (0,12 giây) 
-- **Click verified:** 3/9 passed
-- **Click failed:** 6/9
+- **Click verified:** 4/9 passed
+- **Click failed:** 5/9
 
 ### Pages Clicked (random distribution)
 
@@ -29,6 +28,7 @@
 |-----------|---------------|----------|
 | / | 2 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
@@ -42,7 +42,7 @@
 | #5 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
 | #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #7 | - | - | No |
-| #8 | - | - | No |
+| #8 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 
 ## Top Competitors
 | Domain | Hits |
@@ -50,13 +50,13 @@
 | canhdonghoatuoi.com | 4 |
 | tramhoa.com | 3 |
 | facebook.com | 3 |
-| hoaviet247.com | 1 |
-| royflower.com | 1 |
 | shophoadanang.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
 | hoavada.com | 1 |
 | tiemhoadanang.com | 1 |
+| vietflorist.vn | 1 |
+| thanhpho.danang.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -143,10 +143,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 547ms | 1557ms |
-| /san-pham/ | 97% | 1250ms | 0 | ? | 611ms | 293ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1374ms | 0 | ? | 671ms | 168ms |
+| / | 95% | 710ms | 0.001 | ? | 670ms | 1487ms |
+| /san-pham/ | 97% | 1187ms | 0 | ? | 515ms | 664ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1349ms | 0 | ? | 619ms | 92ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1262ms | 0 | ? | 301ms | 175ms |
+| /amp/ | 88% | 1216ms | 0 | ? | 270ms | 59ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
