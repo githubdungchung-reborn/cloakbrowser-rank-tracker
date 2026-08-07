@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-07T17:17:34.424Z
+**Updated:** 2026-08-07T18:09:17.235Z
 
 ## Keyword Rankings
 
@@ -8,7 +8,7 @@
 | 1 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
 | 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, kimkieuflower.vn |
-| 4 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | facebook.com, canhdonghoatuoi.com, shophoadanang.com |
+| 4 | hoa cảm ơn đà nẵng | **#5** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
 | 6 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
 | 7 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
@@ -63,7 +63,7 @@
 | kimkieuflower.vn | 3 |
 | flowercorner.vn | 2 |
 | hoadanang.vn | 1 |
-| shophoadanang.com | 1 |
+| shophoamaimai.com | 1 |
 | dienhoaxanh.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
@@ -153,10 +153,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 92% | 793ms | 0.016 | ? | 746ms | 1926ms |
-| /san-pham/ | 93% | 1694ms | 0 | ? | 637ms | 147ms |
-| /danh-muc/hoa-sinh-nhat/ | 90% | 2013ms | 0 | ? | 689ms | 108ms |
+| / | 93% | 740ms | 0.001 | ? | 700ms | 1395ms |
+| /san-pham/ | 99% | 835ms | 0 | ? | 486ms | 152ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1338ms | 0.001 | ? | 649ms | 646ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1464ms | 0 | ? | 349ms | 90ms |
+| /amp/ | 87% | 1256ms | 0 | ? | 283ms | 75ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
