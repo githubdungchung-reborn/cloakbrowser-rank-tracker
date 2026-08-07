@@ -1,16 +1,12 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-08-06T09:47:44.115Z",
-  "indexStats": "N/A",
-  "indexedCount": 0,
-  "indexedUrls": [],
-  "clickedUrl": "",
-  "clickedPosition": -1,
-  "clickVerified": false,
-  "landedUrl": "",
-  "landedTitle": "",
-  "brandRank": 0
-}"https://hoatuoidanangnhanhi.com/cua-hang/",
+  "timestamp": "2026-08-07T05:50:16.049Z",
+  "indexStats": "Khoảng 837 kết quả (0,15 giây) ",
+  "indexedCount": 10,
+  "indexedUrls": [
+    "https://hoatuoidanangnhanhi.com/",
+    "https://hoatuoidanangnhanhi.com/yeu-thich/",
+    "https://hoatuoidanangnhanhi.com/cua-hang/",
     "https://hoatuoidanangnhanhi.com/tuyen-dung/",
     "https://hoatuoidanangnhanhi.com/lien-he/",
     "https://hoatuoidanangnhanhi.com/danh-muc/",
@@ -19,10 +15,10 @@
     "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
     "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/"
   ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
-  "clickedPosition": 2,
+  "clickedUrl": "https://hoatuoidanangnhanhi.com/",
+  "clickedPosition": 0,
   "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/cua-hang/",
-  "landedTitle": "Cửa hàng | Hoa Tươi Đà Nẵng",
-  "brandRank": 3
+  "landedUrl": "https://hoatuoidanangnhanhi.com/",
+  "landedTitle": "Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng",
+  "brandRank": 2
 }
