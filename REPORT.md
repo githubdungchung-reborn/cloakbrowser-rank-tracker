@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-07T12:07:41.706Z
+**Updated:** 2026-08-07T13:43:35.280Z
 
 ## Keyword Rankings
 
@@ -16,20 +16,20 @@
 
 **Visibility:** 3/8 keywords ranking (38%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 10
 - **Index stats:** Khoảng 902 kết quả (0,12 giây) 
-- **Click verified:** 5/11 passed
-- **Click failed:** 6/11
+- **Click verified:** 6/12 passed
+- **Click failed:** 6/12
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | / | 2 | Yes |
+| /tuyen-dung/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
-| /tuyen-dung/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 
 ### Click Detail
@@ -45,8 +45,9 @@
 | #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #7 | - | - | No |
 | #8 | - | - | No |
-| #9 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #10 | - | - | No |
+| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #10 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #11 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -147,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 635ms | 1818ms |
-| /san-pham/ | 100% | 821ms | 0 | ? | 517ms | 142ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1349ms | 0 | ? | 631ms | 54ms |
+| / | 78% | 775ms | 0.016 | ? | 765ms | 1625ms |
+| /san-pham/ | 97% | 1264ms | 0 | ? | 500ms | 102ms |
+| /danh-muc/hoa-sinh-nhat/ | 94% | 1579ms | 0 | ? | 612ms | 475ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1175ms | 0 | ? | 250ms | 58ms |
+| /amp/ | 88% | 1220ms | 0 | ? | 259ms | 529ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
