@@ -1,14 +1,16 @@
 [
   {
     "keyword": "hoa hồng đà nẵng",
-    "position": 27,
-    "page": 2,
-    "topCompetitors": [
-      "canhdonghoatuoi.com",
-      "hoavada.com",
-      "tiemhoadanang.com"
-    ],
-    "pagesSearched": 2,
-    "timestamp": "2026-08-05T17:51:28.382Z"
+    "position": -1,
+    "status": "captcha",
+    "pagesSearched": 1,
+    "timestamp": "2026-08-07T22:51:35.388Z"
+  },
+  {
+    "keyword": "hoa hồng đà nẵng",
+    "position": -1,
+    "topCompetitors": [],
+    "pagesSearched": 50,
+    "timestamp": "2026-08-07T22:51:35.388Z"
   }
 ]

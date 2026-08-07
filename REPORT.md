@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-07T22:03:23.022Z
+**Updated:** 2026-08-07T22:59:29.641Z
 
 ## Keyword Rankings
 
@@ -11,14 +11,15 @@
 | 4 | hoa cảm ơn đà nẵng | **#5** | 1 | 1p | shophoamaimai.com, facebook.com, canhdonghoatuoi.com |
 | 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
 | 6 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
-| 7 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
-| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
-| 11 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 7 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
+| 8 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
+| 9 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 10 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 11 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
+| 12 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 13 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 3/12 keywords ranking (25%)
+**Visibility:** 2/13 keywords ranking (15%)
 
 ## Site Index Verification (14 runs)
 
@@ -59,7 +60,7 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| canhdonghoatuoi.com | 6 |
+| canhdonghoatuoi.com | 5 |
 | facebook.com | 5 |
 | tramhoa.com | 3 |
 | kimkieuflower.vn | 3 |
@@ -68,7 +69,7 @@
 | dienhoaxanh.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
-| hoavada.com | 1 |
+| flowercorner.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -155,10 +156,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 773ms | 0.001 | ? | 733ms | 1672ms |
-| /san-pham/ | 94% | 1642ms | 0 | ? | 469ms | 153ms |
-| /danh-muc/hoa-sinh-nhat/ | 91% | 1960ms | 0 | ? | 584ms | 80ms |
+| / | 89% | 1153ms | 0.001 | ? | 724ms | 1495ms |
+| /san-pham/ | 98% | 1140ms | 0 | ? | 460ms | 133ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1360ms | 0 | ? | 604ms | 611ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1354ms | 0 | ? | 298ms | 505ms |
+| /amp/ | 87% | 1350ms | 0 | ? | 302ms | 66ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
