@@ -1,28 +1,30 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-07T16:20:07.316Z
+**Updated:** 2026-08-07T17:17:34.424Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
 | 1 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
-| 2 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | facebook.com, canhdonghoatuoi.com, shophoadanang.com |
-| 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
-| 4 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
-| 5 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
-| 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
-| 9 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
+| 2 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
+| 3 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, kimkieuflower.vn |
+| 4 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | facebook.com, canhdonghoatuoi.com, shophoadanang.com |
+| 5 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
+| 6 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
+| 7 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
+| 8 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 9 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 10 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
+| 11 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 3/9 keywords ranking (33%)
+**Visibility:** 3/11 keywords ranking (27%)
 
-## Site Index Verification (12 runs)
+## Site Index Verification (13 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 6/12 passed
-- **Click failed:** 6/12
+- **Click verified:** 6/13 passed
+- **Click failed:** 7/13
 
 ### Pages Clicked (random distribution)
 
@@ -47,23 +49,24 @@
 | #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #7 | - | - | No |
 | #8 | - | - | No |
-| #9 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #10 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #11 | - | - | No |
+| #9 | - | - | No |
+| #10 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #11 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #12 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
+| canhdonghoatuoi.com | 6 |
 | facebook.com | 6 |
-| canhdonghoatuoi.com | 5 |
 | tramhoa.com | 3 |
-| kimkieuflower.vn | 2 |
+| kimkieuflower.vn | 3 |
 | flowercorner.vn | 2 |
+| hoadanang.vn | 1 |
 | shophoadanang.com | 1 |
 | dienhoaxanh.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
-| hoavada.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -150,10 +153,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 69% | 1210ms | 0.001 | ? | 1210ms | 1682ms |
-| /san-pham/ | 87% | 2250ms | 0 | ? | 907ms | 203ms |
-| /danh-muc/hoa-sinh-nhat/ | 87% | 2290ms | 0 | ? | 877ms | 189ms |
+| / | 92% | 793ms | 0.016 | ? | 746ms | 1926ms |
+| /san-pham/ | 93% | 1694ms | 0 | ? | 637ms | 147ms |
+| /danh-muc/hoa-sinh-nhat/ | 90% | 2013ms | 0 | ? | 689ms | 108ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | N/A | ? | ? | ? | ? | ? |
+| /amp/ | 86% | 1464ms | 0 | ? | 349ms | 90ms |
 
-**Pass rate:** 0/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%

@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-08-07T16:09:09.469Z",
+  "timestamp": "2026-08-07T17:07:48.579Z",
   "domain": "hoatuoidanangnhanhi.com",
   "pages": [
     {
       "page": "/",
-      "score": 0.69,
-      "lcp": 1210,
-      "cls": 0.001,
+      "score": 0.92,
+      "lcp": 793,
+      "cls": 0.016,
       "inp": null,
-      "fcp": 1210,
-      "ttfb": 1682
+      "fcp": 746,
+      "ttfb": 1926
     },
     {
       "page": "/san-pham/",
-      "score": 0.87,
-      "lcp": 2250,
+      "score": 0.93,
+      "lcp": 1694,
       "cls": 0,
       "inp": null,
-      "fcp": 907,
-      "ttfb": 203
+      "fcp": 637,
+      "ttfb": 147
     },
     {
       "page": "/danh-muc/hoa-sinh-nhat/",
-      "score": 0.87,
-      "lcp": 2290,
+      "score": 0.9,
+      "lcp": 2013,
       "cls": 0,
       "inp": null,
-      "fcp": 877,
-      "ttfb": 189
+      "fcp": 689,
+      "ttfb": 108
     },
     {
       "page": "/san-pham/bo-hoa-hong-do-dai/",
@@ -36,8 +36,12 @@
     },
     {
       "page": "/amp/",
-      "score": null,
-      "error": "Command failed: lighthouse \"https://hoatuoidanangnhanhi.com/amp/\" --chrome-flags=\"--headless --no-sa"
+      "score": 0.86,
+      "lcp": 1464,
+      "cls": 0,
+      "inp": null,
+      "fcp": 349,
+      "ttfb": 90
     }
   ]
 }
