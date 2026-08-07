@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-07T09:21:04.129Z
+**Updated:** 2026-08-07T11:14:56.282Z
 
 ## Keyword Rankings
 
@@ -7,13 +7,14 @@
 |---|---------|------|------|----------|--------------------|
 | 1 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
 | 2 | hoa cảm ơn đà nẵng | **#4** | 1 | 1p | facebook.com, canhdonghoatuoi.com, shophoadanang.com |
-| 3 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
-| 4 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
-| 5 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 6 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 7 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
+| 3 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
+| 4 | hoa cưới đà nẵng | **#82** | 5 | 5p | mytour.vn, hoatuoidanangnhanhi.com, hongtamflower.com |
+| 5 | hoa hồng đà nẵng | **#27** | 2 | 2p | canhdonghoatuoi.com, hoavada.com, tiemhoadanang.com |
+| 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
 
-**Visibility:** 3/7 keywords ranking (43%)
+**Visibility:** 3/8 keywords ranking (38%)
 
 ## Site Index Verification (11 runs)
 
@@ -49,16 +50,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 4 |
-| canhdonghoatuoi.com | 4 |
+| facebook.com | 5 |
+| canhdonghoatuoi.com | 5 |
 | tramhoa.com | 3 |
 | kimkieuflower.vn | 2 |
 | shophoadanang.com | 1 |
+| dienhoaxanh.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
 | hoavada.com | 1 |
 | tiemhoadanang.com | 1 |
-| flowercorner.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -145,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 460ms | 259ms |
-| /san-pham/ | N/A | ? | ? | ? | ? | ? |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1203ms | 0 | ? | 642ms | 431ms |
+| / | 79% | 738ms | 0.016 | ? | 705ms | 1496ms |
+| /san-pham/ | 95% | 1568ms | 0 | ? | 491ms | 117ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1360ms | 0 | ? | 616ms | 453ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1421ms | 0 | ? | 286ms | 396ms |
+| /amp/ | 87% | 1362ms | 0 | ? | 318ms | 81ms |
 
-**Pass rate:** 1/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
