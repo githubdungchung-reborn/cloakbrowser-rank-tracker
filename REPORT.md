@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-07T13:43:35.280Z
+**Updated:** 2026-08-07T15:24:44.059Z
 
 ## Keyword Rankings
 
@@ -13,30 +13,31 @@
 | 6 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
 | 7 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
 | 8 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | hoatuoidanang247.com, facebook.com, kimkieuflower.vn |
+| 9 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | facebook.com, flowercorner.vn, bachhoaxanh.com |
 
-**Visibility:** 3/8 keywords ranking (38%)
+**Visibility:** 3/9 keywords ranking (33%)
 
 ## Site Index Verification (12 runs)
 
-- **Indexed pages found:** 10
-- **Index stats:** Khoảng 902 kết quả (0,12 giây) 
-- **Click verified:** 6/12 passed
-- **Click failed:** 6/12
+- **Indexed pages found:** 0
+- **Index stats:** N/A
+- **Click verified:** 5/12 passed
+- **Click failed:** 7/12
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| / | 2 | Yes |
 | /tuyen-dung/ | 2 | Yes |
 | /chinh-sach-thanh-toan/ | 1 | Yes |
+| / | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
 | Run | Page Clicked | Landed Title | Verified |
 |-----|-------------|--------------|----------|
-| #0 | / | Hoa Tươi Đà Nẵng – Shop hoa tươi Đà Nẵng | Yes |
+| #0 | - | - | No |
 | #1 | - | - | No |
 | #2 | - | - | No |
 | #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
@@ -52,16 +53,16 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 5 |
+| facebook.com | 6 |
 | canhdonghoatuoi.com | 5 |
 | tramhoa.com | 3 |
 | kimkieuflower.vn | 2 |
+| flowercorner.vn | 2 |
 | shophoadanang.com | 1 |
 | dienhoaxanh.com | 1 |
 | mytour.vn | 1 |
 | hongtamflower.com | 1 |
 | hoavada.com | 1 |
-| tiemhoadanang.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -148,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 78% | 775ms | 0.016 | ? | 765ms | 1625ms |
-| /san-pham/ | 97% | 1264ms | 0 | ? | 500ms | 102ms |
-| /danh-muc/hoa-sinh-nhat/ | 94% | 1579ms | 0 | ? | 612ms | 475ms |
+| / | 90% | 933ms | 0.001 | ? | 663ms | 1848ms |
+| /san-pham/ | 98% | 1148ms | 0 | ? | 483ms | 233ms |
+| /danh-muc/hoa-sinh-nhat/ | 94% | 1611ms | 0 | ? | 616ms | 546ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1220ms | 0 | ? | 259ms | 529ms |
+| /amp/ | 88% | 1230ms | 0 | ? | 273ms | 79ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
