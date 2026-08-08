@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-08T22:51:39.082Z
+**Updated:** 2026-08-08T23:48:18.377Z
 
 ## Keyword Rankings
 
@@ -28,12 +28,12 @@
 
 **Visibility:** 0/20 keywords ranking (0%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (16 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/15 passed
-- **Click failed:** 10/15
+- **Click verified:** 5/16 passed
+- **Click failed:** 11/16
 
 ### Pages Clicked (random distribution)
 
@@ -50,19 +50,20 @@
 |-----|-------------|--------------|----------|
 | #0 | - | - | No |
 | #1 | - | - | No |
-| #2 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #4 | - | - | No |
+| #2 | - | - | No |
+| #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
+| #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #5 | - | - | No |
 | #6 | - | - | No |
-| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #8 | - | - | No |
+| #7 | - | - | No |
+| #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #9 | - | - | No |
 | #10 | - | - | No |
 | #11 | - | - | No |
-| #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #12 | - | - | No |
 | #13 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #14 | - | - | No |
+| #14 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #15 | - | - | No |
 
 ## CrUX Traffic Simulation
 
@@ -149,10 +150,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 622ms | 1499ms |
-| /san-pham/ | 99% | 859ms | 0 | ? | 499ms | 142ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1342ms | 0 | ? | 624ms | 58ms |
+| / | N/A | ? | 0.001 | ? | 681ms | 917ms |
+| /san-pham/ | 99% | 873ms | 0 | ? | 507ms | 282ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1529ms | 0 | ? | 614ms | 133ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1183ms | 0 | ? | 260ms | 54ms |
+| /amp/ | 87% | 1314ms | 0 | ? | 294ms | 120ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
