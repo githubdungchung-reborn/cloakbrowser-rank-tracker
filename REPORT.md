@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-08T15:49:22.640Z
+**Updated:** 2026-08-08T16:58:22.292Z
 
 ## Keyword Rankings
 
@@ -19,19 +19,20 @@
 | 12 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
 | 13 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
 | 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 16 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 17 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 18 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 19 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/18 keywords ranking (0%)
+**Visibility:** 0/19 keywords ranking (0%)
 
-## Site Index Verification (12 runs)
+## Site Index Verification (13 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/12 passed
-- **Click failed:** 7/12
+- **Click verified:** 5/13 passed
+- **Click failed:** 8/13
 
 ### Pages Clicked (random distribution)
 
@@ -51,20 +52,20 @@
 | #2 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
 | #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
 | #4 | - | - | No |
-| #5 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #6 | - | - | No |
+| #5 | - | - | No |
+| #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
 | #7 | - | - | No |
 | #8 | - | - | No |
-| #9 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #9 | - | - | No |
 | #10 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #11 | - | - | No |
+| #11 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #12 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 2 |
-| canhdonghoatuoi.com | 2 |
 | kimkieuflower.vn | 1 |
+| facebook.com | 1 |
 | flowercorner.vn | 1 |
 
 ## CrUX Traffic Simulation
@@ -152,10 +153,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 89% | 1123ms | 0.001 | ? | 713ms | 953ms |
-| /san-pham/ | 99% | 877ms | 0 | ? | 509ms | 237ms |
-| /danh-muc/hoa-sinh-nhat/ | 94% | 1601ms | 0 | ? | 676ms | 86ms |
+| / | N/A | ? | 0.001 | ? | 652ms | 1534ms |
+| /san-pham/ | 98% | 1172ms | 0 | ? | 491ms | 98ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1276ms | 0.001 | ? | 564ms | 85ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1257ms | 0 | ? | 295ms | 126ms |
+| /amp/ | 88% | 1236ms | 0 | ? | 267ms | 66ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
