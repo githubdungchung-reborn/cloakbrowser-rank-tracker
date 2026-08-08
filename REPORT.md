@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-08T21:51:08.705Z
+**Updated:** 2026-08-08T22:51:39.082Z
 
 ## Keyword Rankings
 
@@ -28,12 +28,12 @@
 
 **Visibility:** 0/20 keywords ranking (0%)
 
-## Site Index Verification (14 runs)
+## Site Index Verification (15 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/14 passed
-- **Click failed:** 9/14
+- **Click verified:** 5/15 passed
+- **Click failed:** 10/15
 
 ### Pages Clicked (random distribution)
 
@@ -59,9 +59,10 @@
 | #8 | - | - | No |
 | #9 | - | - | No |
 | #10 | - | - | No |
-| #11 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #11 | - | - | No |
 | #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #13 | - | - | No |
+| #13 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #14 | - | - | No |
 
 ## CrUX Traffic Simulation
 
@@ -148,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 549ms | 1324ms |
-| /san-pham/ | 98% | 1095ms | 0 | ? | 540ms | 290ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1300ms | 0 | ? | 594ms | 57ms |
+| / | N/A | ? | 0 | ? | 622ms | 1499ms |
+| /san-pham/ | 99% | 859ms | 0 | ? | 499ms | 142ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1342ms | 0 | ? | 624ms | 58ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1308ms | 0 | ? | 303ms | 92ms |
+| /amp/ | 88% | 1183ms | 0 | ? | 260ms | 54ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
