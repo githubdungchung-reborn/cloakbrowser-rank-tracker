@@ -1,25 +1,27 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-08T06:01:06.069Z
+**Updated:** 2026-08-08T07:18:13.619Z
 
 ## Keyword Rankings
 
 | # | Keyword | Rank | Page | Searched | Top 3 Competitors |
 |---|---------|------|------|----------|--------------------|
-| 1 | đặt hoa online đà nẵng | NOT FOUND | - | 1p | - |
-| 2 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | - |
-| 3 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
-| 4 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
-| 5 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
-| 6 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, kimkieuflower.vn |
-| 7 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
-| 8 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
-| 9 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
-| 10 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
-| 11 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
-| 12 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 13 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 1 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 1p | - |
+| 2 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | - |
+| 3 | đặt hoa online đà nẵng | NOT FOUND | - | 1p | - |
+| 4 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | - |
+| 5 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
+| 6 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
+| 7 | hoa 20/10 đà nẵng | NOT FOUND | - | 16p | - |
+| 8 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | canhdonghoatuoi.com, hoadanang.vn, kimkieuflower.vn |
+| 9 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
+| 10 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
+| 11 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
+| 12 | hoa tulip đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, canhdonghoatuoi.com |
+| 13 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 14 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 15 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/13 keywords ranking (0%)
+**Visibility:** 0/15 keywords ranking (0%)
 
 ## Site Index Verification (10 runs)
 
@@ -147,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 1579ms | 0 | ? | 595ms | 1314ms |
-| /san-pham/ | 99% | 824ms | 0.059 | ? | 481ms | 101ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1393ms | 0 | ? | 611ms | 71ms |
+| / | 92% | 1140ms | 0.001 | ? | 647ms | 1685ms |
+| /san-pham/ | 98% | 1179ms | 0 | ? | 501ms | 102ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1336ms | 0 | ? | 640ms | 87ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1204ms | 0 | ? | 262ms | 57ms |
+| /amp/ | 88% | 1177ms | 0 | ? | 259ms | 62ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
