@@ -2,14 +2,15 @@
   {
     "keyword": "hoa hồng đà nẵng",
     "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-08-08T17:43:11.918Z"
-  },
-  {
-    "keyword": "hoa hồng đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
+    "topCompetitors": [
+      "facebook.com",
+      "caycanhdanang.com.vn",
+      "caycanhdanang.com.vn"
+    ],
+    "pagesSearched": 50,
+    "timestamp": "2026-08-09T21:44:52.414Z"
+  }
+]],
     "pagesSearched": 50,
     "timestamp": "2026-08-08T17:43:11.918Z"
   }
