@@ -1,20 +1,16 @@
 [
   {
     "keyword": "mua hoa tươi đà nẵng",
-    "position": 48,
-    "page": 3,
-    "topCompetitors": [
-      "facebook.com",
-      "toplist.vn",
-      "vietflorist.vn"
-    ],
-    "pagesSearched": 3,
-    "timestamp": "2026-08-05T09:46:03.968Z"
-  }
-]Z"
-  }
-]  }
-]]pagesSearched": 50,
-    "timestamp": "2026-08-08T05:53:00.520Z"
+    "position": -1,
+    "status": "captcha",
+    "pagesSearched": 1,
+    "timestamp": "2026-08-09T07:13:04.546Z"
+  },
+  {
+    "keyword": "mua hoa tươi đà nẵng",
+    "position": -1,
+    "topCompetitors": [],
+    "pagesSearched": 50,
+    "timestamp": "2026-08-09T07:13:04.546Z"
   }
 ]

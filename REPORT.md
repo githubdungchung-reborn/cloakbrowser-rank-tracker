@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-09T06:03:01.818Z
+**Updated:** 2026-08-09T07:19:37.723Z
 
 ## Keyword Rankings
 
@@ -23,12 +23,14 @@
 | 16 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
 | 17 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
 | 18 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 23 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 24 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/22 keywords ranking (0%)
+**Visibility:** 0/24 keywords ranking (0%)
 
 ## Site Index Verification (15 runs)
 
@@ -149,10 +151,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 96% | 931ms | 0.001 | ? | 716ms | 55ms |
-| /san-pham/ | 97% | 1237ms | 0 | ? | 478ms | 96ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1306ms | 0 | ? | 629ms | 60ms |
+| / | 94% | 618ms | 0.001 | ? | 570ms | 3596ms |
+| /san-pham/ | 97% | 1181ms | 0 | ? | 502ms | 401ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1281ms | 0 | ? | 608ms | 55ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1215ms | 0 | ? | 263ms | 67ms |
+| /amp/ | 87% | 1257ms | 0 | ? | 277ms | 56ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
