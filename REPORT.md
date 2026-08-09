@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-09T19:54:31.587Z
+**Updated:** 2026-08-09T20:56:41.411Z
 
 ## Keyword Rankings
 
@@ -13,22 +13,24 @@
 | 6 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
 | 7 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 1p | - |
 | 8 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
-| 13 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 9 | hoa 20/10 đà nẵng | NOT FOUND | - | 1p | - |
+| 10 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | - |
+| 11 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
+| 13 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
+| 14 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 18 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 23 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 24 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/22 keywords ranking (0%)
+**Visibility:** 0/24 keywords ranking (0%)
 
 ## Site Index Verification (10 runs)
 
@@ -143,10 +145,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 620ms | 1985ms |
-| /san-pham/ | 98% | 1166ms | 0 | ? | 531ms | 141ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1182ms | 0 | ? | 685ms | 107ms |
+| / | 84% | 685ms | 0.034 | ? | 672ms | 1845ms |
+| /san-pham/ | 98% | 1164ms | 0 | ? | 496ms | 153ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1386ms | 0.001 | ? | 588ms | 77ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1410ms | 0 | ? | 332ms | 201ms |
+| /amp/ | 87% | 1286ms | 0 | ? | 296ms | 64ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
