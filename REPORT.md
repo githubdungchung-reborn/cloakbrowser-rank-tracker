@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-09T13:19:54.658Z
+**Updated:** 2026-08-09T14:56:44.485Z
 
 ## Keyword Rankings
 
@@ -32,19 +32,19 @@
 
 **Visibility:** 0/24 keywords ranking (0%)
 
-## Site Index Verification (14 runs)
+## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 3/14 passed
-- **Click failed:** 11/14
+- **Click verified:** 2/12 passed
+- **Click failed:** 10/12
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /cua-hang/ | 2 | Yes |
 | /tuyen-dung/ | 1 | Yes |
+| /cua-hang/ | 1 | Yes |
 
 ### Click Detail
 
@@ -56,14 +56,12 @@
 | #3 | - | - | No |
 | #4 | - | - | No |
 | #5 | - | - | No |
-| #6 | - | - | No |
-| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #7 | - | - | No |
 | #8 | - | - | No |
 | #9 | - | - | No |
-| #10 | - | - | No |
-| #11 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #13 | - | - | No |
+| #10 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #11 | - | - | No |
 
 ## CrUX Traffic Simulation
 
@@ -150,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 66% | 1305ms | 0.001 | ? | 736ms | 1443ms |
-| /san-pham/ | 100% | 814ms | 0 | ? | 475ms | 103ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1355ms | 0 | ? | 643ms | 546ms |
+| / | 97% | 539ms | 0.001 | ? | 539ms | 2096ms |
+| /san-pham/ | 98% | 1183ms | 0.001 | ? | 511ms | 122ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1313ms | 0 | ? | 694ms | 463ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1205ms | 0 | ? | 270ms | 510ms |
+| /amp/ | 87% | 1291ms | 0 | ? | 288ms | 63ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
