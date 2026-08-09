@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-08T23:48:18.377Z
+**Updated:** 2026-08-09T02:33:15.038Z
 
 ## Keyword Rankings
 
@@ -28,19 +28,18 @@
 
 **Visibility:** 0/20 keywords ranking (0%)
 
-## Site Index Verification (16 runs)
+## Site Index Verification (15 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/16 passed
-- **Click failed:** 11/16
+- **Click verified:** 4/15 passed
+- **Click failed:** 11/15
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /cua-hang/ | 2 | Yes |
-| /chinh-sach-thanh-toan/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 
@@ -51,19 +50,18 @@
 | #0 | - | - | No |
 | #1 | - | - | No |
 | #2 | - | - | No |
-| #3 | /chinh-sach-thanh-toan/ | Chính sách thanh toán | Hoa Tươi Đà Nẵng | Yes |
-| #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | - | - | No |
-| #7 | - | - | No |
-| #8 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #7 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
+| #8 | - | - | No |
 | #9 | - | - | No |
 | #10 | - | - | No |
 | #11 | - | - | No |
-| #12 | - | - | No |
+| #12 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #13 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #14 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
-| #15 | - | - | No |
+| #14 | - | - | No |
 
 ## CrUX Traffic Simulation
 
@@ -150,10 +148,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0.001 | ? | 681ms | 917ms |
-| /san-pham/ | 99% | 873ms | 0 | ? | 507ms | 282ms |
-| /danh-muc/hoa-sinh-nhat/ | 95% | 1529ms | 0 | ? | 614ms | 133ms |
+| / | N/A | ? | 0 | ? | 650ms | 1570ms |
+| /san-pham/ | 99% | 858ms | 0 | ? | 525ms | 202ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1287ms | 0 | ? | 621ms | 165ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1314ms | 0 | ? | 294ms | 120ms |
+| /amp/ | 87% | 1253ms | 0 | ? | 290ms | 180ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
