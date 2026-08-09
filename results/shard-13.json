@@ -1,16 +1,17 @@
 [
   {
     "keyword": "hoa tulip đà nẵng",
-    "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-08-08T16:48:48.590Z"
-  },
-  {
-    "keyword": "hoa tulip đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
-    "pagesSearched": 50,
+    "position": 27,
+    "page": 2,
+    "topCompetitors": [
+      "hongtamflower.com",
+      "kimkieuflower.vn",
+      "facebook.com"
+    ],
+    "pagesSearched": 2,
+    "timestamp": "2026-08-09T09:53:09.565Z"
+  }
+]pagesSearched": 50,
     "timestamp": "2026-08-08T16:48:48.590Z"
   }
 ]

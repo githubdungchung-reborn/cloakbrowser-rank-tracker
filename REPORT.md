@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-09T07:19:37.723Z
+**Updated:** 2026-08-09T10:00:57.371Z
 
 ## Keyword Rankings
 
@@ -19,18 +19,16 @@
 | 12 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
 | 13 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
 | 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 18 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 22 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/24 keywords ranking (0%)
+**Visibility:** 0/22 keywords ranking (0%)
 
 ## Site Index Verification (15 runs)
 
@@ -151,10 +149,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 94% | 618ms | 0.001 | ? | 570ms | 3596ms |
-| /san-pham/ | 97% | 1181ms | 0 | ? | 502ms | 401ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1281ms | 0 | ? | 608ms | 55ms |
+| / | 82% | 1408ms | 0.001 | ? | 643ms | 7396ms |
+| /san-pham/ | 98% | 1096ms | 0 | ? | 496ms | 95ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1349ms | 0 | ? | 638ms | 78ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1257ms | 0 | ? | 277ms | 56ms |
+| /amp/ | 87% | 1248ms | 0 | ? | 274ms | 54ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
