@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-09T11:48:53.360Z
+**Updated:** 2026-08-09T13:19:54.658Z
 
 ## Keyword Rankings
 
@@ -13,22 +13,24 @@
 | 6 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
 | 7 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 1p | - |
 | 8 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 13 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 14 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 9 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
+| 10 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
+| 11 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
+| 13 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 14 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 18 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 22 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 23 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 24 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/22 keywords ranking (0%)
+**Visibility:** 0/24 keywords ranking (0%)
 
 ## Site Index Verification (14 runs)
 
@@ -148,10 +150,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 646ms | 0.002 | ? | 646ms | 1211ms |
-| /san-pham/ | 99% | 847ms | 0 | ? | 493ms | 104ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1247ms | 0.001 | ? | 573ms | 109ms |
+| / | 66% | 1305ms | 0.001 | ? | 736ms | 1443ms |
+| /san-pham/ | 100% | 814ms | 0 | ? | 475ms | 103ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1355ms | 0 | ? | 643ms | 546ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1228ms | 0 | ? | 273ms | 531ms |
+| /amp/ | 88% | 1205ms | 0 | ? | 270ms | 510ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%

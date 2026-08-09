@@ -1,17 +1,16 @@
 [
   {
     "keyword": "hoa cảm ơn đà nẵng",
-    "position": 5,
-    "page": 1,
-    "topCompetitors": [
-      "shophoamaimai.com",
-      "facebook.com",
-      "canhdonghoatuoi.com"
-    ],
+    "position": -1,
+    "status": "captcha",
     "pagesSearched": 1,
-    "timestamp": "2026-08-07T18:00:33.431Z"
-  }
-] "pagesSearched": 50,
-    "timestamp": "2026-08-08T04:17:44.956Z"
+    "timestamp": "2026-08-09T13:11:32.669Z"
+  },
+  {
+    "keyword": "hoa cảm ơn đà nẵng",
+    "position": -1,
+    "topCompetitors": [],
+    "pagesSearched": 50,
+    "timestamp": "2026-08-09T13:11:32.669Z"
   }
 ]
