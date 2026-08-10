@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-10T21:05:01.698Z
+**Updated:** 2026-08-10T22:01:55.218Z
 
 ## Keyword Rankings
 
@@ -15,43 +15,46 @@
 | 8 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | - |
 | 9 | hoa 20/10 đà nẵng | NOT FOUND | - | 1p | - |
 | 10 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
-| 13 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
-| 14 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 27 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 28 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 29 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 30 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 31 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 32 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 11 | hoa 8/3 đà nẵng | NOT FOUND | - | 1p | - |
+| 12 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | - |
+| 13 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
+| 14 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 18 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 22 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 23 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 24 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 25 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 26 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 27 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 28 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 29 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 30 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 31 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 32 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 33 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 34 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/32 keywords ranking (0%)
+**Visibility:** 0/34 keywords ranking (0%)
 
 ## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 1/11 passed
-- **Click failed:** 10/11
+- **Click verified:** 2/11 passed
+- **Click failed:** 9/11
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /tuyen-dung/ | 1 | Yes |
+| /danh-muc/hoa-tuoi/ | 1 | Yes |
 
 ### Click Detail
 
@@ -64,7 +67,7 @@
 | #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
-| #7 | - | - | No |
+| #7 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
 | #8 | - | - | No |
 | #9 | - | - | No |
 | #10 | - | - | No |
@@ -154,10 +157,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 95% | 726ms | 0.001 | ? | 685ms | 966ms |
-| /san-pham/ | 99% | 867ms | 0 | ? | 530ms | 321ms |
-| /danh-muc/hoa-sinh-nhat/ | 94% | 1590ms | 0 | ? | 647ms | 198ms |
+| / | 84% | 672ms | 0.001 | ? | 672ms | 1533ms |
+| /san-pham/ | 98% | 1159ms | 0 | ? | 494ms | 133ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1255ms | 0 | ? | 674ms | 70ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1330ms | 0 | ? | 313ms | 135ms |
+| /amp/ | 87% | 1281ms | 0 | ? | 296ms | 67ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
