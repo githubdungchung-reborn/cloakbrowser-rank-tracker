@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-10T08:56:19.766Z
+**Updated:** 2026-08-10T10:41:43.728Z
 
 ## Keyword Rankings
 
@@ -146,10 +146,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 695ms | 1966ms |
-| /san-pham/ | 99% | 879ms | 0 | ? | 537ms | 156ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1273ms | 0 | ? | 703ms | 109ms |
+| / | 93% | 1237ms | 0.001 | ? | 679ms | 60ms |
+| /san-pham/ | 99% | 835ms | 0.001 | ? | 497ms | 85ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1469ms | 0 | ? | 632ms | 56ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1227ms | 0 | ? | 282ms | 65ms |
+| /amp/ | 88% | 1177ms | 0 | ? | 257ms | 30ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
