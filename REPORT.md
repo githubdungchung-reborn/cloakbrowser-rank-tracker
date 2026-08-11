@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-11T04:44:30.773Z
+**Updated:** 2026-08-11T06:09:24.972Z
 
 ## Keyword Rankings
 
@@ -46,13 +46,14 @@
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 3/13 passed
-- **Click failed:** 10/13
+- **Click verified:** 4/13 passed
+- **Click failed:** 9/13
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
+| /hinh-anh-thuc-te/ | 1 | Yes |
 | /tuyen-dung/ | 1 | Yes |
 | /danh-muc/hoa-tuoi/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
@@ -64,7 +65,7 @@
 | #0 | - | - | No |
 | #1 | - | - | No |
 | #2 | - | - | No |
-| #3 | - | - | No |
+| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | /tuyen-dung/ | Tuyển dụng tại Hoa Tươi Đà Nẵng | Hoa Tư | Yes |
@@ -160,10 +161,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 558ms | 2002ms |
-| /san-pham/ | 99% | 926ms | 0 | ? | 637ms | 211ms |
-| /danh-muc/hoa-sinh-nhat/ | 95% | 1406ms | 0 | ? | 734ms | 118ms |
+| / | 98% | 624ms | 0 | ? | 581ms | 1948ms |
+| /san-pham/ | 99% | 922ms | 0 | ? | 561ms | 189ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1310ms | 0 | ? | 625ms | 171ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1365ms | 0 | ? | 292ms | 79ms |
+| /amp/ | 87% | 1288ms | 0 | ? | 296ms | 127ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
