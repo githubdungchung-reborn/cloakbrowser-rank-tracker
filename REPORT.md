@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-11T13:45:46.715Z
+**Updated:** 2026-08-11T15:21:13.295Z
 
 ## Keyword Rankings
 
@@ -29,14 +29,13 @@
 | 22 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 23 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
 | 24 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 27 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 28 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 29 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 30 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 25 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, facebook.com |
+| 26 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 28 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/30 keywords ranking (0%)
+**Visibility:** 0/29 keywords ranking (0%)
 
 ## Site Index Verification (13 runs)
 
@@ -71,6 +70,13 @@
 | #10 | - | - | No |
 | #11 | /danh-muc/ | Danh mục sản phẩm | Hoa Tươi Đà Nẵng | Yes |
 | #12 | - | - | No |
+
+## Top Competitors
+| Domain | Hits |
+|--------|------|
+| flowercorner.vn | 1 |
+| hoatuoidanang247.com | 1 |
+| facebook.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -157,10 +163,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 540ms | 85ms |
-| /san-pham/ | 98% | 1097ms | 0 | ? | 628ms | 164ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1412ms | 0 | ? | 657ms | 182ms |
+| / | 92% | 872ms | 0.001 | ? | 647ms | 1731ms |
+| /san-pham/ | 99% | 984ms | 0.002 | ? | 505ms | 524ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1312ms | 0 | ? | 647ms | 102ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1261ms | 0 | ? | 277ms | 83ms |
+| /amp/ | 88% | 1225ms | 0 | ? | 267ms | 499ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
