@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-11T17:17:18.477Z
+**Updated:** 2026-08-11T19:24:19.376Z
 
 ## Keyword Rankings
 
@@ -19,23 +19,25 @@
 | 12 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | - |
 | 13 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
 | 14 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, facebook.com |
-| 26 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 27 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 28 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 29 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 15 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
+| 17 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
+| 18 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 20 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 21 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 22 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 23 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 24 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 25 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 26 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 27 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | flowercorner.vn, hoatuoidanang247.com, facebook.com |
+| 28 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 30 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/29 keywords ranking (0%)
+**Visibility:** 0/31 keywords ranking (0%)
 
 ## Site Index Verification (13 runs)
 
@@ -163,10 +165,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 609ms | 1980ms |
-| /san-pham/ | 99% | 845ms | 0 | ? | 517ms | 137ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1174ms | 0 | ? | 625ms | 113ms |
+| / | 98% | 684ms | 0.001 | ? | 607ms | 1816ms |
+| /san-pham/ | 99% | 834ms | 0 | ? | 486ms | 116ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1326ms | 0 | ? | 631ms | 71ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1290ms | 0 | ? | 314ms | 85ms |
+| /amp/ | 87% | 1275ms | 0 | ? | 282ms | 64ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
