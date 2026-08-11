@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-11T11:09:59.591Z
+**Updated:** 2026-08-11T12:02:20.239Z
 
 ## Keyword Rankings
 
@@ -42,8 +42,8 @@
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 5/13 passed
-- **Click failed:** 8/13
+- **Click verified:** 4/13 passed
+- **Click failed:** 9/13
 
 ### Pages Clicked (random distribution)
 
@@ -51,7 +51,6 @@
 |-----------|---------------|----------|
 | /hinh-anh-thuc-te/ | 1 | Yes |
 | /hang-moi-ve/ | 1 | Yes |
-| /danh-muc/hoa-tuoi/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 | /danh-muc/ | 1 | Yes |
 
@@ -66,7 +65,7 @@
 | #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
-| #7 | /danh-muc/hoa-tuoi/ | Hoa tươi | Hoa Tươi Đà Nẵng | Yes |
+| #7 | - | - | No |
 | #8 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #9 | - | - | No |
 | #10 | - | - | No |
@@ -158,10 +157,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 99% | 804ms | 0 | ? | 645ms | 1214ms |
-| /san-pham/ | 99% | 854ms | 0 | ? | 522ms | 138ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1374ms | 0 | ? | 648ms | 104ms |
+| / | N/A | ? | 0.001 | ? | 734ms | 1495ms |
+| /san-pham/ | 94% | 1616ms | 0 | ? | 547ms | 127ms |
+| /danh-muc/hoa-sinh-nhat/ | 94% | 1581ms | 0 | ? | 640ms | 74ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1226ms | 0 | ? | 283ms | 81ms |
+| /amp/ | 86% | 1417ms | 0 | ? | 317ms | 81ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
