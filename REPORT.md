@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-12T00:02:34.098Z
+**Updated:** 2026-08-12T02:48:45.665Z
 
 ## Keyword Rankings
 
@@ -23,36 +23,36 @@
 | 16 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
 | 17 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
 | 18 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 27 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 28 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 29 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 30 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 31 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 32 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 19 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
+| 20 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 21 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 22 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 23 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 24 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 25 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 26 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 28 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 30 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 32 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 33 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/32 keywords ranking (0%)
+**Visibility:** 0/33 keywords ranking (0%)
 
 ## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 3/12 passed
-- **Click failed:** 9/12
+- **Click verified:** 2/12 passed
+- **Click failed:** 10/12
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /hinh-anh-thuc-te/ | 1 | Yes |
-| /hang-moi-ve/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 
 ### Click Detail
@@ -65,12 +65,18 @@
 | #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
 | #4 | - | - | No |
 | #5 | - | - | No |
-| #6 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #6 | - | - | No |
 | #7 | - | - | No |
 | #8 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
 | #9 | - | - | No |
 | #10 | - | - | No |
 | #11 | - | - | No |
+
+## Top Competitors
+| Domain | Hits |
+|--------|------|
+| caycanhdanang.com.vn | 2 |
+| facebook.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -157,10 +163,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 628ms | 1498ms |
-| /san-pham/ | 97% | 1255ms | 0 | ? | 490ms | 447ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1307ms | 0 | ? | 635ms | 73ms |
+| / | 70% | 728ms | 0.002 | ? | 688ms | 1644ms |
+| /san-pham/ | 98% | 1049ms | 0 | ? | 487ms | 104ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1206ms | 0 | ? | 625ms | 81ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1252ms | 0 | ? | 287ms | 67ms |
+| /amp/ | 88% | 1191ms | 0 | ? | 260ms | 115ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
