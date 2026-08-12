@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-12T10:26:38.626Z
+**Updated:** 2026-08-12T12:04:13.826Z
 
 ## Keyword Rankings
 
@@ -26,35 +26,32 @@
 | 19 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 20 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
 | 21 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 22 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 23 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 24 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 25 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 26 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 27 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 28 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 29 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 30 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 31 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 32 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 33 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 34 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 35 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 22 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 23 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 24 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 25 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 26 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 28 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 30 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 32 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 33 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/35 keywords ranking (0%)
+**Visibility:** 0/33 keywords ranking (0%)
 
-## Site Index Verification (13 runs)
+## Site Index Verification (11 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 2/13 passed
-- **Click failed:** 11/13
+- **Click verified:** 1/11 passed
+- **Click failed:** 10/11
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
-| /hinh-anh-thuc-te/ | 1 | Yes |
 | /cua-hang/ | 1 | Yes |
 
 ### Click Detail
@@ -64,16 +61,14 @@
 | #0 | - | - | No |
 | #1 | - | - | No |
 | #2 | - | - | No |
-| #3 | /hinh-anh-thuc-te/ | Hình ảnh thực tế | Hoa Tươi Đà Nẵng | Yes |
+| #3 | - | - | No |
 | #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | - | - | No |
 | #7 | - | - | No |
-| #8 | - | - | No |
-| #9 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #8 | /cua-hang/ | Cửa hàng | Hoa Tươi Đà Nẵng | Yes |
+| #9 | - | - | No |
 | #10 | - | - | No |
-| #11 | - | - | No |
-| #12 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -166,10 +161,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 530ms | 1247ms |
-| /san-pham/ | 99% | 861ms | 0 | ? | 500ms | 605ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1274ms | 0 | ? | 611ms | 77ms |
+| / | N/A | ? | 0 | ? | 537ms | 1635ms |
+| /san-pham/ | 98% | 1098ms | 0 | ? | 527ms | 117ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1316ms | 0 | ? | 646ms | 100ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1201ms | 0 | ? | 260ms | 60ms |
+| /amp/ | 88% | 1232ms | 0 | ? | 284ms | 96ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
