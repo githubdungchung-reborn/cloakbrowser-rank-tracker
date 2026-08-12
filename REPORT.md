@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-12T08:45:14.115Z
+**Updated:** 2026-08-12T10:26:38.626Z
 
 ## Keyword Rankings
 
@@ -26,20 +26,22 @@
 | 19 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
 | 20 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
 | 21 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 22 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 23 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 24 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 25 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 26 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 27 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 28 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 29 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 30 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 31 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 32 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 33 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 22 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 23 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 24 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 25 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 26 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 28 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 30 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 32 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 33 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 34 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 35 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/33 keywords ranking (0%)
+**Visibility:** 0/35 keywords ranking (0%)
 
 ## Site Index Verification (13 runs)
 
@@ -164,10 +166,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 93% | 737ms | 0.001 | ? | 697ms | 1689ms |
-| /san-pham/ | 99% | 885ms | 0 | ? | 540ms | 120ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1259ms | 0 | ? | 684ms | 163ms |
+| / | N/A | ? | 0 | ? | 530ms | 1247ms |
+| /san-pham/ | 99% | 861ms | 0 | ? | 500ms | 605ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1274ms | 0 | ? | 611ms | 77ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1253ms | 0 | ? | 271ms | 58ms |
+| /amp/ | 88% | 1201ms | 0 | ? | 260ms | 60ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
