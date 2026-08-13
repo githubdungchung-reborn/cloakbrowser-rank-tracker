@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-13T22:06:02.330Z
+**Updated:** 2026-08-13T23:05:40.303Z
 
 ## Keyword Rankings
 
@@ -47,15 +47,14 @@
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 2/15 passed
-- **Click failed:** 13/15
+- **Click verified:** 1/15 passed
+- **Click failed:** 14/15
 
 ### Pages Clicked (random distribution)
 
 | Page Path | Times Clicked | Verified |
 |-----------|---------------|----------|
 | /danh-muc/hoa-tuoi/ | 1 | Yes |
-| /lien-he/ | 1 | Yes |
 
 ### Click Detail
 
@@ -71,7 +70,7 @@
 | #7 | - | - | No |
 | #8 | - | - | No |
 | #9 | - | - | No |
-| #10 | /lien-he/ | site:hoatuoidanangnhanhi.com - Tìm trên  | Yes |
+| #10 | - | - | No |
 | #11 | - | - | No |
 | #12 | - | - | No |
 | #13 | - | - | No |
@@ -167,10 +166,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 577ms | 1477ms |
-| /san-pham/ | 99% | 836ms | 0 | ? | 487ms | 296ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1216ms | 0 | ? | 646ms | 254ms |
+| / | 97% | 706ms | 0.001 | ? | 666ms | 1082ms |
+| /san-pham/ | 99% | 823ms | 0 | ? | 492ms | 167ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1237ms | 0 | ? | 608ms | 123ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1368ms | 0 | ? | 319ms | 126ms |
+| /amp/ | 87% | 1306ms | 0 | ? | 288ms | 102ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
