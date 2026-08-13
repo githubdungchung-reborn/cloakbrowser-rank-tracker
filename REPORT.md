@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-13T02:50:48.262Z
+**Updated:** 2026-08-13T05:08:46.129Z
 
 ## Keyword Rankings
 
@@ -19,8 +19,8 @@
 | 12 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | - |
 | 13 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
 | 14 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa chia buồn đà nẵng | NOT FOUND | - | 2p | - |
-| 16 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | facebook.com, canhdonghoatuoi.com, dienhoaxanh.com |
+| 15 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
+| 16 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
 | 17 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
 | 18 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
 | 19 | hoa hồng đà nẵng | NOT FOUND | - | 50p | facebook.com, caycanhdanang.com.vn, caycanhdanang.com.vn |
@@ -74,10 +74,8 @@
 ## Top Competitors
 | Domain | Hits |
 |--------|------|
-| facebook.com | 2 |
 | caycanhdanang.com.vn | 2 |
-| canhdonghoatuoi.com | 1 |
-| dienhoaxanh.com | 1 |
+| facebook.com | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -164,10 +162,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | N/A | ? | 0 | ? | 610ms | 2351ms |
-| /san-pham/ | 99% | 881ms | 0 | ? | 538ms | 768ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1357ms | 0 | ? | 639ms | 173ms |
+| / | N/A | ? | 0 | ? | 654ms | 1945ms |
+| /san-pham/ | 98% | 1126ms | 0 | ? | 642ms | 127ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1322ms | 0 | ? | 640ms | 167ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1299ms | 0 | ? | 303ms | 128ms |
+| /amp/ | 87% | 1257ms | 0 | ? | 271ms | 81ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
