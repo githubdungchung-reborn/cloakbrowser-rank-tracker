@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-13T19:24:40.038Z
+**Updated:** 2026-08-13T21:06:25.522Z
 
 ## Keyword Rankings
 
@@ -9,47 +9,46 @@
 | 2 | đặt hoa giao nhanh đà nẵng | NOT FOUND | - | 50p | - |
 | 3 | đặt hoa online đà nẵng | NOT FOUND | - | 1p | - |
 | 4 | đặt hoa online đà nẵng | NOT FOUND | - | 50p | - |
-| 5 | điện hoa đà nẵng | NOT FOUND | - | 1p | - |
-| 6 | điện hoa đà nẵng | NOT FOUND | - | 50p | - |
-| 7 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 1p | - |
-| 8 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | - |
-| 9 | hoa 20/10 đà nẵng | NOT FOUND | - | 1p | - |
-| 10 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | - |
-| 11 | hoa 8/3 đà nẵng | NOT FOUND | - | 1p | - |
-| 12 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | - |
-| 13 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
-| 14 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
-| 15 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
-| 16 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
-| 17 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
-| 18 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
-| 19 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
-| 20 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
-| 21 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
-| 22 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
-| 23 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
-| 24 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
-| 25 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
-| 26 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
-| 27 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
-| 28 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 29 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 30 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 31 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 32 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 33 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 34 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 35 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 36 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 5 | điện hoa đà nẵng | NOT FOUND | - | 50p | tramhoa.com, tramhoa.com, tramhoa.com |
+| 6 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 1p | - |
+| 7 | giao hoa tươi tận nơi đà nẵng | NOT FOUND | - | 50p | - |
+| 8 | hoa 20/10 đà nẵng | NOT FOUND | - | 1p | - |
+| 9 | hoa 20/10 đà nẵng | NOT FOUND | - | 50p | - |
+| 10 | hoa 8/3 đà nẵng | NOT FOUND | - | 1p | - |
+| 11 | hoa 8/3 đà nẵng | NOT FOUND | - | 50p | - |
+| 12 | hoa cảm ơn đà nẵng | NOT FOUND | - | 1p | - |
+| 13 | hoa cảm ơn đà nẵng | NOT FOUND | - | 50p | - |
+| 14 | hoa chia buồn đà nẵng | NOT FOUND | - | 1p | - |
+| 15 | hoa chia buồn đà nẵng | NOT FOUND | - | 50p | - |
+| 16 | hoa cưới đà nẵng | NOT FOUND | - | 1p | - |
+| 17 | hoa cưới đà nẵng | NOT FOUND | - | 50p | - |
+| 18 | hoa hồng đà nẵng | NOT FOUND | - | 1p | - |
+| 19 | hoa hồng đà nẵng | NOT FOUND | - | 50p | - |
+| 20 | hoa khai trương đà nẵng | NOT FOUND | - | 1p | - |
+| 21 | hoa khai trương đà nẵng | NOT FOUND | - | 50p | - |
+| 22 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 1p | - |
+| 23 | hoa lan hồ điệp đà nẵng | NOT FOUND | - | 50p | - |
+| 24 | hoa sinh nhật đà nẵng | NOT FOUND | - | 1p | - |
+| 25 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
+| 26 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
+| 27 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
+| 28 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 29 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 30 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 32 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 33 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 34 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 35 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/36 keywords ranking (0%)
+**Visibility:** 0/35 keywords ranking (0%)
 
-## Site Index Verification (15 runs)
+## Site Index Verification (16 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 2/15 passed
-- **Click failed:** 13/15
+- **Click verified:** 2/16 passed
+- **Click failed:** 14/16
 
 ### Pages Clicked (random distribution)
 
@@ -77,6 +76,12 @@
 | #12 | - | - | No |
 | #13 | - | - | No |
 | #14 | - | - | No |
+| #15 | - | - | No |
+
+## Top Competitors
+| Domain | Hits |
+|--------|------|
+| tramhoa.com | 3 |
 
 ## CrUX Traffic Simulation
 
@@ -163,10 +168,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 644ms | 0.001 | ? | 604ms | 1690ms |
-| /san-pham/ | 98% | 1153ms | 0 | ? | 500ms | 581ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1176ms | 0 | ? | 623ms | 115ms |
+| / | 99% | 638ms | 0.001 | ? | 638ms | 74ms |
+| /san-pham/ | 98% | 1148ms | 0 | ? | 498ms | 169ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1216ms | 0 | ? | 629ms | 123ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1200ms | 0 | ? | 266ms | 81ms |
+| /amp/ | 86% | 1375ms | 0 | ? | 324ms | 781ms |
 
 **Pass rate:** 3/5 pages ≥ 90%
