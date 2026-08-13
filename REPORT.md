@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-12T23:04:33.693Z
+**Updated:** 2026-08-13T00:02:42.929Z
 
 ## Keyword Rankings
 
@@ -41,12 +41,12 @@
 
 **Visibility:** 0/33 keywords ranking (0%)
 
-## Site Index Verification (11 runs)
+## Site Index Verification (12 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 1/11 passed
-- **Click failed:** 10/11
+- **Click verified:** 1/12 passed
+- **Click failed:** 11/12
 
 ### Pages Clicked (random distribution)
 
@@ -69,6 +69,7 @@
 | #8 | - | - | No |
 | #9 | - | - | No |
 | #10 | - | - | No |
+| #11 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -163,10 +164,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 78% | 716ms | 0.001 | ? | 716ms | 3682ms |
-| /san-pham/ | 99% | 863ms | 0 | ? | 502ms | 204ms |
-| /danh-muc/hoa-sinh-nhat/ | 96% | 1313ms | 0 | ? | 688ms | 681ms |
+| / | N/A | ? | 0 | ? | 704ms | 2007ms |
+| /san-pham/ | 98% | 1147ms | 0 | ? | 524ms | 718ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1237ms | 0 | ? | 645ms | 152ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 86% | 1425ms | 0 | ? | 324ms | 83ms |
+| /amp/ | 87% | 1342ms | 0 | ? | 325ms | 87ms |
 
 **Pass rate:** 2/5 pages ≥ 90%
