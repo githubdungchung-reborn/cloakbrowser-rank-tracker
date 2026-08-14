@@ -1,24 +1,13 @@
 {
   "domain": "hoatuoidanangnhanhi.com",
-  "timestamp": "2026-08-14T11:53:51.655Z",
-  "indexStats": "Khoảng 865 kết quả (0,12 giây) ",
-  "indexedCount": 10,
-  "indexedUrls": [
-    "https://hoatuoidanangnhanhi.com/",
-    "https://hoatuoidanangnhanhi.com/yeu-thich/",
-    "https://hoatuoidanangnhanhi.com/cua-hang/",
-    "https://hoatuoidanangnhanhi.com/tuyen-dung/",
-    "https://hoatuoidanangnhanhi.com/lien-he/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/",
-    "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-    "https://hoatuoidanangnhanhi.com/chinh-sach-thanh-toan/",
-    "https://hoatuoidanangnhanhi.com/hinh-anh-thuc-te/",
-    "https://hoatuoidanangnhanhi.com/danh-muc/hoa-tuoi/"
-  ],
-  "clickedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-  "clickedPosition": 6,
-  "clickVerified": true,
-  "landedUrl": "https://hoatuoidanangnhanhi.com/hang-moi-ve/",
-  "landedTitle": "Hàng mới về – Mẫu hoa cập nhật mới nhất tại Đà Nẵng | Hoa Tươi Đà Nẵng",
+  "timestamp": "2026-08-14T20:41:53.016Z",
+  "indexStats": "N/A",
+  "indexedCount": 0,
+  "indexedUrls": [],
+  "clickedUrl": "",
+  "clickedPosition": -1,
+  "clickVerified": false,
+  "landedUrl": "",
+  "landedTitle": "",
   "brandRank": 0
 }
