@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-14T15:13:50.436Z
+**Updated:** 2026-08-14T16:11:49.499Z
 
 ## Keyword Rankings
 
@@ -38,10 +38,8 @@
 | 31 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
 | 32 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
 | 33 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 34 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 35 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/35 keywords ranking (0%)
+**Visibility:** 0/33 keywords ranking (0%)
 
 ## Site Index Verification (16 runs)
 
@@ -167,10 +165,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 96% | 635ms | 0.001 | ? | 594ms | 2235ms |
-| /san-pham/ | 96% | 1374ms | 0 | ? | 547ms | 557ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1265ms | 0 | ? | 657ms | 116ms |
+| / | 85% | 644ms | 0.001 | ? | 644ms | 1354ms |
+| /san-pham/ | 98% | 1143ms | 0 | ? | 562ms | 167ms |
+| /danh-muc/hoa-sinh-nhat/ | 95% | 1489ms | 0 | ? | 766ms | 200ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1234ms | 0 | ? | 278ms | 80ms |
+| /amp/ | 87% | 1336ms | 0 | ? | 316ms | 103ms |
 
-**Pass rate:** 3/5 pages ≥ 90%
+**Pass rate:** 2/5 pages ≥ 90%
