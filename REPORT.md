@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-14T16:11:49.499Z
+**Updated:** 2026-08-14T17:14:55.997Z
 
 ## Keyword Rankings
 
@@ -41,12 +41,12 @@
 
 **Visibility:** 0/33 keywords ranking (0%)
 
-## Site Index Verification (16 runs)
+## Site Index Verification (15 runs)
 
 - **Indexed pages found:** 0
 - **Index stats:** N/A
-- **Click verified:** 1/16 passed
-- **Click failed:** 15/16
+- **Click verified:** 1/15 passed
+- **Click failed:** 14/15
 
 ### Pages Clicked (random distribution)
 
@@ -61,8 +61,8 @@
 | #0 | - | - | No |
 | #1 | - | - | No |
 | #2 | - | - | No |
-| #3 | - | - | No |
-| #4 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #3 | /hang-moi-ve/ | Hàng mới về – Mẫu hoa cập nhật mới nhất  | Yes |
+| #4 | - | - | No |
 | #5 | - | - | No |
 | #6 | - | - | No |
 | #7 | - | - | No |
@@ -73,7 +73,6 @@
 | #12 | - | - | No |
 | #13 | - | - | No |
 | #14 | - | - | No |
-| #15 | - | - | No |
 
 ## Top Competitors
 | Domain | Hits |
@@ -165,10 +164,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 85% | 644ms | 0.001 | ? | 644ms | 1354ms |
-| /san-pham/ | 98% | 1143ms | 0 | ? | 562ms | 167ms |
-| /danh-muc/hoa-sinh-nhat/ | 95% | 1489ms | 0 | ? | 766ms | 200ms |
+| / | 97% | 336ms | 0.001 | ? | 303ms | 1626ms |
+| /san-pham/ | 99% | 862ms | 0 | ? | 501ms | 446ms |
+| /danh-muc/hoa-sinh-nhat/ | 97% | 1258ms | 0 | ? | 648ms | 107ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 87% | 1336ms | 0 | ? | 316ms | 103ms |
+| /amp/ | 86% | 1396ms | 0 | ? | 319ms | 86ms |
 
-**Pass rate:** 2/5 pages ≥ 90%
+**Pass rate:** 3/5 pages ≥ 90%
