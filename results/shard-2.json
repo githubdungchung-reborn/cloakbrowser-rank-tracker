@@ -2,16 +2,15 @@
   {
     "keyword": "điện hoa đà nẵng",
     "position": -1,
-    "topCompetitors": [
-      "tramhoa.com",
-      "tramhoa.com",
-      "tramhoa.com"
-    ],
+    "status": "captcha",
+    "pagesSearched": 1,
+    "timestamp": "2026-08-15T11:31:30.435Z"
+  },
+  {
+    "keyword": "điện hoa đà nẵng",
+    "position": -1,
+    "topCompetitors": [],
     "pagesSearched": 50,
-    "timestamp": "2026-08-14T17:08:11.971Z"
-  }
-] "topCompetitors": [],
-    "pagesSearched": 50,
-    "timestamp": "2026-08-15T06:55:10.183Z"
+    "timestamp": "2026-08-15T11:31:30.435Z"
   }
 ]
