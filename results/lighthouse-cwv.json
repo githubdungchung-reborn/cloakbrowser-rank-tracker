@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-08-14T23:33:51.970Z",
+  "timestamp": "2026-08-15T01:48:01.309Z",
   "domain": "hoatuoidanangnhanhi.com",
   "pages": [
     {
       "page": "/",
-      "score": null,
-      "lcp": null,
-      "cls": 0,
+      "score": 0.99,
+      "lcp": 564,
+      "cls": 0.001,
       "inp": null,
-      "fcp": 582,
-      "ttfb": 2983
+      "fcp": 564,
+      "ttfb": 997
     },
     {
       "page": "/san-pham/",
-      "score": 0.95,
-      "lcp": 1520,
+      "score": 0.99,
+      "lcp": 847,
       "cls": 0,
       "inp": null,
-      "fcp": 565,
-      "ttfb": 152
+      "fcp": 493,
+      "ttfb": 305
     },
     {
       "page": "/danh-muc/hoa-sinh-nhat/",
-      "score": 0.94,
-      "lcp": 1513,
-      "cls": 0,
+      "score": 0.97,
+      "lcp": 1209,
+      "cls": 0.022,
       "inp": null,
-      "fcp": 693,
-      "ttfb": 835
+      "fcp": 628,
+      "ttfb": 194
     },
     {
       "page": "/san-pham/bo-hoa-hong-do-dai/",
@@ -36,12 +36,12 @@
     },
     {
       "page": "/amp/",
-      "score": 0.85,
-      "lcp": 1501,
+      "score": 0.87,
+      "lcp": 1253,
       "cls": 0,
       "inp": null,
-      "fcp": 382,
-      "ttfb": 143
+      "fcp": 292,
+      "ttfb": 73
     }
   ]
 }
