@@ -1,5 +1,5 @@
 # Ranking Report — hoatuoidanangnhanhi.com
-**Updated:** 2026-08-21T07:12:14.652Z
+**Updated:** 2026-08-21T08:01:36.394Z
 
 ## Keyword Rankings
 
@@ -33,20 +33,19 @@
 | 26 | hoa sinh nhật đà nẵng | NOT FOUND | - | 50p | - |
 | 27 | hoa tulip đà nẵng | NOT FOUND | - | 1p | - |
 | 28 | hoa tulip đà nẵng | NOT FOUND | - | 50p | - |
-| 29 | hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 30 | hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 31 | hoa valentine đà nẵng | NOT FOUND | - | 1p | - |
-| 32 | hoa valentine đà nẵng | NOT FOUND | - | 50p | - |
-| 33 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 34 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 35 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
-| 36 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
-| 37 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
-| 38 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
-| 39 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
-| 40 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
+| 29 | hoa tươi đà nẵng | NOT FOUND | - | 50p | kimkieuflower.vn, facebook.com, flowercorner.vn |
+| 30 | hoa valentine đà nẵng | NOT FOUND | - | 1p | - |
+| 31 | hoa valentine đà nẵng | NOT FOUND | - | 50p | - |
+| 32 | mua hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 33 | mua hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 34 | shop hoa tươi đà nẵng | NOT FOUND | - | 1p | - |
+| 35 | shop hoa tươi đà nẵng | NOT FOUND | - | 50p | - |
+| 36 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 1p | - |
+| 37 | shop hoa tươi gần đây đà nẵng | NOT FOUND | - | 50p | - |
+| 38 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 1p | - |
+| 39 | shop hoa tươi giá rẻ đà nẵng | NOT FOUND | - | 50p | - |
 
-**Visibility:** 0/40 keywords ranking (0%)
+**Visibility:** 0/39 keywords ranking (0%)
 
 ## Site Index Verification (20 runs)
 
@@ -84,6 +83,13 @@
 | #17 | - | - | No |
 | #18 | - | - | No |
 | #19 | - | - | No |
+
+## Top Competitors
+| Domain | Hits |
+|--------|------|
+| kimkieuflower.vn | 1 |
+| facebook.com | 1 |
+| flowercorner.vn | 1 |
 
 ## CrUX Traffic Simulation
 
@@ -170,10 +176,10 @@
 
 | Page | Score | LCP | CLS | INP | FCP | TTFB |
 |------|-------|-----|-----|-----|-----|------|
-| / | 97% | 666ms | 0.001 | ? | 626ms | 1522ms |
-| /san-pham/ | 98% | 1087ms | 0 | ? | 536ms | 468ms |
-| /danh-muc/hoa-sinh-nhat/ | 97% | 1289ms | 0 | ? | 615ms | 420ms |
+| / | 98% | 702ms | 0.001 | ? | 657ms | 1315ms |
+| /san-pham/ | 98% | 1146ms | 0 | ? | 616ms | 124ms |
+| /danh-muc/hoa-sinh-nhat/ | 96% | 1365ms | 0 | ? | 689ms | 79ms |
 | /san-pham/bo-hoa-hong-do-dai/ | N/A | ? | ? | ? | ? | ? |
-| /amp/ | 88% | 1221ms | 0 | ? | 263ms | 61ms |
+| /amp/ | 86% | 1487ms | 0 | ? | 351ms | 117ms |
 
 **Pass rate:** 3/5 pages ≥ 90%

@@ -2,15 +2,12 @@
   {
     "keyword": "hoa tươi đà nẵng",
     "position": -1,
-    "status": "captcha",
-    "pagesSearched": 1,
-    "timestamp": "2026-08-21T03:12:55.214Z"
-  },
-  {
-    "keyword": "hoa tươi đà nẵng",
-    "position": -1,
-    "topCompetitors": [],
+    "topCompetitors": [
+      "kimkieuflower.vn",
+      "facebook.com",
+      "flowercorner.vn"
+    ],
     "pagesSearched": 50,
-    "timestamp": "2026-08-21T03:12:55.214Z"
+    "timestamp": "2026-08-21T07:54:22.628Z"
   }
 ]
